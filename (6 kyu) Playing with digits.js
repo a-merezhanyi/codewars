@@ -16,12 +16,11 @@
  * digPow(695, 2) should return 2 since 6² + 9³ + 5⁴= 1390 = 695 * 2
  * digPow(46288, 3) should return 51 since 4³ + 6⁴+ 2⁵ + 8⁶ + 8⁷ = 2360688 = 46288 * 51
 **/
-function digPow(n, p){
-  let t = 0;
+function digPow(n, p, t = 0){
   n.toString().split('').forEach((el, i) => {
     t += Math.pow(parseInt(el), p + i);
   });
-  
+
   let k = 1;
   while (k <= 0xFFFF) {
     if (n * k++ == t) {
