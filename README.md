@@ -5,6 +5,8 @@
 My Profile https://www.codewars.com/users/e1r0nd<br>
 My Solutions https://www.codewars.com/users/e1r0nd/completed
 
+[(6 kyu) Playing with digits.js]((6%20kyu)%20Playing%20with%20digits.js): [Description](https://www.codewars.com/kata/playing-with-digits)
+
 [(7 kyu) Complementary DNA.js]((7%20kyu)%20Complementary%20DNA.js): [Description](https://www.codewars.com/kata/complementary-dna/)
 
 [(7 kyu) Frequency sequence.js]((7%20kyu)%20Frequency%20sequence.js): [Description](https://www.codewars.com/kata/frequency-sequence/)
