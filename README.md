@@ -5,6 +5,8 @@
 My Profile https://www.codewars.com/users/e1r0nd<br>
 My Solutions https://www.codewars.com/users/e1r0nd/completed
 
+[(6 kyu) Follow that Spy.js]((6%20kyu)%20Follow%20that%20Spy.js): [Description](https://www.codewars.com/kata/follow-that-spy)
+
 [(6 kyu) IQ Test.js]((6%20kyu)%20IQ%20Test.js): [Description](https://www.codewars.com/kata/iq-test)
 
 [(6 kyu) Multiples of 3 and 5.js]((6%20kyu)%20Multiples%20of%203%20and%205.js): [Description](https://www.codewars.com/kata/multiples-of-3-and-5)
