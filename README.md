@@ -5,6 +5,8 @@
 My Profile https://www.codewars.com/users/e1r0nd<br>
 My Solutions https://www.codewars.com/users/e1r0nd/completed
 
+[(6 kyu) Find the odd int.js]((6%20kyu)%20Find%20the%20odd%20int.js): [Description](https://www.codewars.com/kata/find-the-odd-int)
+
 [(6 kyu) Follow that Spy.js]((6%20kyu)%20Follow%20that%20Spy.js): [Description](https://www.codewars.com/kata/follow-that-spy)
 
 [(6 kyu) IQ Test.js]((6%20kyu)%20IQ%20Test.js): [Description](https://www.codewars.com/kata/iq-test)
