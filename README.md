@@ -5,6 +5,8 @@
 My Profile https://www.codewars.com/users/e1r0nd<br>
 My Solutions https://www.codewars.com/users/e1r0nd/completed
 
+[(6 kyu) Decode the Morse code.js]((6%20kyu)%20Decode%20the%20Morse%20code.js): [Description](https://www.codewars.com/kata/decode-the-morse-code)
+
 [(6 kyu) Find the odd int.js]((6%20kyu)%20Find%20the%20odd%20int.js): [Description](https://www.codewars.com/kata/find-the-odd-int)
 
 [(6 kyu) Follow that Spy.js]((6%20kyu)%20Follow%20that%20Spy.js): [Description](https://www.codewars.com/kata/follow-that-spy)
