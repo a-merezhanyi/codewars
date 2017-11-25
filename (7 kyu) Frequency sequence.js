@@ -1,4 +1,4 @@
-/** Frequency sequence (7 kyu) https://www.codewars.com/kata/frequency-sequence/train/javascript
+/** Frequency sequence (7 kyu) https://www.codewars.com/kata/frequency-sequence/
  * Return an output string that translates an input string s/$s by
  * replacing each character in s/$s with a number representing the number
  * of times that character occurs in s/$s and separating each number with

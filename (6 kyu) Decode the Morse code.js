@@ -1,4 +1,4 @@
-/** Decode the Morse code (6 kyu) https://www.codewars.com/kata/decode-the-morse-code/train/javascript
+/** Decode the Morse code (6 kyu) https://www.codewars.com/kata/decode-the-morse-code/
  * In this kata you have to write a simple Morse code decoder. While the Morse
  * code is now mostly superceded by voice and digital data communication
  * channels, it still has its use in some applications around the world.
