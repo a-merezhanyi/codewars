@@ -5,6 +5,8 @@
 My Profile https://www.codewars.com/users/e1r0nd<br>
 My Solutions https://www.codewars.com/users/e1r0nd/completed
 
+[(4 kyu) Strip Comments.js]((4%20kyu)%20Strip%20Comments.js): [Description](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
+
 [(6 kyu) CamelCase Method.js]((6%20kyu)%20CamelCase%20Method.js): [Description](https://www.codewars.com/kata/camelcase-method)
 
 [(6 kyu) Decode the Morse code.js]((6%20kyu)%20Decode%20the%20Morse%20code.js): [Description](https://www.codewars.com/kata/decode-the-morse-code)
