@@ -7,6 +7,8 @@ My Solutions https://www.codewars.com/users/e1r0nd/completed
 
 [(4 kyu) Strip Comments.js]((4%20kyu)%20Strip%20Comments.js): [Description](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
 
+[(5 kyu) Calculating with Functions.js]((5%20kyu)%20Calculating%20with%20Functions.js): [Description](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/)
+
 [(6 kyu) CamelCase Method.js]((6%20kyu)%20CamelCase%20Method.js): [Description](https://www.codewars.com/kata/camelcase-method)
 
 [(6 kyu) Decode the Morse code.js]((6%20kyu)%20Decode%20the%20Morse%20code.js): [Description](https://www.codewars.com/kata/decode-the-morse-code)
