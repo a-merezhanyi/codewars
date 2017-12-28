@@ -5,6 +5,8 @@
 My Profile https://www.codewars.com/users/e1r0nd<br>
 My Solutions https://www.codewars.com/users/e1r0nd/completed
 
+[(4 kyu) Snail.js]((4%20kyu)%20Snail.js): [Description](https://www.codewars.com/kata/snail/javascript)
+
 [(4 kyu) Strip Comments.js]((4%20kyu)%20Strip%20Comments.js): [Description](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
 
 [(5 kyu) Calculating with Functions.js]((5%20kyu)%20Calculating%20with%20Functions.js): [Description](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/)
