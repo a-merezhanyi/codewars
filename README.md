@@ -5,6 +5,8 @@
 My Profile https://www.codewars.com/users/e1r0nd<br>
 My Solutions https://www.codewars.com/users/e1r0nd/completed
 
+[(4 kyu) Reverse it, quickly.js]((4%20kyu)%20Reverse%20it%2C%20quickly.js): [Description](https://www.codewars.com/kata/reverse-it-quickly)
+
 [(4 kyu) Snail.js]((4%20kyu)%20Snail.js): [Description](https://www.codewars.com/kata/snail/javascript)
 
 [(4 kyu) Strip Comments.js]((4%20kyu)%20Strip%20Comments.js): [Description](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
