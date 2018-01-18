@@ -11,9 +11,11 @@ My Solutions https://www.codewars.com/users/e1r0nd/completed
 
 [(4 kyu) Strip Comments.js]((4%20kyu)%20Strip%20Comments.js): [Description](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
 
-[(5 kyu) Ninety Nine Thousand Nine Hundred Ninety Nine.js]((5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.js): [Description](https://www.codewars.com/kata/5463c8db865001c1710003b2)
-
 [(5 kyu) Calculating with Functions.js]((5%20kyu)%20Calculating%20with%20Functions.js): [Description](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/)
+
+[(5 kyu) Memoized Fibonacci.js]((5%20kyu)%20Memoized%20Fibonacci.js): [Descriptoin](https://www.codewars.com/kata/memoized-fibonacci)
+
+[(5 kyu) Ninety Nine Thousand Nine Hundred Ninety Nine.js]((5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.js): [Description](https://www.codewars.com/kata/5463c8db865001c1710003b2)
 
 [(6 kyu) CamelCase Method.js]((6%20kyu)%20CamelCase%20Method.js): [Description](https://www.codewars.com/kata/camelcase-method)
 
