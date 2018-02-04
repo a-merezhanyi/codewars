@@ -1,4 +1,5 @@
-/** Jaden Casing Strings (7 kyu) https://www.codewars.com/kata/jaden-casing-strings/
+/** Jaden Casing Strings (7 kyu)
+ * https://www.codewars.com/kata/jaden-casing-strings/
  *
  * Jaden Smith, the son of Will Smith, is the star of films such as The Karate Kid (2010) and After Earth (2013).
  * Jaden is also known for some of his philosophy that he delivers via Twitter. When writing on Twitter
@@ -13,9 +14,8 @@
  * Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
 **/
 String.prototype.toJadenCase = function () {
-  var arr = this.split(' ');
-  for (var i = 0; i < arr.length; i++) {
-    arr[i] = arr[i][0].toUpperCase() + arr[i].slice(1);
-  }
-  return arr.join(' ');
+  return this
+    .split` `
+    .map(s => s[0].toUpperCase() + s.slice(1))
+    .join` `;
 };
