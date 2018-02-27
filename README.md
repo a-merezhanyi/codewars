@@ -13,9 +13,11 @@ My Solutions https://www.codewars.com/users/e1r0nd/completed
 
 [(4 kyu) Strip Comments.js]((4%20kyu)%20Strip%20Comments.js): [Description](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
 
+[(5 kyu) Calculating with Functions.js]((5%20kyu)%20Calculating%20with%20Functions.js): [Description](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/)
+
 [(5 kyu) Human Readable Time.js]((5%20kyu)%20Human%20Readable%20Time.js): [Description](https://www.codewars.com/kata/human-readable-time)
 
-[(5 kyu) Calculating with Functions.js]((5%20kyu)%20Calculating%20with%20Functions.js): [Description](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/)
+[(5 kyu) Fibonacci Generator.js]((5%20kyu)%20Fibonacci%20Generator.js) : [Description](https://www.codewars.com/kata/522498c9906b0cfcb40001fc)
 
 [(5 kyu) Memoized Fibonacci.js]((5%20kyu)%20Memoized%20Fibonacci.js): [Descriptoin](https://www.codewars.com/kata/memoized-fibonacci)
 
