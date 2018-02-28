@@ -15,6 +15,8 @@ My Solutions https://www.codewars.com/users/e1r0nd/completed
 
 [(5 kyu) Calculating with Functions.js]((5%20kyu)%20Calculating%20with%20Functions.js): [Description](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/)
 
+[(5 kyu) Count IP Addresses.js]((5%20kyu)%20Count%20IP%20Addresses.js) : [Description](https://www.codewars.com/kata/526989a41034285187000de4)
+
 [(5 kyu) Human Readable Time.js]((5%20kyu)%20Human%20Readable%20Time.js): [Description](https://www.codewars.com/kata/human-readable-time)
 
 [(5 kyu) Fibonacci Generator.js]((5%20kyu)%20Fibonacci%20Generator.js) : [Description](https://www.codewars.com/kata/522498c9906b0cfcb40001fc)
