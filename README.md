@@ -5,6 +5,8 @@
 My Profile https://www.codewars.com/users/e1r0nd<br>
 My Solutions https://www.codewars.com/users/e1r0nd/completed
 
+[(4 kyu) Human readable duration format.js]((4%20kyu)%20Human%20readable%20duration%20format.js): [Description](https://www.codewars.com/kata/human-readable-duration-format)
+
 [(4 kyu) IP Validation.js]((4%20kyu)%20IP%20Validation.js): [Description](https://www.codewars.com/kata/ip-validation)
 
 [(4 kyu) Range Extraction.js]((4%20kyu)%20Range%20Extraction.js): [Description](https://www.codewars.com/kata/range-extraction)
