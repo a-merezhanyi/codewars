@@ -5,6 +5,8 @@
 My Profile https://www.codewars.com/users/e1r0nd<br>
 My Solutions https://www.codewars.com/users/e1r0nd/completed
 
+[(3 kyu) The soul of wit - reverse an array.js]((3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.js): [Description](https://www.codewars.com/kata/the-soul-of-wit-reverse-an-array)
+
 [(4 kyu) Human readable duration format.js]((4%20kyu)%20Human%20readable%20duration%20format.js): [Description](https://www.codewars.com/kata/human-readable-duration-format)
 
 [(4 kyu) IP Validation.js]((4%20kyu)%20IP%20Validation.js): [Description](https://www.codewars.com/kata/ip-validation)
