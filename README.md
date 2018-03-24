@@ -3,7 +3,8 @@
 ### My solutions for Codewars' Kata https://www.codewars.com
 
 My Profile https://www.codewars.com/users/e1r0nd<br>
-My Solutions https://www.codewars.com/users/e1r0nd/completed
+
+![](https://www.codewars.com/users/e1r0nd/badges/large)
 
 [(3 kyu) The soul of wit - reverse an array.js]((3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.js): [Description](https://www.codewars.com/kata/the-soul-of-wit-reverse-an-array)
 
