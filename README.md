@@ -8,7 +8,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 
 [(3 kyu) The soul of wit - reverse an array.js]((3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.js): [Description](https://www.codewars.com/kata/the-soul-of-wit-reverse-an-array)
 
-Decode the Morse code, advanced (4 kyu)
+[(4 kyu) Decode the Morse code, advanced.js]((4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced.js): [Description](https://www.codewars.com/kata/decode-the-morse-code-advanced)
 
 [(4 kyu) Human readable duration format.js]((4%20kyu)%20Human%20readable%20duration%20format.js): [Description](https://www.codewars.com/kata/human-readable-duration-format)
 
