@@ -6,6 +6,8 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 
 ![](https://www.codewars.com/users/e1r0nd/badges/large)
 
+[(3 kyu) Base64 Encoding.js]((3%20kyu)%20Base64%20Encoding.js): [Description](https://www.codewars.com/kata/5270f22f862516c686000161)
+
 [(3 kyu) The soul of wit - reverse an array.js]((3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.js): [Description](https://www.codewars.com/kata/the-soul-of-wit-reverse-an-array)
 
 [(4 kyu) Decode the Morse code, advanced.js]((4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced.js): [Description](https://www.codewars.com/kata/decode-the-morse-code-advanced)
