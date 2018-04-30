@@ -64,5 +64,6 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 
 [(7 kyu) Mumbling.js]((7%20kyu)%20Mumbling.js): [Description](https://www.codewars.com/kata/mumbling/)
 
-
 [(8 kyu) Multiply.js]((8%20kyu)%20Multiply.js): [Description](https://www.codewars.com/kata/multiply/)
+
+[(8 kyu) The Feast of Many Beasts.js]((8%20kyu)%20The%20Feast%20of%20Many%20Beasts.js): [Description](https://www.codewars.com/kata/the-feast-of-many-beasts/)
