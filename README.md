@@ -62,9 +62,9 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 
 [(7 kyu) Jaden Casing Strings.js]((7%20kyu)%20Jaden%20Casing%20Strings.js): [Description](https://www.codewars.com/kata/jaden-casing-strings/)
 
-[(8 kyu) Find the smallest integer in the array.js]((8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.js): [Description](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array)
-
 [(7 kyu) Mumbling.js]((7%20kyu)%20Mumbling.js): [Description](https://www.codewars.com/kata/mumbling/)
+
+[(8 kyu) Find the smallest integer in the array.js]((8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.js): [Description](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array)
 
 [(8 kyu) Multiply.js]((8%20kyu)%20Multiply.js): [Description](https://www.codewars.com/kata/multiply/)
 
