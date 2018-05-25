@@ -64,6 +64,8 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 
 [(7 kyu) Mumbling.js]((7%20kyu)%20Mumbling.js): [Description](https://www.codewars.com/kata/mumbling/)
 
+[(8 kyu) Abbreviate a Two Word Name.js]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.js): [Description](https://www.codewars.com/kata/abbreviate-a-two-word-name)
+
 [(8 kyu) Basic subclasses - Adam and Eve.js]((8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.js): [Description](https://www.codewars.com/kata/547274e24481cfc469000416/)
 
 [(8 kyu) Find the smallest integer in the array.js]((8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.js): [Description](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array)
