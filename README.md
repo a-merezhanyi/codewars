@@ -76,4 +76,6 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 
 [(8 kyu) Reversed sequence.js](<(8%20kyu)%20Reversed%20sequence.js>): [Description](https://www.codewars.com/kata/reversed-sequence)
 
+[(8 kyu) Sort and Star.js]((8%20kyu)%20Sort%20and%20Star.js): [Description](https://www.codewars.com/kata/sort-and-star)
+
 [(8 kyu) The Feast of Many Beasts.js](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.js>): [Description](https://www.codewars.com/kata/the-feast-of-many-beasts/)
