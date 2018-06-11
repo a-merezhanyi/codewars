@@ -52,6 +52,8 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 
 [(6 kyu) Playing with digits.js](<(6%20kyu)%20Playing%20with%20digits.js>): [Description](https://www.codewars.com/kata/playing-with-digits)
 
+[(6 kyu) Square Digits Sequence.js]((6%20kyu)%20Square%20Digits%20Sequence.js): [Description](https://www.codewars.com/kata/simple-fun-number-23-square-digits-sequence)
+
 [(7 kyu) Canvas Fun 1 - Draw Lines.js]((7%20kyu)%20Canvas%20Fun%201%20-%20Draw%20Lines.js): [Description](http://www.codewars.com/kata/canvas-fun-number-1-draw-lines)
 
 [(7 kyu) Complementary DNA.js](<(7%20kyu)%20Complementary%20DNA.js>): [Description](https://www.codewars.com/kata/complementary-dna/)
