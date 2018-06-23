@@ -42,6 +42,8 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 
 [(6 kyu) Decode the Morse code.js](<(6%20kyu)%20Decode%20the%20Morse%20code.js>): [Description](https://www.codewars.com/kata/decode-the-morse-code)
 
+[(6 kyu) Fibonacci Generator Function.js]((6%20kyu)%20Fibonacci%20Generator%20Function.js): [Description](https://www.codewars.com/kata/fibonacci-generator-function)
+
 [(6 kyu) Find the odd int.js](<(6%20kyu)%20Find%20the%20odd%20int.js>): [Description](https://www.codewars.com/kata/find-the-odd-int)
 
 [(6 kyu) Follow that Spy.js](<(6%20kyu)%20Follow%20that%20Spy.js>): [Description](https://www.codewars.com/kata/follow-that-spy)
@@ -51,6 +53,10 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [(6 kyu) Multiples of 3 and 5.js](<(6%20kyu)%20Multiples%20of%203%20and%205.js>): [Description](https://www.codewars.com/kata/multiples-of-3-and-5)
 
 [(6 kyu) Playing with digits.js](<(6%20kyu)%20Playing%20with%20digits.js>): [Description](https://www.codewars.com/kata/playing-with-digits)
+
+[(6 kyu) Square Digits Sequence.js]((6%20kyu)%20Square%20Digits%20Sequence.js): [Description](https://www.codewars.com/kata/simple-fun-number-23-square-digits-sequence)
+
+[(7 kyu) Canvas Fun 1 - Draw Lines.js]((7%20kyu)%20Canvas%20Fun%201%20-%20Draw%20Lines.js): [Description](http://www.codewars.com/kata/canvas-fun-number-1-draw-lines)
 
 [(7 kyu) Complementary DNA.js](<(7%20kyu)%20Complementary%20DNA.js>): [Description](https://www.codewars.com/kata/complementary-dna/)
 
@@ -63,6 +69,8 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [(7 kyu) Jaden Casing Strings.js](<(7%20kyu)%20Jaden%20Casing%20Strings.js>): [Description](https://www.codewars.com/kata/jaden-casing-strings/)
 
 [(7 kyu) Mumbling.js](<(7%20kyu)%20Mumbling.js>): [Description](https://www.codewars.com/kata/mumbling/)
+
+[(7 kyu) Recursion 2 - Fibonacci.js]((7%20kyu)%20Recursion%202%20-%20Fibonacci.js): [Description](https://www.codewars.com/kata/recursion-number-2-fibonacci/)
 
 [(8 kyu) Abbreviate a Two Word Name.js](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.js>): [Description](https://www.codewars.com/kata/abbreviate-a-two-word-name)
 
