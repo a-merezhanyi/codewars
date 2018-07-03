@@ -80,7 +80,10 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 
 [(8 kyu) If you can't sleep, just count sheeps.js](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.js>): [Description](https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheeps)
 
-[(8 kyu) Multiply.js](<(8%20kyu)%20Multiply.js>): [Description](https://www.codewars.com/kata/multiply/)
+**Multiply: [Description](https://www.codewars.com/kata/multiply/)**<br>
+[(8 kyu) Multiply.js](<(8%20kyu)%20Multiply.js>)<br>
+[(8 kyu) Multiply.py]((8%20kyu)%20Multiply.py)<br>
+[(8 kyu) Multiply.rs]((8%20kyu)%20Multiply.rs)
 
 [(8 kyu) Reversed sequence.js](<(8%20kyu)%20Reversed%20sequence.js>): [Description](https://www.codewars.com/kata/reversed-sequence)
 
