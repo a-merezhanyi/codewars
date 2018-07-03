@@ -10,4 +10,6 @@
 //     return str.split("").reverse().join("");
 // }
 // #2
-const solution = (s) => s.split``.reverse().join``;
+// const solution = (s) => s.split``.reverse().join``
+// #3
+const solution = (s) => [...s].reverse().join``;
