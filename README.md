@@ -80,12 +80,17 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 
 [(8 kyu) If you can't sleep, just count sheeps.js](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.js>): [Description](https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheeps)
 
-**Multiply: [Description](https://www.codewars.com/kata/multiply/)**<br>
+**(8 kyu) Multiply: [Description](https://www.codewars.com/kata/multiply/)**<br>
 [(8 kyu) Multiply.js](<(8%20kyu)%20Multiply.js>)<br>
 [(8 kyu) Multiply.py]((8%20kyu)%20Multiply.py)<br>
 [(8 kyu) Multiply.rs]((8%20kyu)%20Multiply.rs)
 
 [(8 kyu) Reversed sequence.js](<(8%20kyu)%20Reversed%20sequence.js>): [Description](https://www.codewars.com/kata/reversed-sequence)
+
+**(8 kyu) Reversed Strings: [Description](https://www.codewars.com/kata/reversed-strings)**<br>
+[(8 kyu) Reversed Strings.js]((8%20kyu)%20Reversed%20Strings.js)<br>
+[(8 kyu) Reversed Strings.py]((8%20kyu)%20Reversed%20Strings.py)<br>
+[(8 kyu) Reversed Strings.rs]((8%20kyu)%20Reversed%20Strings.rs)
 
 [(8 kyu) Sort and Star.js]((8%20kyu)%20Sort%20and%20Star.js): [Description](https://www.codewars.com/kata/sort-and-star)
 
