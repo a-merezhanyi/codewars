@@ -11,5 +11,5 @@ def reverse_seq(n):
     #     for i in range(n):
     #         arr.append(n - i)
     #     return arr
-    # 2
+    # #2
     return [x for x in range(n, 0, -1)]
