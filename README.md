@@ -85,7 +85,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [(8 kyu) Multiply.py]((8%20kyu)%20Multiply.py)<br>
 [(8 kyu) Multiply.rs]((8%20kyu)%20Multiply.rs)
 
-**Reversed sequence: [Description](https://www.codewars.com/kata/reversed-sequence)**<br>
+**(8 kyu) Reversed sequence: [Description](https://www.codewars.com/kata/reversed-sequence)**<br>
 [(8 kyu) Reversed sequence.js](<(8%20kyu)%20Reversed%20sequence.js>)<br>
 [(8 kyu) Reversed sequence.py]((8%20kyu)%20Reversed%20sequence.py)<br>
 [(8 kyu) Reversed sequence.rs]((8%20kyu)%20Reversed%20sequence.rs)
