@@ -7,11 +7,9 @@ letters.
 You should not remove or add elements from/to the array.
 """
 
-# #1
-# def two_sort(array):
-#     return "***".join(list(sorted(array)[0]))
-# #2
-
 
 def two_sort(array):
+    # #1
+    #     return "***".join(list(sorted(array)[0]))
+    # #2
     return '***'.join(min(array))
