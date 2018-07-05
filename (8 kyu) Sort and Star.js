@@ -6,11 +6,19 @@
  * letters.
  * You should not remove or add elements from/to the array.
  */
-function twoSort(s) {
-  return s
-    .sort(/*(a, b) => a < b ? -1 : 1*/)[0]
-    .split("")
-    .join("***");
-}
-
-// const twoSort = s => [...s.sort()[0]].join('***');
+// #1
+// function twoSort(s) {
+//   return s
+//     .sort((a, b) => a < b ? -1 : 1)[0]
+//     .split("")
+//     .join("***");
+// }
+// #2
+// function twoSort(s) {
+//   return s
+//     .sort()[0]
+//     .split("")
+//     .join("***");
+// }
+// #3
+const twoSort = (s) => [...s.sort()[0]].join('***');
