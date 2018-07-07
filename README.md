@@ -98,7 +98,10 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [(8 kyu) Reversed Strings.py]((8%20kyu)%20Reversed%20Strings.py)<br>
 [(8 kyu) Reversed Strings.rs]((8%20kyu)%20Reversed%20Strings.rs)
 
-[(8 kyu) Sort and Star.js]((8%20kyu)%20Sort%20and%20Star.js): [Description](https://www.codewars.com/kata/sort-and-star)
+**(8 kyu) Sort and Star: [Description](https://www.codewars.com/kata/sort-and-star)**<br>
+[(8 kyu) Sort and Star.js]((8%20kyu)%20Sort%20and%20Star.js)<br>
+[(8 kyu) Sort and Star.py]((8%20kyu)%20Sort%20and%20Star.py)<br>
+[(8 kyu) Sort and Star.rs]((8%20kyu)%20Sort%20and%20Star.rs)
 
 **(8 kyu) The Feast of Many Beasts: [Description](https://www.codewars.com/kata/the-feast-of-many-beasts/)**<br>
 [(8 kyu) The Feast of Many Beasts.js](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.js>)<br>
