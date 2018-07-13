@@ -15,9 +15,13 @@ DNAStrand ("ATTGC") # return "TAACG"
 DNAStrand ("GTAT") # return "CATA"
 """
 def DNA_strand(dna):
-    dna = dna.replace("A", "t")
-    dna = dna.replace("T", "a")
-    dna = dna.replace("C", "g")
-    dna = dna.replace("G", "c")
+    # #1
+    # dna = dna.replace("A", "t")
+    # dna = dna.replace("T", "a")
+    # dna = dna.replace("C", "g")
+    # dna = dna.replace("G", "c")
     
-    return dna.upper()
+    # return dna.upper()
+    # #2
+    # Python 3.4
+    return dna.translate(str.maketrans("ATCG","TAGC"))
