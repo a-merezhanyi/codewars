@@ -7,6 +7,4 @@ But can you do it in 1 line of code and without any conditionals?
 # def opposite(number):
 #   return -number
 # #2
-
-
-def opposite(number): return -number
+opposite = lambda n: -n
