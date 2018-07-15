@@ -14,5 +14,10 @@ Example:
 Not Jaden-Cased: "How can mirrors be real if our eyes aren't real"
 Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
 """
+
+
 def toJadenCase(string):
-    return " ".join([c[0].upper() + c[1::] for c in string.split()])
+    # #1
+    # return " ".join([c[0].upper() + c[1::] for c in string.split()])
+    # 2
+    return " ".join(c.capitalize() for c in string.split())
