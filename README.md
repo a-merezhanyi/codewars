@@ -77,11 +77,17 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [(7 kyu) Remove duplicate words.py]((7%20kyu)%20Remove%20duplicate%20words.py)<br>
 [(7 kyu) Remove duplicate words.rs]((7%20kyu)%20Remove%20duplicate%20words.rs)
 
-[(8 kyu) Abbreviate a Two Word Name.js](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.js>): [Description](https://www.codewars.com/kata/abbreviate-a-two-word-name)
+**(8 kyu) Abbreviate a Two Word Name: [Description](https://www.codewars.com/kata/abbreviate-a-two-word-name)**<br>
+[(8 kyu) Abbreviate a Two Word Name.js](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.js>)<br>
+[(8 kyu) Abbreviate a Two Word Name.py](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.py>)<br>
+[(8 kyu) Abbreviate a Two Word Name.rs](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.rs>)
 
 [(8 kyu) Basic subclasses - Adam and Eve.js](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.js>): [Description](https://www.codewars.com/kata/547274e24481cfc469000416/)
 
-[(8 kyu) Find the smallest integer in the array.js](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.js>): [Description](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array)
+**(8 kyu) Find the smallest integer in the array: [Description](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array)**<br>
+[(8 kyu) Find the smallest integer in the array.js](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.js>)<br>
+[(8 kyu) Find the smallest integer in the array.py](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.py>)<br>
+[(8 kyu) Find the smallest integer in the array.rs](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.rs>)
 
 **(8 kyu) If you can't sleep, just count sheeps: [Description](https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheeps)**<br>
 [(8 kyu) If you can't sleep, just count sheeps.js](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.js>)<br>
