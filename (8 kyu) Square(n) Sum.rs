@@ -13,5 +13,7 @@ fn square_sum(vec: Vec<i32>) -> i32 {
     // }
     // res
     // #2
-    vec.iter().fold(0, |sum, x| sum + (x * x))
+    // vec.iter().fold(0, |sum, x| sum + (x * x))
+    // #3
+    vec.iter().map(|x| x * x).sum()
 }
