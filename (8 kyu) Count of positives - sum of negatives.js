@@ -28,7 +28,7 @@ function countPositivesSumNegatives(input) {
   return input && input.length
     ? input.reduce(
         (p, x) => {
-          x <= 0 ? (p[1] += x) : (p[0] += 1);
+          x > 0 ? p[0]++ : (p[1] += x);
           return p;
         },
         [0, 0],
