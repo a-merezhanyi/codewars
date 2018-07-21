@@ -77,10 +77,11 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [(7 kyu) Remove duplicate words.py]((7%20kyu)%20Remove%20duplicate%20words.py)<br>
 [(7 kyu) Remove duplicate words.rs]((7%20kyu)%20Remove%20duplicate%20words.rs)
 
-**(8 kyu) Abbreviate a Two Word Name: [Description](https://www.codewars.com/kata/abbreviate-a-two-word-name)**<br>
-[(8 kyu) Abbreviate a Two Word Name.js](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.js>)<br>
-[(8 kyu) Abbreviate a Two Word Name.py](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.py>)<br>
-[(8 kyu) Abbreviate a Two Word Name.rs](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.rs>)
+**[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
+([Description]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md)) :
+[[JavaScript]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.js)]
+/ [[Python]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.py)]
+/ [[Rust]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.rs)]
 
 [(8 kyu) Basic subclasses - Adam and Eve.js](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.js>): [Description](https://www.codewars.com/kata/547274e24481cfc469000416/)
 
