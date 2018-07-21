@@ -16,5 +16,7 @@ fn repeat_str(src: &str, count: usize) -> String {
     // str = src.repeat(count);
     // return str;
     // #3
+    // (0..count).map(|_| src).collect()
+    // #4
     src.repeat(count)
 }
