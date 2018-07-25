@@ -12,4 +12,6 @@ reverseWords("The greatest victory is that which requires no battle")
 //   return str.split` `.reverse().join` `;
 // }
 // #2
-const reverseWords = (str) => str.split` `.reverse().join` `;
+// const reverseWords = (str) => str.split` `.reverse().join` `;
+// #3
+const reverseWords = (s) => s.match(/\S+/g).reverse().join` `;
