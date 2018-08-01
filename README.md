@@ -83,6 +83,11 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 / [[Python]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.py)]
 / [[Rust]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.rs)]
 
+**[(8 kyu) Count of positives - sum of negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)** ([Description]((8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.md)) :
+[[JavaScript]((8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.js)]
+/ [[Python]((8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.py)]
+/ [[Rust]((8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.rs)]
+
 [(8 kyu) Basic subclasses - Adam and Eve.js](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.js>): [Description](https://www.codewars.com/kata/547274e24481cfc469000416/)
 
 **[(8 kyu) Find the smallest integer in the array](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array)**
