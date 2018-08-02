@@ -13,13 +13,29 @@
 //     res
 // }
 // #2
+// fn high_and_low(numbers: &str) -> String {
+//     let arr_str = String::from(numbers);
+//     let arr_num: Vec<i32> = arr_str
+//         .split_whitespace()
+//         .map(|s| s.parse::<i32>().unwrap())
+//         .collect();
+//     let low = arr_num.iter().min().unwrap();
+//     let high = arr_num.iter().max().unwrap();
+//     format!("{} {}", high, low)
+// }
+// #3
 fn high_and_low(numbers: &str) -> String {
-    let arr_str = String::from(numbers);
-    let arr_num: Vec<i32> = arr_str
-        .split_whitespace()
-        .map(|x| x.parse::<i32>().unwrap())
-        .collect();
-    let low = arr_num.iter().min().unwrap();
-    let high = arr_num.iter().max().unwrap();
-    format!("{} {}", high, low)
+    format!(
+        "{} {}",
+        numbers
+            .split_whitespace()
+            .map(|s| s.parse::<i64>().unwrap())
+            .max()
+            .unwrap(),
+        numbers
+            .split_whitespace()
+            .map(|s| s.parse::<i64>().unwrap())
+            .min()
+            .unwrap()
+    )
 }
