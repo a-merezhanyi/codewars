@@ -126,7 +126,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [(8 kyu) The Feast of Many Beasts.py]((8%20kyu)%20The%20Feast%20of%20Many%20Beasts.py)<br>
 [(8 kyu) The Feast of Many Beasts.rs]((8%20kyu)%20The%20Feast%20of%20Many%20Beasts.rs)
 
-**(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe: [Description](http://www.codewars.com/kata/alternating-case-%3C-equals-%3E-alternating-case)**<br>
-[(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe.js]((8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.js)<br>
-[(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe.py]((8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.py)<br>
-[(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe.rs]((8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.rs)
+**[(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe](http://www.codewars.com/kata/alternating-case-%3C-equals-%3E-alternating-case)**  ([Description]((8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.md)) :
+[[JavaScript]((8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.js)]
+/ [[Python]((8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.py)]
+/ [[Rust]((8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.rs)]
