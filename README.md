@@ -121,10 +121,11 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [(8 kyu) Sort and Star.py]((8%20kyu)%20Sort%20and%20Star.py)<br>
 [(8 kyu) Sort and Star.rs]((8%20kyu)%20Sort%20and%20Star.rs)
 
-**(8 kyu) The Feast of Many Beasts: [Description](https://www.codewars.com/kata/the-feast-of-many-beasts/)**<br>
-[(8 kyu) The Feast of Many Beasts.js](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.js>)<br>
-[(8 kyu) The Feast of Many Beasts.py]((8%20kyu)%20The%20Feast%20of%20Many%20Beasts.py)<br>
-[(8 kyu) The Feast of Many Beasts.rs]((8%20kyu)%20The%20Feast%20of%20Many%20Beasts.rs)
+**[(8 kyu) The Feast of Many Beasts](https://www.codewars.com/kata/the-feast-of-many-beasts/)**
+([Description]((8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.md)) :
+[[JavaScript]((8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.js)]
+/ [[Python]((8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.py)]
+/ [[Rust]((8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.rs)]
 
 **[(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe](http://www.codewars.com/kata/alternating-case-%3C-equals-%3E-alternating-case)**  ([Description]((8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.md)) :
 [[JavaScript]((8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.js)]
