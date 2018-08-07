@@ -121,6 +121,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [(8 kyu) Sort and Star.py]((8%20kyu)%20Sort%20and%20Star.py)<br>
 [(8 kyu) Sort and Star.rs]((8%20kyu)%20Sort%20and%20Star.rs)
 
+**[(8 kyu) String repeat](https://www.codewars.com/kata/string-repeat)**
+([Description]((8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.md)) :
+[[JavaScript]((8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.js)]
+/ [[Python]((8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.py)]
+/ [[Rust]((8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.rs)]
+
 **[(8 kyu) The Feast of Many Beasts](https://www.codewars.com/kata/the-feast-of-many-beasts/)**
 ([Description]((8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.md)) :
 [[JavaScript]((8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.js)]
