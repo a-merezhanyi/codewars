@@ -121,6 +121,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [(8 kyu) Sort and Star.py]((8%20kyu)%20Sort%20and%20Star.py)<br>
 [(8 kyu) Sort and Star.rs]((8%20kyu)%20Sort%20and%20Star.rs)
 
+**[(8 kyu) Square(n) Sum](https://www.codewars.com/kata/square-n-sum)**
+([Description]((8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.md)) :
+[[JavaScript]((8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.js)]
+/ [[Python]((8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.py)]
+/ [[Rust]((8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.rs)]
+
 **[(8 kyu) String repeat](https://www.codewars.com/kata/string-repeat)**
 ([Description]((8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.md)) :
 [[JavaScript]((8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.js)]
