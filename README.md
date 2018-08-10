@@ -116,10 +116,11 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [(8 kyu) Reversed Strings.py]((8%20kyu)%20Reversed%20Strings.py)<br>
 [(8 kyu) Reversed Strings.rs]((8%20kyu)%20Reversed%20Strings.rs)
 
-**(8 kyu) Sort and Star: [Description](https://www.codewars.com/kata/sort-and-star)**<br>
-[(8 kyu) Sort and Star.js]((8%20kyu)%20Sort%20and%20Star.js)<br>
-[(8 kyu) Sort and Star.py]((8%20kyu)%20Sort%20and%20Star.py)<br>
-[(8 kyu) Sort and Star.rs]((8%20kyu)%20Sort%20and%20Star.rs)
+**[(8 kyu) Sort and Star](https://www.codewars.com/kata/sort-and-star)**
+([Description]((8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.md)) :
+[[JavaScript]((8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.js)]
+/ [[Python]((8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.py)]
+/ [[Rust]((8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.rs)]
 
 **[(8 kyu) Square(n) Sum](https://www.codewars.com/kata/square-n-sum)**
 ([Description]((8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.md)) :
