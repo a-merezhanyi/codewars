@@ -111,6 +111,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [(8 kyu) Reversed Strings.py]((8%20kyu)%20Reversed%20Strings.py)<br>
 [(8 kyu) Reversed Strings.rs]((8%20kyu)%20Reversed%20Strings.rs)
 
+**[(8 kyu) Reversed Words](https://www.codewars.com/kata/reversed-words)**
+([Description]((8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.md)) :
+[[JavaScript]((8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.js)]
+/ [[Python]((8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.py)]
+/ [[Rust]((8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.rs)]
+
 **[(8 kyu) Reversed sequence](https://www.codewars.com/kata/reversed-sequence)**
 ([Description]((8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.md)) :
 [[JavaScript]((8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.js)]
