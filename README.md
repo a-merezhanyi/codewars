@@ -106,10 +106,17 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [(8 kyu) Multiply.py]((8%20kyu)%20Multiply.py)<br>
 [(8 kyu) Multiply.rs]((8%20kyu)%20Multiply.rs)
 
-**(8 kyu) Reversed Strings: [Description](https://www.codewars.com/kata/reversed-strings)**<br>
-[(8 kyu) Reversed Strings.js]((8%20kyu)%20Reversed%20Strings.js)<br>
-[(8 kyu) Reversed Strings.py]((8%20kyu)%20Reversed%20Strings.py)<br>
-[(8 kyu) Reversed Strings.rs]((8%20kyu)%20Reversed%20Strings.rs)
+**[(8 kyu) Remove String Spaces](https://www.codewars.com/kata/remove-string-spaces)**
+([Description]((8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.md)) :
+[[JavaScript]((8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.js)]
+/ [[Python]((8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.py)]
+/ [[Rust]((8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.rs)]
+
+**[(8 kyu) Reversed Strings](https://www.codewars.com/kata/reversed-strings)**
+([Description]((8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.md)) :
+[[JavaScript]((8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.js)]
+/ [[Python]((8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.py)]
+/ [[Rust]((8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.rs)]
 
 **[(8 kyu) Reversed Words](https://www.codewars.com/kata/reversed-words)**
 ([Description]((8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.md)) :
