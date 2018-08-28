@@ -106,6 +106,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [(8 kyu) Multiply.py]((8%20kyu)%20Multiply.py)<br>
 [(8 kyu) Multiply.rs]((8%20kyu)%20Multiply.rs)
 
+**[(8 kyu) Opposite number](https://www.codewars.com/kata/opposite-number)**
+([Description]((8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.md)) :
+[[JavaScript]((8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.js)]
+/ [[Python]((8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.py)]
+/ [[Rust]((8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.rs)]
+
 **[(8 kyu) Remove String Spaces](https://www.codewars.com/kata/remove-string-spaces)**
 ([Description]((8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.md)) :
 [[JavaScript]((8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.js)]
