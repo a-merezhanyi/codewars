@@ -101,65 +101,66 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [(8 kyu) If you can't sleep, just count sheeps.py](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.py>)<br>
 [(8 kyu) If you can't sleep, just count sheeps.rs](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.rs>)
 
-**(8 kyu) Multiply: [Description](https://www.codewars.com/kata/multiply/)**<br>
-[(8 kyu) Multiply.js](<(8%20kyu)%20Multiply.js>)<br>
-[(8 kyu) Multiply.py]((8%20kyu)%20Multiply.py)<br>
-[(8 kyu) Multiply.rs]((8%20kyu)%20Multiply.rs)
-
+**[(8 kyu) Multiply](https://www.codewars.com/kata/multiply/)**
+([Description]((8%20kyu)%20Multiply/(8%20kyu)%20Multiply.md)) :
+[[JavaScript]((8%20kyu)%20Multiply/(8%20kyu)%20Multiply.js)]
+/ [[Python]((8%20kyu)%20Multiply/(8%20kyu)%20Multiply.py)]
+/ [[Rust]((8%20kyu)%20Multiply/(8%20kyu)%20Multiply.rs)]
+<br>
 **[(8 kyu) Opposite number](https://www.codewars.com/kata/opposite-number)**
 ([Description]((8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.md)) :
 [[JavaScript]((8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.js)]
 / [[Python]((8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.py)]
 / [[Rust]((8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.rs)]
-
+<br>
 **[(8 kyu) Remove String Spaces](https://www.codewars.com/kata/remove-string-spaces)**
 ([Description]((8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.md)) :
 [[JavaScript]((8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.js)]
 / [[Python]((8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.py)]
 / [[Rust]((8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.rs)]
-
+<br>
 **[(8 kyu) Reversed Strings](https://www.codewars.com/kata/reversed-strings)**
 ([Description]((8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.md)) :
 [[JavaScript]((8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.js)]
 / [[Python]((8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.py)]
 / [[Rust]((8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.rs)]
-
+<br>
 **[(8 kyu) Reversed Words](https://www.codewars.com/kata/reversed-words)**
 ([Description]((8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.md)) :
 [[JavaScript]((8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.js)]
 / [[Python]((8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.py)]
 / [[Rust]((8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.rs)]
-
+<br>
 **[(8 kyu) Reversed sequence](https://www.codewars.com/kata/reversed-sequence)**
 ([Description]((8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.md)) :
 [[JavaScript]((8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.js)]
 / [[Python]((8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.py)]
 / [[Rust]((8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.rs)]
-
+<br>
 **[(8 kyu) Sort and Star](https://www.codewars.com/kata/sort-and-star)**
 ([Description]((8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.md)) :
 [[JavaScript]((8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.js)]
 / [[Python]((8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.py)]
 / [[Rust]((8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.rs)]
-
+<br>
 **[(8 kyu) Square(n) Sum](https://www.codewars.com/kata/square-n-sum)**
 ([Description]((8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.md)) :
 [[JavaScript]((8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.js)]
 / [[Python]((8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.py)]
 / [[Rust]((8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.rs)]
-
+<br>
 **[(8 kyu) String repeat](https://www.codewars.com/kata/string-repeat)**
 ([Description]((8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.md)) :
 [[JavaScript]((8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.js)]
 / [[Python]((8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.py)]
 / [[Rust]((8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.rs)]
-
+<br>
 **[(8 kyu) The Feast of Many Beasts](https://www.codewars.com/kata/the-feast-of-many-beasts/)**
 ([Description]((8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.md)) :
 [[JavaScript]((8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.js)]
 / [[Python]((8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.py)]
 / [[Rust]((8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.rs)]
-
+<br>
 **[(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe](http://www.codewars.com/kata/alternating-case-%3C-equals-%3E-alternating-case)**  ([Description]((8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.md)) :
 [[JavaScript]((8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.js)]
 / [[Python]((8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.py)]
