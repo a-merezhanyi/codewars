@@ -101,6 +101,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [(8 kyu) If you can't sleep, just count sheeps.py](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.py>)<br>
 [(8 kyu) If you can't sleep, just count sheeps.rs](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.rs>)
 
+**[(8 kyu) Jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)**
+([Description]((8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.md)) :
+[[JavaScript]((8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.js)]
+/ [[Python]((8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.py)]
+/ [[Rust]((8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.rs)]
+<br>
 **[(8 kyu) Multiply](https://www.codewars.com/kata/multiply/)**
 ([Description]((8%20kyu)%20Multiply/(8%20kyu)%20Multiply.md)) :
 [[JavaScript]((8%20kyu)%20Multiply/(8%20kyu)%20Multiply.js)]
