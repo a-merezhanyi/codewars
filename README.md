@@ -96,11 +96,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 / [[Python](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.py>)]
 / [[Rust](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.rs>)]
 
-**(8 kyu) If you can't sleep, just count sheeps: [Description](https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheeps)**<br>
-[(8 kyu) If you can't sleep, just count sheeps.js](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.js>)<br>
-[(8 kyu) If you can't sleep, just count sheeps.py](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.py>)<br>
-[(8 kyu) If you can't sleep, just count sheeps.rs](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.rs>)
-
+**[(8 kyu) If you can't sleep, just count sheeps](https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep)**
+([Description]((8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.md)) :
+[[JavaScript]((8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.js)]
+/ [[Python]((8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.py)]
+/ [[Rust]((8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.rs)]
+<br>
 **[(8 kyu) Jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)**
 ([Description]((8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.md)) :
 [[JavaScript]((8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.js)]
