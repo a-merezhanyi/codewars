@@ -88,14 +88,18 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 / [[Python]((8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.py)]
 / [[Rust]((8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.rs)]
 
-[(8 kyu) Basic subclasses - Adam and Eve.js](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.js>): [Description](https://www.codewars.com/kata/547274e24481cfc469000416/)
-
+**[(8 kyu) Even or Odd](https://www.codewars.com/kata/even-or-odd)**
+([Description]((8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.md)) :
+[[JavaScript]((8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.js)]
+/ [[Python]((8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.py)]
+/ [[Rust]((8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.rs)]
+<br>
 **[(8 kyu) Find the smallest integer in the array](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array)**
 ([Description]((8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.md)) :
 [[JavaScript](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.js>)]
 / [[Python](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.py>)]
 / [[Rust](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.rs>)]
-
+<br>
 **[(8 kyu) If you can't sleep, just count sheeps](https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep)**
 ([Description]((8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.md)) :
 [[JavaScript]((8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.js)]
@@ -172,3 +176,6 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [[JavaScript]((8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.js)]
 / [[Python]((8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.py)]
 / [[Rust]((8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.rs)]
+
+
+[(8 kyu) Basic subclasses - Adam and Eve.js](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.js>): [Description](https://www.codewars.com/kata/547274e24481cfc469000416/)
