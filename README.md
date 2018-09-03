@@ -72,22 +72,41 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 
 [(7 kyu) Recursion 2 - Fibonacci.js]((7%20kyu)%20Recursion%202%20-%20Fibonacci.js): [Description](https://www.codewars.com/kata/recursion-number-2-fibonacci/)
 
-**(7 kyu) Remove duplicate words: [Description](http://www.codewars.com/kata/remove-duplicate-words)**<br>
-[(7 kyu) Remove duplicate words.js]((7%20kyu)%20Remove%20duplicate%20words.js)<br>
-[(7 kyu) Remove duplicate words.py]((7%20kyu)%20Remove%20duplicate%20words.py)<br>
-[(7 kyu) Remove duplicate words.rs]((7%20kyu)%20Remove%20duplicate%20words.rs)
-
+**[]**
+([Description](
+[[JavaScript](
+/ [[Python](
+/ [[Rust](
+<br>
+**[(7 kyu) Remove duplicate words](http://www.codewars.com/kata/remove-duplicate-words)**
+([Description]((7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.md)) :
+[[JavaScript]((7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.js)]
+/ [[Python]((7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.py)]
+/ [[Rust]((7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.rs)]
+<br>
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md)) :
 [[JavaScript]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.js)]
 / [[Python]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.py)]
 / [[Rust]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.rs)]
-
+<br>
 **[(8 kyu) Count of positives - sum of negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)** ([Description]((8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.md)) :
 [[JavaScript]((8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.js)]
 / [[Python]((8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.py)]
 / [[Rust]((8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.rs)]
-
+<br>
+**[(8 kyu) Counting sheep](https://www.codewars.com/kata/counting-sheep-dot-dot-dot)**
+([Description]((8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.md)) :
+[[JavaScript]((8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.js)]
+/ [[Python]((8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.py)]
+/ [[Rust]((8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.rs)}
+<br>
+**[(8 kyu) DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion)**
+([Description]((8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.md)) :
+[[JavaScript]((8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.js)] :
+/ [[Python]((8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.py)]
+/ [[Rust]((8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.rs)]
+<br>
 **[(8 kyu) Even or Odd](https://www.codewars.com/kata/even-or-odd)**
 ([Description]((8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.md)) :
 [[JavaScript]((8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.js)]
