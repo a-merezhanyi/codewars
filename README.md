@@ -90,6 +90,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 / [[Python]((7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.py)]
 / [[Rust]((7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.rs)]
 <br>
+**[(7 kyu) Shortest Word](http://www.codewars.com/kata/shortest-word/)**
+([Description]((7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.md)) :
+[[JavaScript]((7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.js)]
+/ [[Python]((7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.py)]
+/ [[Rust]((7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.rs)]
+<br>
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md)) :
 [[JavaScript]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.js)]
