@@ -62,8 +62,6 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 <br>
 [(7 kyu) Get the Middle Character.js](<(7%20kyu)%20Get%20the%20Middle%20Character.js>): [Description](https://www.codewars.com/kata/get-the-middle-character/)
 <br>
-[(7 kyu) Mumbling.js](<(7%20kyu)%20Mumbling.js>): [Description](https://www.codewars.com/kata/mumbling/)
-<br>
 [(7 kyu) Recursion 2 - Fibonacci.js]((7%20kyu)%20Recursion%202%20-%20Fibonacci.js): [Description](https://www.codewars.com/kata/recursion-number-2-fibonacci/)
 
 **[(7 kyu) Complementary DNA](https://www.codewars.com/kata/complementary-dna/)**
@@ -83,6 +81,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [[JavaScript]((7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.js)]
 / [[Python]((7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.py)]
 / [[Rust]((7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.rs)]
+<br>
+**[(7 kyu) Mumbling](https://www.codewars.com/kata/mumbling/)**
+([Description]((7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.md)) :
+[[JavaScript]((7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.js)]
+/ [[Python]((7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.py)]
+/ [[Rust]((7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.rs)]
 <br>
 **[(7 kyu) Remove duplicate words](http://www.codewars.com/kata/remove-duplicate-words)**
 ([Description]((7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.md)) :
