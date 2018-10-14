@@ -60,8 +60,6 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 <br>
 [(7 kyu) Frequency sequence.js](<(7%20kyu)%20Frequency%20sequence.js>): [Description](https://www.codewars.com/kata/frequency-sequence/)
 <br>
-[(7 kyu) Get the Middle Character.js](<(7%20kyu)%20Get%20the%20Middle%20Character.js>): [Description](https://www.codewars.com/kata/get-the-middle-character/)
-<br>
 [(7 kyu) Recursion 2 - Fibonacci.js]((7%20kyu)%20Recursion%202%20-%20Fibonacci.js): [Description](https://www.codewars.com/kata/recursion-number-2-fibonacci/)
 
 **[(7 kyu) Complementary DNA](https://www.codewars.com/kata/complementary-dna/)**
@@ -69,6 +67,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [[JavaScript]((7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.js)]
 / [[Python]((7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.py)]
 / [[Rust]((7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.rs)]
+<br>
+**[(7 kyu) Get the Middle Character](https://www.codewars.com/kata/get-the-middle-character/)**
+([Description]((7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.md)) :
+[[JavaScript]((7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.js)]
+/ [[Python]((7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.py)]
+/ [[Rust]((7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.rs)]
 <br>
 **[(7 kyu) Highest and Lowest](https://www.codewars.com/kata/highest-and-lowest)**
 ([Description]((7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.md)) :
