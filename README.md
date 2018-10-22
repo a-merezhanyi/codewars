@@ -60,10 +60,6 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 <br>
 [(7 kyu) Frequency sequence.js](<(7%20kyu)%20Frequency%20sequence.js>): [Description](https://www.codewars.com/kata/frequency-sequence/)
 <br>
-[(7 kyu) Get the Middle Character.js](<(7%20kyu)%20Get%20the%20Middle%20Character.js>): [Description](https://www.codewars.com/kata/get-the-middle-character/)
-<br>
-[(7 kyu) Mumbling.js](<(7%20kyu)%20Mumbling.js>): [Description](https://www.codewars.com/kata/mumbling/)
-<br>
 [(7 kyu) Recursion 2 - Fibonacci.js]((7%20kyu)%20Recursion%202%20-%20Fibonacci.js): [Description](https://www.codewars.com/kata/recursion-number-2-fibonacci/)
 
 **[(7 kyu) Complementary DNA](https://www.codewars.com/kata/complementary-dna/)**
@@ -71,6 +67,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [[JavaScript]((7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.js)]
 / [[Python]((7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.py)]
 / [[Rust]((7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.rs)]
+<br>
+**[(7 kyu) Get the Middle Character](https://www.codewars.com/kata/get-the-middle-character/)**
+([Description]((7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.md)) :
+[[JavaScript]((7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.js)]
+/ [[Python]((7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.py)]
+/ [[Rust]((7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.rs)]
 <br>
 **[(7 kyu) Highest and Lowest](https://www.codewars.com/kata/highest-and-lowest)**
 ([Description]((7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.md)) :
@@ -84,11 +86,23 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 / [[Python]((7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.py)]
 / [[Rust]((7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.rs)]
 <br>
+**[(7 kyu) Mumbling](https://www.codewars.com/kata/mumbling/)**
+([Description]((7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.md)) :
+[[JavaScript]((7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.js)]
+/ [[Python]((7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.py)]
+/ [[Rust]((7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.rs)]
+<br>
 **[(7 kyu) Remove duplicate words](http://www.codewars.com/kata/remove-duplicate-words)**
 ([Description]((7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.md)) :
 [[JavaScript]((7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.js)]
 / [[Python]((7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.py)]
 / [[Rust]((7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.rs)]
+<br>
+**[(7 kyu) Shortest Word](http://www.codewars.com/kata/shortest-word/)**
+([Description]((7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.md)) :
+[[JavaScript]((7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.js)]
+/ [[Python]((7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.py)]
+/ [[Rust]((7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.rs)]
 <br>
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md)) :
