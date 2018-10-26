@@ -104,6 +104,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 / [[Python]((7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.py)]
 / [[Rust]((7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.rs)]
 <br>
+**[(7 kyu) String ends with](https://www.codewars.com/kata/string-ends-with/)**
+([Description]((7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.md)) :
+[[JavaScript]((7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.js)]
+/ [[Python]((7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.py)]
+/ [[Rust]((7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.rs)]
+<br>
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md)) :
 [[JavaScript]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.js)]
