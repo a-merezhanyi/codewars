@@ -92,6 +92,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 / [[Python]((7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.py)]
 / [[Rust]((7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.rs)]
 <br>
+**[(7 kyu) Number of People in the Bus](https://www.codewars.com/kata/number-of-people-in-the-bus/)**
+([Description]((7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.md)) :
+[[JavaScript]((7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.js)]
+/ [[Python]((7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.py)]
+/ [[Rust]((7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.rs)]
+<br>
 **[(7 kyu) Remove duplicate words](http://www.codewars.com/kata/remove-duplicate-words)**
 ([Description]((7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.md)) :
 [[JavaScript]((7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.js)]
@@ -103,6 +109,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [[JavaScript]((7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.js)]
 / [[Python]((7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.py)]
 / [[Rust]((7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.rs)]
+<br>
+**[(7 kyu) String ends with](https://www.codewars.com/kata/string-ends-with/)**
+([Description]((7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.md)) :
+[[JavaScript]((7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.js)]
+/ [[Python]((7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.py)]
+/ [[Rust]((7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.rs)]
 <br>
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md)) :
