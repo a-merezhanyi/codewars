@@ -116,6 +116,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 / [[Python]((7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.py)]
 / [[Rust]((7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.rs)]
 <br>
+**[(7 kyu) Thinkful - String Drills. Repeater](https://www.codewars.com/kata/thinkful-string-drills-repeater/)**
+([Description]((7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.md)) :
+[[JavaScript]((7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.js)]
+/ [[Python]((7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.py)]
+/ [[Rust]((7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.rs)]
+<br>
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md)) :
 [[JavaScript]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.js)]
