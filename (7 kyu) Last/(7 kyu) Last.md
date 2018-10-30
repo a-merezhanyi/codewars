@@ -1,6 +1,6 @@
 # Last (7 kyu)
 
-https://www.codewars.com/kata/541629460b198da04e000bb9/solutions/rust
+https://www.codewars.com/kata/541629460b198da04e000bb9
 
 Find the last element of the given argument(s).
 
