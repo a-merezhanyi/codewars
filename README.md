@@ -86,6 +86,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 / [[Python]((7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.py)]
 / [[Rust]((7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.rs)]
 <br>
+**[(7 kyu) Last](https://www.codewars.com/kata/541629460b198da04e000bb9)**
+([Description]((7%20kyu)%20Last/(7%20kyu)%20Last.md)) :
+[[JavaScript]((7%20kyu)%20Last/(7%20kyu)%20Last.js)]
+/ [[Python]((7%20kyu)%20Last/(7%20kyu)%20Last.py)]
+/ [[Rust]((7%20kyu)%20Last/(7%20kyu)%20Last.rs)]
+<br>
 **[(7 kyu) Mumbling](https://www.codewars.com/kata/mumbling/)**
 ([Description]((7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.md)) :
 [[JavaScript]((7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.js)]
@@ -115,6 +121,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [[JavaScript]((7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.js)]
 / [[Python]((7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.py)]
 / [[Rust]((7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.rs)]
+<br>
+**[(7 kyu) Thinkful - String Drills. Repeater](https://www.codewars.com/kata/thinkful-string-drills-repeater/)**
+([Description]((7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.md)) :
+[[JavaScript]((7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.js)]
+/ [[Python]((7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.py)]
+/ [[Rust]((7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.rs)]
 <br>
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description]((8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md)) :
