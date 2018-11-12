@@ -2,8 +2,8 @@
 // function maxNumber(n) {
 //   const str = String(n);
 //   const arr = str.split('');
-//   const arrS = arr.sort((a, b) => b - a);
-//   const res = arrS.join('');
+//   arr.sort((a, b) => b - a);
+//   const res = arr.join('');
 //   return parseInt(res);
 // }
 // #2
