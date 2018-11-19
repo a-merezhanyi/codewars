@@ -74,6 +74,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 / [[Python](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.py>)]
 / [[Rust](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.rs>)]
 <br>
+**[(7 kyu) Frequency sequence](https://www.codewars.com/kata/frequency-sequence/)**
+([Description](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.md>)) :
+[[JavaScript](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.js>)]
+/ [[Python](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.py>)]
+/ [[Rust](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.rs>)]
+<br>
 **[(7 kyu) Get the Middle Character](https://www.codewars.com/kata/get-the-middle-character/)**
 ([Description](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.md>)) :
 [[JavaScript](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.js>)]
@@ -144,7 +150,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 ([Description](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>)) :
 [[JavaScript](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.js>)]
 / [[Python](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.py>)]
-/ [[Rust](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.rs>)]
+/ [[Rust](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.rs>)] -- [JS Video Tutorial](https://www.youtube.com/watch?v=hz0Ydr6UXQk)
 <br>
 **[(8 kyu) Century From Year](https://www.codewars.com/kata/century-from-year/)** ([Description](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.md>)) :
 [[JavaScript](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.js>)]
