@@ -62,6 +62,24 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 / [[Python](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.py>)]
 / [[Rust](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.rs>)]
 <br>
+**[(7 kyu) Exes and Ohs](https://www.codewars.com/kata/exes-and-ohs/)**
+([Description](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.md>)) :
+[[JavaScript](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.js>)]
+/ [[Python](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.py>)]
+/ [[Rust](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.rs>)]
+<br>
+**[(7 kyu) Form The Minimum](https://www.codewars.com/kata/form-the-minimum)**
+([Description](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.md>)) :
+[[JavaScript](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.js>)]
+/ [[Python](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.py>)]
+/ [[Rust](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.rs>)]
+<br>
+**[(7 kyu) Frequency sequence](https://www.codewars.com/kata/frequency-sequence/)**
+([Description](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.md>)) :
+[[JavaScript](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.js>)]
+/ [[Python](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.py>)]
+/ [[Rust](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.rs>)]
+<br>
 **[(7 kyu) Get the Middle Character](https://www.codewars.com/kata/get-the-middle-character/)**
 ([Description](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.md>)) :
 [[JavaScript](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.js>)]
@@ -132,7 +150,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 ([Description](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>)) :
 [[JavaScript](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.js>)]
 / [[Python](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.py>)]
-/ [[Rust](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.rs>)]
+/ [[Rust](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.rs>)] -- [JS Video Tutorial](https://www.youtube.com/watch?v=hz0Ydr6UXQk)
+<br>
+**[(8 kyu) Century From Year](https://www.codewars.com/kata/century-from-year/)** ([Description](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.md>)) :
+[[JavaScript](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.js>)]
+/ [[Python](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.py>)]
+/ [[Rust](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.rs>)]
 <br>
 **[(8 kyu) Count of positives - sum of negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)** ([Description](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.md>)) :
 [[JavaScript](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.js>)]
@@ -192,6 +215,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [[JavaScript](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.js>)]
 / [[Python](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.py>)]
 / [[Rust](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.rs>)]
+<br>
+**[(8 kyu) Return Negative](https://www.codewars.com/kata/return-negative)**
+([Description](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.md>)) :
+[[JavaScript](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.js>)]
+/ [[Python](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.py>)]
+/ [[Rust](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.rs>)]
 <br>
 **[(8 kyu) Reversed Strings](https://www.codewars.com/kata/reversed-strings)**
 ([Description](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.md>)) :
