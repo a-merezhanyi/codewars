@@ -68,6 +68,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 / [[Python](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.py>)]
 / [[Rust](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.rs>)]
 <br>
+**[(7 kyu) Form The Largest](https://www.codewars.com/kata/form-the-largest)**
+([Description](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.md>)) :
+[[JavaScript](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.js>)]
+/ [[Python](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.py>)]
+/ [[Rust](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.rs>)]
+<br>
 **[(7 kyu) Form The Minimum](https://www.codewars.com/kata/form-the-minimum)**
 ([Description](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.md>)) :
 [[JavaScript](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.js>)]
