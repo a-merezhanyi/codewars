@@ -56,6 +56,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 <br>
 [(6 kyu) Square Digits Sequence.js](<(6%20kyu)%20Square%20Digits%20Sequence.js>): [Description](https://www.codewars.com/kata/simple-fun-number-23-square-digits-sequence)
 
+**[(7 kyu) Build a square](https://www.codewars.com/kata/build-a-square/)**
+([Description](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.md>)) :
+[[JavaScript](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.js>)]
+/ [[Python](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.py>)]
+/ [[Rust](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.rs>)]
+<br>
 **[(7 kyu) Complementary DNA](https://www.codewars.com/kata/complementary-dna/)**
 ([Description](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.md>)) :
 [[JavaScript](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.js>)]
