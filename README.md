@@ -160,9 +160,6 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 
 [(7 kyu) Canvas Fun 1 - Draw Lines.js](<(7%20kyu)%20Canvas%20Fun%201%20-%20Draw%20Lines.js>): [Description](http://www.codewars.com/kata/canvas-fun-number-1-draw-lines)
 <br>
-[(7 kyu) Frequency sequence.js](<(7%20kyu)%20Frequency%20sequence.js>): [Description](https://www.codewars.com/kata/frequency-sequence/)
-<br>
-[(7 kyu) Recursion 2 - Fibonacci.js](<(7%20kyu)%20Recursion%202%20-%20Fibonacci.js>): [Description](https://www.codewars.com/kata/recursion-number-2-fibonacci/)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>)) :
