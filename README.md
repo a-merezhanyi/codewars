@@ -2,6 +2,8 @@
 
 ### My solutions for Codewars' Kata https://www.codewars.com
 
+### A collection of TDD katas (simple programs) written in JavaScript, TypeScript, Python and Rust to learn and have fun!
+
 My Profile https://www.codewars.com/users/e1r0nd<br>
 
 ![](https://www.codewars.com/users/e1r0nd/badges/large)
