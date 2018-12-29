@@ -218,6 +218,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(8 kyu) Multiply](https://www.codewars.com/kata/multiply/)**
 ([Description](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.md>)) :
 [[JavaScript](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.js>)]
+/ [[TypeScript](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.ts>)]
 / [[Python](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.py>)]
 / [[Rust](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.rs>)] -- [JS Video Tutorial](https://www.youtube.com/watch?v=cxNFuXg66sg)
 <br>
