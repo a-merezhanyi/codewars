@@ -40,7 +40,6 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 <br>
 [(5 kyu) Ninety Nine Thousand Nine Hundred Ninety Nine.js](<(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.js>): [Description](https://www.codewars.com/kata/5463c8db865001c1710003b2)
 
-
 **[(6 kyu) CamelCase Method](https://www.codewars.com/kata/camelcase-method/)**
 ([Description](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.md>)) :
 [[JavaScript](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.js>)]
@@ -223,7 +222,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 ([Description](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.md>)) :
 [[JavaScript](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.js>)]
 / [[Python](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.py>)]
-/ [[Rust](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.rs>)}
+/ [[Rust](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.rs>)]
 <br>
 **[(8 kyu) DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion)**
 ([Description](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.md>)) :
