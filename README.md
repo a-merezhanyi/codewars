@@ -40,8 +40,20 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 <br>
 [(5 kyu) Ninety Nine Thousand Nine Hundred Ninety Nine.js](<(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.js>): [Description](https://www.codewars.com/kata/5463c8db865001c1710003b2)
 
-[(6 kyu) CamelCase Method.js](<(6%20kyu)%20CamelCase%20Method.js>): [Description](https://www.codewars.com/kata/camelcase-method)
+
+**[(6 kyu) CamelCase Method](https://www.codewars.com/kata/camelcase-method/)**
+([Description](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.md>)) :
+[[JavaScript](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.js>)]
+/ [[Python](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.py>)]
+/ [[Rust](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.rs>)]
 <br>
+**[(6 kyu) Multiples of 3 or 5](https://www.codewars.com/kata/multiples-of-3-or-5/)**
+([Description](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.md>)) :
+[[JavaScript](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.js>)]
+/ [[Python](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.py>)]
+/ [[Rust](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.rs>)]
+<br>
+
 [(6 kyu) Decode the Morse code.js](<(6%20kyu)%20Decode%20the%20Morse%20code.js>): [Description](https://www.codewars.com/kata/decode-the-morse-code)
 <br>
 [(6 kyu) Fibonacci Generator Function.js](<(6%20kyu)%20Fibonacci%20Generator%20Function.js>): [Description](https://www.codewars.com/kata/fibonacci-generator-function)
@@ -51,8 +63,6 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [(6 kyu) Follow that Spy.js](<(6%20kyu)%20Follow%20that%20Spy.js>): [Description](https://www.codewars.com/kata/follow-that-spy)
 <br>
 [(6 kyu) IQ Test.js](<(6%20kyu)%20IQ%20Test.js>): [Description](https://www.codewars.com/kata/iq-test)
-<br>
-[(6 kyu) Multiples of 3 and 5.js](<(6%20kyu)%20Multiples%20of%203%20and%205.js>): [Description](https://www.codewars.com/kata/multiples-of-3-and-5)
 <br>
 [(6 kyu) Playing with digits.js](<(6%20kyu)%20Playing%20with%20digits.js>): [Description](https://www.codewars.com/kata/playing-with-digits)
 <br>
@@ -69,6 +79,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [[JavaScript](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.js>)]
 / [[Python](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.py>)]
 / [[Rust](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.rs>)]
+<br>
+**[(7 kyu) Even numbers in an array](https://www.codewars.com/kata/even-numbers-in-an-array/)**
+([Description](<(7%20kyu)%20Even%20numbers%20in%20an%20array/(7%20kyu)%20Even%20numbers%20in%20an%20array.md>)) :
+[[JavaScript](<(7%20kyu)%20Even%20numbers%20in%20an%20array/(7%20kyu)%20Even%20numbers%20in%20an%20array.js>)]
+/ [[Python](<(7%20kyu)%20Even%20numbers%20in%20an%20array/(7%20kyu)%20Even%20numbers%20in%20an%20array.py>)]
+/ [[Rust](<(7%20kyu)%20Even%20numbers%20in%20an%20array/(7%20kyu)%20Even%20numbers%20in%20an%20array.rs>)]
 <br>
 **[(7 kyu) Exes and Ohs](https://www.codewars.com/kata/exes-and-ohs/)**
 ([Description](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.md>)) :
@@ -148,6 +164,18 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 / [[Python](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.py>)]
 / [[Rust](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.rs>)]
 <br>
+**[(7 kyu) Simple beads count](https://www.codewars.com/kata/simple-beads-count)**
+([Description](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.md>)) :
+[[JavaScript](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.js>)]
+/ [[Python](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.py>)]
+/ [[Rust](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.rs>)]
+<br>
+**[(7 kyu) Sort Numbers](https://www.codewars.com/kata/sort-numbers/)**
+([Description](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.md>)) :
+[[JavaScript](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.js>)]
+/ [[Python](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.py>)]
+/ [[Rust](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.rs>)]
+<br>
 **[(7 kyu) String ends with](https://www.codewars.com/kata/string-ends-with/)**
 ([Description](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.md>)) :
 [[JavaScript](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.js>)]
@@ -159,6 +187,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [[JavaScript](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.js>)]
 / [[Python](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.py>)]
 / [[Rust](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.rs>)]
+<br>
+**[(7 kyu) Two to One](https://www.codewars.com/kata/two-to-one/)**
+([Description](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.md>)) :
+[[JavaScript](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.js>)]
+/ [[Python](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.py>)]
+/ [[Rust](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.rs>)]
 
 [(7 kyu) Canvas Fun 1 - Draw Lines.js](<(7%20kyu)%20Canvas%20Fun%201%20-%20Draw%20Lines.js>): [Description](http://www.codewars.com/kata/canvas-fun-number-1-draw-lines)
 <br>
@@ -168,6 +202,12 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [[JavaScript](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.js>)]
 / [[Python](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.py>)]
 / [[Rust](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.rs>)] -- [JS Video Tutorial](https://www.youtube.com/watch?v=hz0Ydr6UXQk)
+<br>
+**[(8 kyu) Basic subclasses - Adam and Eve](https://www.codewars.com/kata/547274e24481cfc469000416)**
+([Description](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.md>)) :
+[[JavaScript](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.js>)]
+/ [[TypeScript](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.ts>)]
+/ [[Python](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.py>)]
 <br>
 **[(8 kyu) Century From Year](https://www.codewars.com/kata/century-from-year/)** ([Description](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.md>)) :
 [[JavaScript](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.js>)]
@@ -286,5 +326,3 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [[JavaScript](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.js>)]
 / [[Python](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.py>)]
 / [[Rust](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.rs>)]
-
-[(8 kyu) Basic subclasses - Adam and Eve.js](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.js>): [Description](https://www.codewars.com/kata/547274e24481cfc469000416/)
