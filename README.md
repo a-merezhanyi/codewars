@@ -199,6 +199,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>)) :
 [[JavaScript](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.js>)]
+/ [[TypeScript](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.ts>)]
 / [[Python](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.py>)]
 / [[Rust](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.rs>)] -- [JS Video Tutorial](https://www.youtube.com/watch?v=hz0Ydr6UXQk)
 <br>
@@ -323,5 +324,6 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 <br>
 **[(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe](http://www.codewars.com/kata/alternating-case-%3C-equals-%3E-alternating-case)** ([Description](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.md>)) :
 [[JavaScript](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.js>)]
+/ [[TypeScript](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.ts>)]
 / [[Python](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.py>)]
 / [[Rust](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.rs>)]
