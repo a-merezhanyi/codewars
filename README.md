@@ -289,36 +289,42 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(8 kyu) Reversed Words](https://www.codewars.com/kata/reversed-words)**
 ([Description](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.md>)) :
 [[JavaScript](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.js>)]
+/ [[TypeScript](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.ts>)]
 / [[Python](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.py>)]
 / [[Rust](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.rs>)]
 <br>
 **[(8 kyu) Reversed sequence](https://www.codewars.com/kata/reversed-sequence)**
 ([Description](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.md>)) :
 [[JavaScript](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.js>)]
+/ [[TypeScript](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.ts>)]
 / [[Python](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.py>)]
 / [[Rust](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.rs>)]
 <br>
 **[(8 kyu) Sort and Star](https://www.codewars.com/kata/sort-and-star)**
 ([Description](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.md>)) :
 [[JavaScript](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.js>)]
+/ [[TypeScript](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.ts>)]
 / [[Python](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.py>)]
 / [[Rust](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.rs>)]
 <br>
 **[(8 kyu) Square(n) Sum](https://www.codewars.com/kata/square-n-sum)**
 ([Description](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.md>)) :
 [[JavaScript](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.js>)]
+/ [[TypeScript](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.ts>)]
 / [[Python](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.py>)]
 / [[Rust](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.rs>)]
 <br>
 **[(8 kyu) String repeat](https://www.codewars.com/kata/string-repeat)**
 ([Description](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.md>)) :
 [[JavaScript](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.js>)]
+/ [[TypeScript](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.ts>)]
 / [[Python](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.py>)]
 / [[Rust](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.rs>)]
 <br>
 **[(8 kyu) The Feast of Many Beasts](https://www.codewars.com/kata/the-feast-of-many-beasts/)**
 ([Description](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.md>)) :
 [[JavaScript](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.js>)]
+/ [[TypeScript](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.ts>)]
 / [[Python](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.py>)]
 / [[Rust](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.rs>)] -- [JS Video Tutorial](https://www.youtube.com/watch?v=Di_bIEh-y2U)
 <br>
