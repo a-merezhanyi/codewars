@@ -211,17 +211,20 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 <br>
 **[(8 kyu) Century From Year](https://www.codewars.com/kata/century-from-year/)** ([Description](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.md>)) :
 [[JavaScript](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.js>)]
+/ [[TypeScript](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.ts>)]
 / [[Python](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.py>)]
 / [[Rust](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.rs>)] -- [JS Video Tutorial](https://www.youtube.com/watch?v=r4FcQieqKFM)
 <br>
 **[(8 kyu) Count of positives - sum of negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)** ([Description](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.md>)) :
 [[JavaScript](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.js>)]
+/ [[TypeScript](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.ts>)]
 / [[Python](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.py>)]
 / [[Rust](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.rs>)]
 <br>
 **[(8 kyu) Counting sheep](https://www.codewars.com/kata/counting-sheep-dot-dot-dot)**
 ([Description](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.md>)) :
 [[JavaScript](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.js>)]
+/ [[TypeScript](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.ts>)]
 / [[Python](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.py>)]
 / [[Rust](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.rs>)]
 <br>
