@@ -271,18 +271,21 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(8 kyu) Remove String Spaces](https://www.codewars.com/kata/remove-string-spaces)**
 ([Description](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.md>)) :
 [[JavaScript](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.js>)]
+/ [[TypeScript](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.ts>)]
 / [[Python](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.py>)]
 / [[Rust](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.rs>)]
 <br>
 **[(8 kyu) Return Negative](https://www.codewars.com/kata/return-negative)**
 ([Description](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.md>)) :
 [[JavaScript](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.js>)]
+/ [[TypeScript](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.ts>)]
 / [[Python](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.py>)]
 / [[Rust](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.rs>)] -- [JS Video Tutorial](https://www.youtube.com/watch?v=kimI2oIJd_0)
 <br>
 **[(8 kyu) Reversed Strings](https://www.codewars.com/kata/reversed-strings)**
 ([Description](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.md>)) :
 [[JavaScript](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.js>)]
+/ [[TypeScript](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.ts>)]
 / [[Python](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.py>)]
 / [[Rust](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.rs>)]
 <br>
