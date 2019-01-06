@@ -227,31 +227,36 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 <br>
 **[(8 kyu) DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion)**
 ([Description](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.md>)) :
-[[JavaScript](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.js>)] :
+[[JavaScript](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.js>)]
+/ [[TypeScript](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.ts>)]
 / [[Python](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.py>)]
 / [[Rust](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.rs>)]
 <br>
 **[(8 kyu) Even or Odd](https://www.codewars.com/kata/even-or-odd)**
 ([Description](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.md>)) :
 [[JavaScript](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.js>)]
+/ [[TypeScript](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.ts>)]
 / [[Python](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.py>)]
 / [[Rust](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.rs>)]
 <br>
 **[(8 kyu) Find the smallest integer in the array](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array)**
 ([Description](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.md>)) :
 [[JavaScript](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.js>)]
+/ [[TypeScript](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.ts>)]
 / [[Python](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.py>)]
 / [[Rust](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.rs>)]
 <br>
-**[(8 kyu) If you can't sleep, just count sheeps](https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep)**
-([Description](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.md>)) :
-[[JavaScript](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.js>)]
-/ [[Python](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.py>)]
-/ [[Rust](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheeps.rs>)]
+**[(8 kyu) If you can't sleep, just count sheep](https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep)**
+([Description](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.md>)) :
+[[JavaScript](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.js>)]
+/ [[TypeScript](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.ts>)]
+/ [[Python](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.py>)]
+/ [[Rust](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.rs>)]
 <br>
 **[(8 kyu) Jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)**
 ([Description](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.md>)) :
 [[JavaScript](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.js>)]
+/ [[TypeScript](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.ts>)]
 / [[Python](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.py>)]
 / [[Rust](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.rs>)]
 <br>
@@ -265,6 +270,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(8 kyu) Opposite number](https://www.codewars.com/kata/opposite-number)**
 ([Description](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.md>)) :
 [[JavaScript](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.js>)]
+/ [[TypeScript](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.ts>)]
 / [[Python](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.py>)]
 / [[Rust](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.rs>)]
 <br>
