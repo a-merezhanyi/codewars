@@ -160,12 +160,14 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(7 kyu) Shortest Word](http://www.codewars.com/kata/shortest-word/)**
 ([Description](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.md>)) :
 [[JavaScript](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.js>)]
+/ [[TypeScript](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.ts>)]
 / [[Python](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.py>)]
 / [[Rust](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.rs>)]
 <br>
 **[(7 kyu) Simple beads count](https://www.codewars.com/kata/simple-beads-count)**
 ([Description](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.md>)) :
 [[JavaScript](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.js>)]
+/ [[TypeScript](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.ts>)]
 / [[Python](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.py>)]
 / [[Rust](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.rs>)]
 <br>
