@@ -178,18 +178,21 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(7 kyu) String ends with](https://www.codewars.com/kata/string-ends-with/)**
 ([Description](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.md>)) :
 [[JavaScript](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.js>)]
+/ [[TypeScript](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.ts>)]
 / [[Python](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.py>)]
 / [[Rust](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.rs>)]
 <br>
 **[(7 kyu) Thinkful - String Drills. Repeater](https://www.codewars.com/kata/thinkful-string-drills-repeater/)**
 ([Description](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.md>)) :
 [[JavaScript](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.js>)]
+/ [[TypeScript](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.ts>)]
 / [[Python](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.py>)]
 / [[Rust](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.rs>)]
 <br>
 **[(7 kyu) Two to One](https://www.codewars.com/kata/two-to-one/)**
 ([Description](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.md>)) :
 [[JavaScript](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.js>)]
+/ [[TypeScript](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.ts>)]
 / [[Python](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.py>)]
 / [[Rust](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.rs>)]
 
