@@ -172,6 +172,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(7 kyu) Sort Numbers](https://www.codewars.com/kata/sort-numbers/)**
 ([Description](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.md>)) :
 [[JavaScript](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.js>)]
+/ [[TypeScript](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.ts>)]
 / [[Python](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.py>)]
 / [[Rust](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.rs>)]
 <br>
