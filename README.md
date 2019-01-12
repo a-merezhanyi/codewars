@@ -155,6 +155,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(7 kyu) Remove duplicate words](http://www.codewars.com/kata/remove-duplicate-words)**
 ([Description](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.md>)) :
 [[JavaScript](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.js>)]
+[[TypeScript](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.ts>)]
 / [[Python](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.py>)]
 / [[Rust](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.rs>)]
 <br>
