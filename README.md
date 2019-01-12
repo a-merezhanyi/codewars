@@ -148,6 +148,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(7 kyu) Recursion #2 - Fibonacci](https://www.codewars.com/kata/recursion-number-2-fibonacci/)**
 ([Description](<(7%20kyu)%20Recursion%202%20-%20Fibonacci/(7%20kyu)%20Recursion%202%20-%20Fibonacci.md>)) :
 [[JavaScript](<(7%20kyu)%20Recursion%202%20-%20Fibonacci/(7%20kyu)%20Recursion%202%20-%20Fibonacci.js>)]
+/ [[TypeScript](<(7%20kyu)%20Recursion%202%20-%20Fibonacci/(7%20kyu)%20Recursion%202%20-%20Fibonacci.ts>)]
 / [[Python](<(7%20kyu)%20Recursion%202%20-%20Fibonacci/(7%20kyu)%20Recursion%202%20-%20Fibonacci.py>)]
 / [[Rust](<(7%20kyu)%20Recursion%202%20-%20Fibonacci/(7%20kyu)%20Recursion%202%20-%20Fibonacci.rs>)]
 <br>
