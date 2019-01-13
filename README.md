@@ -142,6 +142,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(7 kyu) Number of People in the Bus](https://www.codewars.com/kata/number-of-people-in-the-bus/)**
 ([Description](<(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.md>)) :
 [[JavaScript](<(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.js>)]
+/ [[TypeScript](<(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.ts>)]
 / [[Python](<(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.py>)]
 / [[Rust](<(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.rs>)]
 <br>
