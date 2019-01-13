@@ -136,6 +136,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(7 kyu) Mumbling](https://www.codewars.com/kata/mumbling/)**
 ([Description](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.md>)) :
 [[JavaScript](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.js>)]
+/ [[TypeScript](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.ts>)]
 / [[Python](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.py>)]
 / [[Rust](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.rs>)]
 <br>
