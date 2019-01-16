@@ -2,8 +2,7 @@
 // function last(list) {
 //   if (arguments.length > 1) {
 //     return arguments[arguments.length - 1];
-//   }
-//   if (list.length > 1) {
+//   } else if (list.length > 1) {
 //     return list[list.length - 1];
 //   } else {
 //     return list;
