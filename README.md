@@ -106,6 +106,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(7 kyu) Frequency sequence](https://www.codewars.com/kata/frequency-sequence/)**
 ([Description](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.md>)) :
 [[JavaScript](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.js>)]
+/ [[TypeScript](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.ts>)]
 / [[Python](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.py>)]
 / [[Rust](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.rs>)]
 <br>
