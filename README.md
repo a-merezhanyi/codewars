@@ -76,6 +76,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(7 kyu) Complementary DNA](https://www.codewars.com/kata/complementary-dna/)**
 ([Description](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.md>)) :
 [[JavaScript](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.js>)]
+/ [[TypeScript](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.ts>)]
 / [[Python](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.py>)]
 / [[Rust](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.rs>)]
 <br>
