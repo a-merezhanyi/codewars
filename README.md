@@ -112,6 +112,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(7 kyu) Get the Middle Character](https://www.codewars.com/kata/get-the-middle-character/)**
 ([Description](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.md>)) :
 [[JavaScript](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.js>)]
+/ [[TypeScript](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.ts>)]
 / [[Python](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.py>)]
 / [[Rust](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.rs>)]
 <br>
