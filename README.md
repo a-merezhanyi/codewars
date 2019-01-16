@@ -88,6 +88,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(7 kyu) Exes and Ohs](https://www.codewars.com/kata/exes-and-ohs/)**
 ([Description](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.md>)) :
 [[JavaScript](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.js>)]
+/ [[TypeScript](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.ts>)]
 / [[Python](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.py>)]
 / [[Rust](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.rs>)]
 <br>
