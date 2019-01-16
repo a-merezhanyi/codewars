@@ -124,6 +124,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(7 kyu) Jaden Casing Strings](https://www.codewars.com/kata/jaden-casing-strings)**
 ([Description](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.md>)) :
 [[JavaScript](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.js>)]
+/ [[TypeScript](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.ts>)]
 / [[Python](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.py>)]
 / [[Rust](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.rs>)]
 <br>
