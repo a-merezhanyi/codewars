@@ -94,6 +94,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(7 kyu) Form The Largest](https://www.codewars.com/kata/form-the-largest)**
 ([Description](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.md>)) :
 [[JavaScript](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.js>)]
+/ [[TypeScript](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.ts>)]
 / [[Python](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.py>)]
 / [[Rust](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.rs>)]
 <br>
