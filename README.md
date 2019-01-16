@@ -100,6 +100,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(7 kyu) Form The Minimum](https://www.codewars.com/kata/form-the-minimum)**
 ([Description](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.md>)) :
 [[JavaScript](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.js>)]
+/ [[TypeScript](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.ts>)]
 / [[Python](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.py>)]
 / [[Rust](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.rs>)]
 <br>
