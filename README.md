@@ -43,6 +43,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 **[(6 kyu) CamelCase Method](https://www.codewars.com/kata/camelcase-method/)**
 ([Description](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.md>)) :
 [[JavaScript](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.js>)]
+/ [[TypeScript](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.ts>)]
 / [[Python](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.py>)]
 / [[Rust](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.rs>)]
 <br>
