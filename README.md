@@ -71,8 +71,6 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [[JavaScript](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.js>)]
 / [[TypeScript](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.ts>)]
 / [[Python](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.py>)]
-<br>
-
 
 **[(7 kyu) Build a square](https://www.codewars.com/kata/build-a-square/)**
 ([Description](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.md>)) :
