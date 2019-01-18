@@ -54,7 +54,6 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 / [[Python](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.py>)]
 / [[Rust](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.rs>)]
 <br>
-
 [(6 kyu) Decode the Morse code.js](<(6%20kyu)%20Decode%20the%20Morse%20code.js>): [Description](https://www.codewars.com/kata/decode-the-morse-code)
 <br>
 [(6 kyu) Fibonacci Generator Function.js](<(6%20kyu)%20Fibonacci%20Generator%20Function.js>): [Description](https://www.codewars.com/kata/fibonacci-generator-function)
@@ -67,7 +66,13 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 <br>
 [(6 kyu) Playing with digits.js](<(6%20kyu)%20Playing%20with%20digits.js>): [Description](https://www.codewars.com/kata/playing-with-digits)
 <br>
-[(6 kyu) Square Digits Sequence.js](<(6%20kyu)%20Square%20Digits%20Sequence.js>): [Description](https://www.codewars.com/kata/simple-fun-number-23-square-digits-sequence)
+**[(6 kyu) Square Digits Sequence](https://www.codewars.com/kata/simple-fun-number-23-square-digits-sequence)**
+([Description](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.md>)) :
+[[JavaScript](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.js>)]
+/ [[TypeScript](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.ts>)]
+/ [[Python](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.py>)]
+<br>
+
 
 **[(7 kyu) Build a square](https://www.codewars.com/kata/build-a-square/)**
 ([Description](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.md>)) :
