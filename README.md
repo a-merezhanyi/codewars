@@ -227,7 +227,8 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [[JavaScript](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.js>)]
 / [[TypeScript](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.ts>)]
 / [[Python](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.py>)]
-/ [[Rust](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.rs>)] -- [JS Video Tutorial](https://www.youtube.com/watch?v=hz0Ydr6UXQk)
+/ [[Rust](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.rs>)]
+-- [JS Video Tutorial](https://www.youtube.com/watch?v=hz0Ydr6UXQk)
 <br>
 **[(8 kyu) Basic subclasses - Adam and Eve](https://www.codewars.com/kata/547274e24481cfc469000416)**
 ([Description](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.md>)) :
@@ -294,7 +295,9 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [[JavaScript](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.js>)]
 / [[TypeScript](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.ts>)]
 / [[Python](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.py>)]
-/ [[Rust](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.rs>)] -- [JS Video Tutorial](https://www.youtube.com/watch?v=cxNFuXg66sg)
+/ [[Rust](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.rs>)]
+/ [[C++](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.cpp>)]
+-- [JS Video Tutorial](https://www.youtube.com/watch?v=cxNFuXg66sg)
 <br>
 **[(8 kyu) Opposite number](https://www.codewars.com/kata/opposite-number)**
 ([Description](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.md>)) :
@@ -315,7 +318,8 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 [[JavaScript](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.js>)]
 / [[TypeScript](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.ts>)]
 / [[Python](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.py>)]
-/ [[Rust](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.rs>)] -- [JS Video Tutorial](https://www.youtube.com/watch?v=kimI2oIJd_0)
+/ [[Rust](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.rs>)]
+-- [JS Video Tutorial](https://www.youtube.com/watch?v=kimI2oIJd_0)
 <br>
 **[(8 kyu) Reversed Strings](https://www.codewars.com/kata/reversed-strings)**
 ([Description](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.md>)) :
