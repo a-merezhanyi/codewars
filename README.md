@@ -305,6 +305,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 / [[TypeScript](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.ts>)]
 / [[Python](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.py>)]
 / [[Rust](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.rs>)]
+/ [[C++](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.cpp>)]
 <br>
 **[(8 kyu) Remove String Spaces](https://www.codewars.com/kata/remove-string-spaces)**
 ([Description](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.md>)) :
