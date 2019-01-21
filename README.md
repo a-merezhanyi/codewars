@@ -356,6 +356,7 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 / [[TypeScript](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.ts>)]
 / [[Python](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.py>)]
 / [[Rust](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.rs>)]
+/ [[С++](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.cpp>)]
 <br>
 **[(8 kyu) String repeat](https://www.codewars.com/kata/string-repeat)**
 ([Description](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.md>)) :
