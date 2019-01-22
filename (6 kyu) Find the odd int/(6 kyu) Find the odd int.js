@@ -1,11 +1,7 @@
-/** Find the odd int (6 kyu).js https://www.codewars.com/kata/find-the-odd-int/
- * Given an array, find the int that appears an odd number of times.
- * There will always be only one integer that appears an odd number of times.
-**/
 function findOdd(A) {
   let digits = {};
   let num = 0;
-  
+
   // while an odd digit is one and only one,
   // create a sum of all elements and
   // reduce all even
@@ -17,6 +13,6 @@ function findOdd(A) {
       num -= n;
     }
   });
-  
+
   return num;
 }

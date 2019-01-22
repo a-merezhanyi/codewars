@@ -1,20 +1,10 @@
-/**
- * Ninety Nine Thousand Nine Hundred Ninety Nine (5 kyu)
- * https://www.codewars.com/kata/ninety-nine-thousand-nine-hundred-ninety-nine
- * Write a method that takes a number and returns a string of that number in
- * English. For example
- * numberToEnglish(27) // => 'twenty seven'
- * Your method should be able to handle any number between 0 and 99999. If
- * given numbers outside of that range or non-Integer numbers, the method
- * should return an empty string.
- */
-const numberToEnglish = x => {
+const numberToEnglish = (x) => {
   let n = x.toString();
-  
+
   if (x < 0 || x > 99999 || n.includes('.')) {
     return '';
   }
-  
+
   const value = {
     '0': 'zero',
     '1': 'one',
@@ -44,13 +34,16 @@ const numberToEnglish = x => {
     '70': 'seventy',
     '80': 'eighty',
     '90': 'ninety',
-  }
-  
-  const getDozens = n => (n <= 20) ? value[n] : `${value[n.toString()[0] + '0']} ${value[n.toString()[1]]}`;
-  const getHundreds = n => n > 0 ? `${value[n.toString()]} hundred ` : '';
-  const getThousands = n => getDozens(n) + ' thousand ';
+  };
+
+  const getDozens = (n) =>
+    n <= 20
+      ? value[n]
+      : `${value[n.toString()[0] + '0']} ${value[n.toString()[1]]}`;
+  const getHundreds = (n) => (n > 0 ? `${value[n.toString()]} hundred ` : '');
+  const getThousands = (n) => getDozens(n) + ' thousand ';
   let string;
-  
+
   if (x <= 99) {
     string = getDozens(n).replace(/\szero/g, '');
   } else if (x === 100) {
@@ -59,8 +52,10 @@ const numberToEnglish = x => {
     string = `${getHundreds(+n[0])}${getDozens(+n.slice(-2))}`;
   } else {
     const z = x < 9999 ? 1 : 2;
-    string = `${getThousands(+n.slice(0, z))}${getHundreds(+n.slice(-3, -2))}${getDozens(+n.slice(-2))}`;
+    string = `${getThousands(+n.slice(0, z))}${getHundreds(
+      +n.slice(-3, -2),
+    )}${getDozens(+n.slice(-2))}`;
   }
-  
+
   return string.trim().replace(/\szero/g, '');
-}
+};

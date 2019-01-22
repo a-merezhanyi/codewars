@@ -10,9 +10,13 @@ My Profile: https://www.codewars.com/users/e1r0nd<br>
 
 ![](https://www.codewars.com/users/e1r0nd/badges/large)
 
+## 3 kyu Katas
+
 [(3 kyu) Base64 Encoding.js](<(3%20kyu)%20Base64%20Encoding.js>): [Description](https://www.codewars.com/kata/5270f22f862516c686000161)
 <br>
 [(3 kyu) The soul of wit - reverse an array.js](<(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.js>): [Description](https://www.codewars.com/kata/the-soul-of-wit-reverse-an-array)
+
+## 4 kyu Katas
 
 [(4 kyu) Decode the Morse code, advanced.js](<(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced.js>): [Description](https://www.codewars.com/kata/decode-the-morse-code-advanced)
 <br>
@@ -30,6 +34,8 @@ My Profile: https://www.codewars.com/users/e1r0nd<br>
 <br>
 [(4 kyu) Sum Strings as Numbers.js](<(4%20kyu)%20Sum%20Strings%20as%20Numbers.js>) : [Description](https://www.codewars.com/kata/5324945e2ece5e1f32000370)
 
+## 5 kyu Katas
+
 [(5 kyu) Calculating with Functions.js](<(5%20kyu)%20Calculating%20with%20Functions.js>): [Description](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/)
 <br>
 [(5 kyu) Count IP Addresses.js](<(5%20kyu)%20Count%20IP%20Addresses.js>) : [Description](https://www.codewars.com/kata/526989a41034285187000de4)
@@ -42,19 +48,25 @@ My Profile: https://www.codewars.com/users/e1r0nd<br>
 <br>
 [(5 kyu) Ninety Nine Thousand Nine Hundred Ninety Nine.js](<(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.js>): [Description](https://www.codewars.com/kata/5463c8db865001c1710003b2)
 
+## 6 kyu Katas
+
 **[(6 kyu) CamelCase Method](https://www.codewars.com/kata/camelcase-method/)**
-([Description](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.md>)) :
+([Description](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.md>) +
+JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.js>)]
 / [[TypeScript](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.ts>)]
 / [[Python](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.py>)]
 / [[Rust](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.rs>)]
+/ [C++]
 <br>
 **[(6 kyu) Multiples of 3 or 5](https://www.codewars.com/kata/multiples-of-3-or-5/)**
-([Description](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.md>)) :
+([Description](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.md>) +
+JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.js>)]
 / [[TypeScript](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.ts>)]
 / [[Python](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.py>)]
 / [[Rust](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.rs>)]
+/ [C++]
 <br>
 [(6 kyu) Decode the Morse code.js](<(6%20kyu)%20Decode%20the%20Morse%20code.js>): [Description](https://www.codewars.com/kata/decode-the-morse-code)
 <br>
@@ -69,10 +81,13 @@ My Profile: https://www.codewars.com/users/e1r0nd<br>
 [(6 kyu) Playing with digits.js](<(6%20kyu)%20Playing%20with%20digits.js>): [Description](https://www.codewars.com/kata/playing-with-digits)
 <br>
 **[(6 kyu) Square Digits Sequence](https://www.codewars.com/kata/simple-fun-number-23-square-digits-sequence)**
-([Description](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.md>)) :
+([Description](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.md>) +
+JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.js>)]
 / [[TypeScript](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.ts>)]
 / [[Python](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.py>)]
+/ [Rust]
+/ [C++]
 
 ## 7 kyu Katas
 
