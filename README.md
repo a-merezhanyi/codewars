@@ -225,30 +225,36 @@ JavaScript Video Tutorial playlist: [Codewars' katas solved](https://www.youtube
 <br>
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
-([Description](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>)) :
+([Description](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
+[JS Video Tutorial](https://www.youtube.com/watch?v=hz0Ydr6UXQk)) :
 [[JavaScript](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.js>)]
 / [[TypeScript](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.ts>)]
 / [[Python](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.py>)]
 / [[Rust](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.rs>)]
--- [JS Video Tutorial](https://www.youtube.com/watch?v=hz0Ydr6UXQk)
+/ [C++]
 <br>
 **[(8 kyu) Basic subclasses - Adam and Eve](https://www.codewars.com/kata/547274e24481cfc469000416)**
 ([Description](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.md>)) :
 [[JavaScript](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.js>)]
 / [[TypeScript](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.ts>)]
 / [[Python](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.py>)]
+/ [Rust]
+/ [C++]
 <br>
-**[(8 kyu) Century From Year](https://www.codewars.com/kata/century-from-year/)** ([Description](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.md>)) :
+**[(8 kyu) Century From Year](https://www.codewars.com/kata/century-from-year/)** ([Description](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.md>) +
+[JS Video Tutorial](https://www.youtube.com/watch?v=r4FcQieqKFM)) :
 [[JavaScript](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.js>)]
 / [[TypeScript](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.ts>)]
 / [[Python](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.py>)]
-/ [[Rust](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.rs>)] -- [JS Video Tutorial](https://www.youtube.com/watch?v=r4FcQieqKFM)
+/ [[Rust](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.rs>)]
+/ [C++]
 <br>
 **[(8 kyu) Count of positives - sum of negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)** ([Description](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.md>)) :
 [[JavaScript](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.js>)]
 / [[TypeScript](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.ts>)]
 / [[Python](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.py>)]
 / [[Rust](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.rs>)]
+/ [C++]
 <br>
 **[(8 kyu) Counting sheep](https://www.codewars.com/kata/counting-sheep-dot-dot-dot)**
 ([Description](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.md>)) :
@@ -256,6 +262,7 @@ JavaScript Video Tutorial playlist: [Codewars' katas solved](https://www.youtube
 / [[TypeScript](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.ts>)]
 / [[Python](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.py>)]
 / [[Rust](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.rs>)]
+/ [C++]
 <br>
 **[(8 kyu) DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion)**
 ([Description](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.md>)) :
@@ -263,6 +270,7 @@ JavaScript Video Tutorial playlist: [Codewars' katas solved](https://www.youtube
 / [[TypeScript](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.ts>)]
 / [[Python](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.py>)]
 / [[Rust](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.rs>)]
+/ [C++]
 <br>
 **[(8 kyu) Even or Odd](https://www.codewars.com/kata/even-or-odd)**
 ([Description](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.md>)) :
@@ -270,6 +278,7 @@ JavaScript Video Tutorial playlist: [Codewars' katas solved](https://www.youtube
 / [[TypeScript](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.ts>)]
 / [[Python](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.py>)]
 / [[Rust](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.rs>)]
+/ [C++]
 <br>
 **[(8 kyu) Find the smallest integer in the array](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array)**
 ([Description](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.md>)) :
@@ -277,6 +286,7 @@ JavaScript Video Tutorial playlist: [Codewars' katas solved](https://www.youtube
 / [[TypeScript](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.ts>)]
 / [[Python](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.py>)]
 / [[Rust](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.rs>)]
+/ [C++]
 <br>
 **[(8 kyu) If you can't sleep, just count sheep](https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep)**
 ([Description](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.md>)) :
@@ -284,6 +294,7 @@ JavaScript Video Tutorial playlist: [Codewars' katas solved](https://www.youtube
 / [[TypeScript](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.ts>)]
 / [[Python](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.py>)]
 / [[Rust](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.rs>)]
+/ [C++]
 <br>
 **[(8 kyu) Jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)**
 ([Description](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.md>)) :
@@ -291,15 +302,16 @@ JavaScript Video Tutorial playlist: [Codewars' katas solved](https://www.youtube
 / [[TypeScript](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.ts>)]
 / [[Python](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.py>)]
 / [[Rust](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.rs>)]
+/ [C++]
 <br>
 **[(8 kyu) Multiply](https://www.codewars.com/kata/multiply/)**
-([Description](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.md>)) :
+([Description](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.md>) +
+[JS Video Tutorial](https://www.youtube.com/watch?v=cxNFuXg66sg)) :
 [[JavaScript](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.js>)]
 / [[TypeScript](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.ts>)]
 / [[Python](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.py>)]
 / [[Rust](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.rs>)]
 / [[C++](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.cpp>)]
--- [JS Video Tutorial](https://www.youtube.com/watch?v=cxNFuXg66sg)
 <br>
 **[(8 kyu) Opposite number](https://www.codewars.com/kata/opposite-number)**
 ([Description](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.md>)) :
@@ -315,14 +327,16 @@ JavaScript Video Tutorial playlist: [Codewars' katas solved](https://www.youtube
 / [[TypeScript](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.ts>)]
 / [[Python](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.py>)]
 / [[Rust](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.rs>)]
+/ [C++]
 <br>
 **[(8 kyu) Return Negative](https://www.codewars.com/kata/return-negative)**
-([Description](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.md>)) :
+([Description](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.md>) +
+[JS Video Tutorial](https://www.youtube.com/watch?v=kimI2oIJd_0)) :
 [[JavaScript](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.js>)]
 / [[TypeScript](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.ts>)]
 / [[Python](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.py>)]
 / [[Rust](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.rs>)]
--- [JS Video Tutorial](https://www.youtube.com/watch?v=kimI2oIJd_0)
+/ [C++]
 <br>
 **[(8 kyu) Reversed Strings](https://www.codewars.com/kata/reversed-strings)**
 ([Description](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.md>)) :
@@ -330,6 +344,7 @@ JavaScript Video Tutorial playlist: [Codewars' katas solved](https://www.youtube
 / [[TypeScript](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.ts>)]
 / [[Python](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.py>)]
 / [[Rust](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.rs>)]
+/ [C++]
 <br>
 **[(8 kyu) Reversed Words](https://www.codewars.com/kata/reversed-words)**
 ([Description](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.md>)) :
@@ -337,6 +352,7 @@ JavaScript Video Tutorial playlist: [Codewars' katas solved](https://www.youtube
 / [[TypeScript](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.ts>)]
 / [[Python](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.py>)]
 / [[Rust](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.rs>)]
+/ [C++]
 <br>
 **[(8 kyu) Reversed sequence](https://www.codewars.com/kata/reversed-sequence)**
 ([Description](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.md>)) :
@@ -344,6 +360,7 @@ JavaScript Video Tutorial playlist: [Codewars' katas solved](https://www.youtube
 / [[TypeScript](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.ts>)]
 / [[Python](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.py>)]
 / [[Rust](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.rs>)]
+/ [C++]
 <br>
 **[(8 kyu) Sort and Star](https://www.codewars.com/kata/sort-and-star)**
 ([Description](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.md>)) :
@@ -351,6 +368,7 @@ JavaScript Video Tutorial playlist: [Codewars' katas solved](https://www.youtube
 / [[TypeScript](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.ts>)]
 / [[Python](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.py>)]
 / [[Rust](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.rs>)]
+/ [C++]
 <br>
 **[(8 kyu) Square(n) Sum](https://www.codewars.com/kata/square-n-sum)**
 ([Description](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.md>)) :
@@ -361,11 +379,13 @@ JavaScript Video Tutorial playlist: [Codewars' katas solved](https://www.youtube
 / [[С++](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.cpp>)]
 <br>
 **[(8 kyu) String repeat](https://www.codewars.com/kata/string-repeat)**
-([Description](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.md>)) :
+([Description](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.md>) +
+JS Video Tutorial) :
 [[JavaScript](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.js>)]
 / [[TypeScript](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.ts>)]
 / [[Python](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.py>)]
 / [[Rust](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.rs>)]
+/ [C++]
 <br>
 **[(8 kyu) The Feast of Many Beasts](https://www.codewars.com/kata/the-feast-of-many-beasts/)**
 ([Description](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.md>) +
