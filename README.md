@@ -4,7 +4,9 @@
 
 ### A collection of TDD katas (simple programs) written in JavaScript, TypeScript, Python and Rust to learn and have fun!
 
-My Profile https://www.codewars.com/users/e1r0nd<br>
+My Profile: https://www.codewars.com/users/e1r0nd<br>
+
+JavaScript Video Tutorial playlist: [Codewars' katas solved](https://www.youtube.com/watch?v=cxNFuXg66sg&list=PLEZfD_aygfgJ2ov9PncOovO4Q3Ym82ctA)
 
 ![](https://www.codewars.com/users/e1r0nd/badges/large)
 
@@ -366,16 +368,18 @@ My Profile https://www.codewars.com/users/e1r0nd<br>
 / [[Rust](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.rs>)]
 <br>
 **[(8 kyu) The Feast of Many Beasts](https://www.codewars.com/kata/the-feast-of-many-beasts/)**
-([Description](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.md>)) :
+([Description](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.md>) +
+[JS Video Tutorial](https://www.youtube.com/watch?v=Di_bIEh-y2U)) :
 [[JavaScript](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.js>)]
 / [[TypeScript](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.ts>)]
 / [[Python](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.py>)]
 / [[Rust](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.rs>)]
 / [[C++](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.cpp>)]
--- [JS Video Tutorial](https://www.youtube.com/watch?v=Di_bIEh-y2U)
 <br>
-**[(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe](http://www.codewars.com/kata/alternating-case-%3C-equals-%3E-alternating-case)** ([Description](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.md>)) :
+**[(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe](http://www.codewars.com/kata/alternating-case-%3C-equals-%3E-alternating-case)** ([Description](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.md>) +
+JS Video Tutorial) :
 [[JavaScript](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.js>)]
 / [[TypeScript](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.ts>)]
 / [[Python](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.py>)]
 / [[Rust](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.rs>)]
+/ [C++]
