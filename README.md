@@ -12,41 +12,137 @@ My Profile: https://www.codewars.com/users/e1r0nd<br>
 
 ## 3 kyu Katas
 
-[(3 kyu) Base64 Encoding.js](<(3%20kyu)%20Base64%20Encoding.js>): [Description](https://www.codewars.com/kata/5270f22f862516c686000161)
+**[(3 kyu) Base64 Encoding](https://www.codewars.com/kata/5270f22f862516c686000161)** ([Description](<(3%20kyu)%20Base64%20Encoding/(3%20kyu)%20Base64%20Encoding.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(3%20kyu)%20Base64%20Encoding/(3%20kyu)%20Base64%20Encoding.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(3 kyu) The soul of wit - reverse an array.js](<(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.js>): [Description](https://www.codewars.com/kata/the-soul-of-wit-reverse-an-array)
+**[(3 kyu) The soul of wit - reverse an array](https://www.codewars.com/kata/the-soul-of-wit-reverse-an-array)** ([Description](<(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array/(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array/(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 
 ## 4 kyu Katas
 
-[(4 kyu) Decode the Morse code, advanced.js](<(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced.js>): [Description](https://www.codewars.com/kata/decode-the-morse-code-advanced)
+**[(4 kyu) Decode the Morse code, advanced](https://www.codewars.com/kata/decode-the-morse-code-advanced)** ([Description](<(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(4 kyu) Human readable duration format.js](<(4%20kyu)%20Human%20readable%20duration%20format.js>): [Description](https://www.codewars.com/kata/human-readable-duration-format)
+**[(4 kyu) Human readable duration format](https://www.codewars.com/kata/human-readable-duration-format)** ([Description](<(4%20kyu)%20Human%20readable%20duration%20format/(4%20kyu)%20Human%20readable%20duration%20format.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(4%20kyu)%20Human%20readable%20duration%20format/(4%20kyu)%20Human%20readable%20duration%20format.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(4 kyu) IP Validation.js](<(4%20kyu)%20IP%20Validation.js>): [Description](https://www.codewars.com/kata/ip-validation)
+**[(4 kyu) IP Validation](https://www.codewars.com/kata/ip-validation)** ([Description](<(4%20kyu)%20IP%20Validation/(4%20kyu)%20IP%20Validation.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(4%20kyu)%20IP%20Validation/(4%20kyu)%20IP%20Validation.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(4 kyu) Range Extraction.js](<(4%20kyu)%20Range%20Extraction.js>): [Description](https://www.codewars.com/kata/range-extraction)
+**[(4 kyu) Range Extraction](https://www.codewars.com/kata/range-extraction)** ([Description](<(4%20kyu)%20Range%20Extraction/(4%20kyu)%20Range%20Extraction.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(4%20kyu)%20Range%20Extraction/(4%20kyu)%20Range%20Extraction.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(4 kyu) Reverse it, quickly.js](<(4%20kyu)%20Reverse%20it%2C%20quickly.js>): [Description](https://www.codewars.com/kata/reverse-it-quickly)
+**[(4 kyu) Reverse it, quickly](https://www.codewars.com/kata/reverse-it-quickly)** ([Description](<(4%20kyu)%20Reverse%20it%2C%20quickly/(4%20kyu)%20Reverse%20it%2C%20quickly.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(4%20kyu)%20Reverse%20it%2C%20quickly/(4%20kyu)%20Reverse%20it%2C%20quickly.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(4 kyu) Snail.js](<(4%20kyu)%20Snail.js>): [Description](https://www.codewars.com/kata/snail/javascript)
+**[(4 kyu) Snail](https://www.codewars.com/kata/snail/)** ([Description](<(4%20kyu)%20Snail/(4%20kyu)%20Snail.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(4%20kyu)%20Snail/(4%20kyu)%20Snail.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(4 kyu) Strip Comments.js](<(4%20kyu)%20Strip%20Comments.js>): [Description](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
+**[(4 kyu) Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)** ([Description](<(4%20kyu)%20Strip%20Comments/(4%20kyu)%20Strip%20Comments.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(4%20kyu)%20Strip%20Comments/(4%20kyu)%20Strip%20Comments.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(4 kyu) Sum Strings as Numbers.js](<(4%20kyu)%20Sum%20Strings%20as%20Numbers.js>) : [Description](https://www.codewars.com/kata/5324945e2ece5e1f32000370)
+**[(4 kyu) Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370)** ([Description](<(4%20kyu)%20Sum%20Strings%20as%20Numbers/(4%20kyu)%20Sum%20Strings%20as%20Numbers.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(4%20kyu)%20Sum%20Strings%20as%20Numbers/(4%20kyu)%20Sum%20Strings%20as%20Numbers.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 
 ## 5 kyu Katas
 
-[(5 kyu) Calculating with Functions.js](<(5%20kyu)%20Calculating%20with%20Functions.js>): [Description](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/)
+**[(5 kyu) Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/)** ([Description](<(5%20kyu)%20Calculating%20with%20Functions/(5%20kyu)%20Calculating%20with%20Functions.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(5%20kyu)%20Calculating%20with%20Functions/(5%20kyu)%20Calculating%20with%20Functions.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(5 kyu) Count IP Addresses.js](<(5%20kyu)%20Count%20IP%20Addresses.js>) : [Description](https://www.codewars.com/kata/526989a41034285187000de4)
+**[(5 kyu) Count IP Addresses](https://www.codewars.com/kata/526989a41034285187000de4)** ([Description](<(5%20kyu)%20Count%20IP%20Addresses/(5%20kyu)%20Count%20IP%20Addresses.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(5%20kyu)%20Count%20IP%20Addresses/(5%20kyu)%20Count%20IP%20Addresses.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(5 kyu) Human Readable Time.js](<(5%20kyu)%20Human%20Readable%20Time.js>): [Description](https://www.codewars.com/kata/human-readable-time)
+**[(5 kyu) Fibonacci Generator](https://www.codewars.com/kata/522498c9906b0cfcb40001fc)** ([Description](<(5%20kyu)%20Fibonacci%20Generator/(5%20kyu)%20Fibonacci%20Generator.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(5%20kyu)%20Fibonacci%20Generator/(5%20kyu)%20Fibonacci%20Generator.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(5 kyu) Fibonacci Generator.js](<(5%20kyu)%20Fibonacci%20Generator.js>) : [Description](https://www.codewars.com/kata/522498c9906b0cfcb40001fc)
+**[(5 kyu) Human Readable Time](https://www.codewars.com/kata/human-readable-time)** ([Description](<(5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(5 kyu) Memoized Fibonacci.js](<(5%20kyu)%20Memoized%20Fibonacci.js>): [Descriptoin](https://www.codewars.com/kata/memoized-fibonacci)
+**[(5 kyu) Memoized Fibonacci](https://www.codewars.com/kata/memoized-fibonacci)** ([Description](<(5%20kyu)%20Memoized%20Fibonacci/(5%20kyu)%20Memoized%20Fibonacci.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(5%20kyu)%20Memoized%20Fibonacci/(5%20kyu)%20Memoized%20Fibonacci.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(5 kyu) Ninety Nine Thousand Nine Hundred Ninety Nine.js](<(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.js>): [Description](https://www.codewars.com/kata/5463c8db865001c1710003b2)
+**[(5 kyu) Ninety Nine Thousand Nine Hundred Ninety Nine](https://www.codewars.com/kata/5463c8db865001c1710003b2)** ([Description](<(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 
 ## 6 kyu Katas
 
@@ -68,17 +164,53 @@ JS Video Tutorial) :
 / [[Rust](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.rs>)]
 / [C++]
 <br>
-[(6 kyu) Decode the Morse code.js](<(6%20kyu)%20Decode%20the%20Morse%20code.js>): [Description](https://www.codewars.com/kata/decode-the-morse-code)
+**[(6 kyu) Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code)** ([Description](<(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(6 kyu) Fibonacci Generator Function.js](<(6%20kyu)%20Fibonacci%20Generator%20Function.js>): [Description](https://www.codewars.com/kata/fibonacci-generator-function)
+**[(6 kyu) Fibonacci Generator Function](https://www.codewars.com/kata/fibonacci-generator-function)** ([Description](<(6%20kyu)%20Fibonacci%20Generator%20Function/(6%20kyu)%20Fibonacci%20Generator%20Function.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(6%20kyu)%20Fibonacci%20Generator%20Function/(6%20kyu)%20Fibonacci%20Generator%20Function.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(6 kyu) Find the odd int.js](<(6%20kyu)%20Find%20the%20odd%20int.js>): [Description](https://www.codewars.com/kata/find-the-odd-int)
+**[(6 kyu) Find the odd int](https://www.codewars.com/kata/find-the-odd-int)** ([Description](<(6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(6 kyu) Follow that Spy.js](<(6%20kyu)%20Follow%20that%20Spy.js>): [Description](https://www.codewars.com/kata/follow-that-spy)
+**[(6 kyu) Follow that Spy](https://www.codewars.com/kata/follow-that-spy)** ([Description](<(6%20kyu)%20Follow%20that%20Spy/(6%20kyu)%20Follow%20that%20Spy.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(6%20kyu)%20Follow%20that%20Spy/(6%20kyu)%20Follow%20that%20Spy.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(6 kyu) IQ Test.js](<(6%20kyu)%20IQ%20Test.js>): [Description](https://www.codewars.com/kata/iq-test)
+**[(6 kyu) IQ Test](https://www.codewars.com/kata/iq-test)** ([Description](<(6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
-[(6 kyu) Playing with digits.js](<(6%20kyu)%20Playing%20with%20digits.js>): [Description](https://www.codewars.com/kata/playing-with-digits)
+**[(6 kyu) Playing with digits](https://www.codewars.com/kata/playing-with-digits)** ([Description](<(6%20kyu)%20Playing%20with%20digits/(6%20kuy)%20Playing%20with%20digits.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(6%20kyu)%20Playing%20with%20digits/(6%20kuy)%20Playing%20with%20digits.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
 <br>
 **[(6 kyu) Square Digits Sequence](https://www.codewars.com/kata/simple-fun-number-23-square-digits-sequence)**
 ([Description](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.md>) +
