@@ -207,7 +207,7 @@ JS Video Tutorial) :
 **[(6 kyu) Playing with digits](https://www.codewars.com/kata/playing-with-digits)** ([Description](<(6%20kyu)%20Playing%20with%20digits/(6%20kuy)%20Playing%20with%20digits.md>) +
 JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Playing%20with%20digits/(6%20kuy)%20Playing%20with%20digits.js>)]
-/ [TypeScript]
+/ [[TypeScript](<(6%20kyu)%20Playing%20with%20digits/(6%20kuy)%20Playing%20with%20digits.ts>)]
 / [Python]
 / [Rust]
 / [C++]
