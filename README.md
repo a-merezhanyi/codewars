@@ -199,7 +199,7 @@ JS Video Tutorial) :
 **[(6 kyu) IQ Test](https://www.codewars.com/kata/iq-test)** ([Description](<(6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.md>) +
 JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.js>)]
-/ [TypeScript]
+/ [[TypeScript](<(6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.ts>)]
 / [Python]
 / [Rust]
 / [C++]
