@@ -63,7 +63,7 @@ JS Video Tutorial) :
 / [C++]
 <br>
 **[(4 kyu) Reverse it, quickly](https://www.codewars.com/kata/reverse-it-quickly)** ([Description](<(4%20kyu)%20Reverse%20it%2C%20quickly/(4%20kyu)%20Reverse%20it%2C%20quickly.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=Y-bnrIVHraQ)) :
 [[JavaScript](<(4%20kyu)%20Reverse%20it%2C%20quickly/(4%20kyu)%20Reverse%20it%2C%20quickly.js>)]
 / [TypeScript]
 / [Python]
