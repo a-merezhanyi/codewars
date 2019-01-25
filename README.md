@@ -482,7 +482,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.ts>)]
 / [[Python](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.py>)]
 / [[Rust](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.rs>)]
-/ [C++]
+/ [[C++](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.cpp>)]
 <br>
 **[(8 kyu) Find the smallest integer in the array](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array)**
 ([Description](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.md>) +
