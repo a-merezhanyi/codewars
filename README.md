@@ -500,7 +500,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.ts>)]
 / [[Python](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.py>)]
 / [[Rust](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.rs>)]
-/ [C++]
+/ [[C++](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.cpp>)]
 <br>
 **[(8 kyu) Jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)**
 ([Description](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.md>) +
