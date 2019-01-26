@@ -473,7 +473,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.ts>)]
 / [[Python](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.py>)]
 / [[Rust](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.rs>)]
-/ [C++]
+/ [[C++](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.cpp>)]
 <br>
 **[(8 kyu) Even or Odd](https://www.codewars.com/kata/even-or-odd)**
 ([Description](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.md>) +
