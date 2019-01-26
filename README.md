@@ -599,7 +599,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.ts>)]
 / [[Python](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.py>)]
 / [[Rust](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.rs>)]
-/ [C++]
+/ [[C++](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.cpp>)]
 <br>
 **[(8 kyu) The Feast of Many Beasts](https://www.codewars.com/kata/the-feast-of-many-beasts/)**
 ([Description](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.md>) +
@@ -616,4 +616,4 @@ JS Video Tutorial) :
 / [[TypeScript](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.ts>)]
 / [[Python](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.py>)]
 / [[Rust](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.rs>)]
-/ [C++]
+/ [[C++](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.cpp>)]
