@@ -536,7 +536,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.ts>)]
 / [[Python](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.py>)]
 / [[Rust](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.rs>)]
-/ [C++]
+/ [[C++](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.cpp>)]
 <br>
 **[(8 kyu) Return Negative](https://www.codewars.com/kata/return-negative)**
 ([Description](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.md>) +
