@@ -545,7 +545,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.ts>)]
 / [[Python](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.py>)]
 / [[Rust](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.rs>)]
-/ [C++]
+/ [[C++](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.cpp>)]
 <br>
 **[(8 kyu) Reversed Strings](https://www.codewars.com/kata/reversed-strings)**
 ([Description](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.md>) +
