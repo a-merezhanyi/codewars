@@ -464,7 +464,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.ts>)]
 / [[Python](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.py>)]
 / [[Rust](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.rs>)]
-/ [C++]
+/ [[C++](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.cpp>)]
 <br>
 **[(8 kyu) DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion)**
 ([Description](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.md>) +
