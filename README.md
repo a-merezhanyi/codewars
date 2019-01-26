@@ -581,7 +581,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.ts>)]
 / [[Python](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.py>)]
 / [[Rust](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.rs>)]
-/ [C++]
+/ [[C++](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.cpp>)]
 <br>
 **[(8 kyu) Square(n) Sum](https://www.codewars.com/kata/square-n-sum)**
 ([Description](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.md>) +
