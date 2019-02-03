@@ -4,7 +4,7 @@
 
 My Profile: https://www.codewars.com/users/e1r0nd<br>
 
-**A collection of TDD katas (simple programs) written in JavaScript, TypeScript, Python, Rust and C++ to learn and have fun!**
+**A collection of TDD katas (simple programs) written in JavaScript, TypeScript, Python and Rust to learn and have fun!**
 
 ### JavaScript Video Tutorials playlist: [Codewars' katas solved](https://www.youtube.com/watch?v=cxNFuXg66sg&list=PLEZfD_aygfgJ2ov9PncOovO4Q3Ym82ctA)
 
@@ -362,9 +362,18 @@ JS Video Tutorial) :
 ([Description](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.md>) +
 JS Video Tutorial) :
 [[JavaScript](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.js>)]
-[[TypeScript](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.ts>)]
+/ [[TypeScript](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.ts>)]
 / [[Python](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.py>)]
 / [[Rust](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.rs>)]
+/ [C++]
+<br>
+**[(7 kyu) Reverse words](https://www.codewars.com/kata/reverse-words)**
+([Description](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
 / [C++]
 <br>
 **[(7 kyu) Shortest Word](http://www.codewars.com/kata/shortest-word/)**
