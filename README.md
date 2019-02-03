@@ -320,7 +320,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.ts>)]
 / [[Python](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.py>)]
 / [[Rust](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.rs>)]
-/ [C++]
+/ [[C++](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.cpp>)]
 <br>
 **[(7 kyu) Last](https://www.codewars.com/kata/541629460b198da04e000bb9)**
 ([Description](<(7%20kyu)%20Last/(7%20kyu)%20Last.md>) +
