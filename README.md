@@ -372,7 +372,7 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.js>)]
 / [TypeScript]
-/ [Python]
+/ [[Python](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.py>)]
 / [Rust]
 / [C++]
 <br>
