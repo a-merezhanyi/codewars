@@ -373,7 +373,7 @@ JS Video Tutorial) :
 [[JavaScript](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.js>)]
 / [[TypeScript](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.ts>)]
 / [[Python](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.py>)]
-/ [Rust]
+/ [[Rust](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.rs>)]
 / [C++]
 <br>
 **[(7 kyu) Shortest Word](http://www.codewars.com/kata/shortest-word/)**
