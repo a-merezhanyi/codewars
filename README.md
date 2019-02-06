@@ -156,13 +156,13 @@ JS Video Tutorial) :
 / [C++]
 <br>
 **[(6 kyu) Multiples of 3 or 5](https://www.codewars.com/kata/multiples-of-3-or-5/)**
-([Description](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.md>) +
+([Description](<(6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.js>)]
-/ [[TypeScript](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.ts>)]
-/ [[Python](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.py>)]
-/ [[Rust](<(6%20kyu)%20Multiples%20of%203%20and%205/(6%20kyu)%20Multiples%20of%203%20and%205.rs>)]
-/ [C++]
+[[JavaScript](<(6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.js>)]
+/ [[TypeScript](<(6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.ts>)]
+/ [[Python](<(6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.py>)]
+/ [[Rust](<(6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.rs>)]
+/ [[C++](<(6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.cpp>)]
 <br>
 **[(6 kyu) Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code)** ([Description](<(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.md>) +
 JS Video Tutorial) :
