@@ -139,10 +139,10 @@ JS Video Tutorial) :
 **[(5 kyu) Ninety Nine Thousand Nine Hundred Ninety Nine](https://www.codewars.com/kata/5463c8db865001c1710003b2)** ([Description](<(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.md>) +
 JS Video Tutorial) :
 [[JavaScript](<(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.js>)]
-/ [TypeScript]
-/ [Python]
+/ [[TypeScript](<(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.ts>)]
+/ [[Python](<(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.py>)]
 / [Rust]
-/ [C++]
+/ [[C++](<(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.cpp>)]
 
 ## 6 kyu Katas
 
