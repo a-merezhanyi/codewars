@@ -214,7 +214,7 @@ JS Video Tutorial) :
 <br>
 **[(6 kyu) Reverse or rotate?](https://www.codewars.com/kata/reverse-or-rotate)** ([Description](<(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.md>) +
 JS Video Tutorial) :
-[JavaScript]
+[[JavaScript](<(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.js>)]
 / [TypeScript]
 / [Python]
 / [Rust]
