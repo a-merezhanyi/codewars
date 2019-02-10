@@ -212,6 +212,14 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 <br>
+**[(6 kyu) Reverse or rotate?](https://www.codewars.com/kata/reverse-or-rotate)** ([Description](<(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.md>) +
+JS Video Tutorial) :
+[JavaScript]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+<br>
 **[(6 kyu) Square Digits Sequence](https://www.codewars.com/kata/simple-fun-number-23-square-digits-sequence)**
 ([Description](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.md>) +
 JS Video Tutorial) :
