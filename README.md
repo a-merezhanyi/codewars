@@ -436,7 +436,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.ts>)]
 / [[Python](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.py>)]
 / [[Rust](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.rs>)]
-/ [C++]
+/ [[C++](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.cpp>)]
 
 ## 8 kyu Katas
 
