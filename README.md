@@ -196,6 +196,14 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 <br>
+**[(6 kyu) Hard Time Bomb](https://www.codewars.com/kata/hard-time-bomb)** ([Description](<(6%20kyu)%20Hard%20Time%20Bomb/(6%20kyu)%20Hard%20Time%20Bomb.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(6%20kyu)%20Hard%20Time%20Bomb/(6%20kyu)%20Hard%20Time%20Bomb.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+<br>
 **[(6 kyu) IQ Test](https://www.codewars.com/kata/iq-test)** ([Description](<(6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.md>) +
 JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.js>)]
