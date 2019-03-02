@@ -417,7 +417,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.ts>)]
 / [[Python](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.py>)]
 / [[Rust](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.rs>)]
-/ [C++]
+/ [[C++](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.cpp>)]
 <br>
 **[(7 kyu) String ends with](https://www.codewars.com/kata/string-ends-with/)**
 ([Description](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.md>) +
