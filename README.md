@@ -435,7 +435,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.ts>)]
 / [[Python](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.py>)]
 / [[Rust](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.rs>)]
-/ [C++]
+/ [[C++](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.cpp>)]
 <br>
 **[(7 kyu) Two to One](https://www.codewars.com/kata/two-to-one/)**
 ([Description](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.md>) +
