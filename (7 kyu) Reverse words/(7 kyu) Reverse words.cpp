@@ -10,7 +10,6 @@ std::string reverse_words(std::string str)
     int length = str.length();
     for (int i = 0; i < length; i++)
     {
-        cout << str[i];
         if (str[i] != ' ')
         {
             word = str[i] + word;
