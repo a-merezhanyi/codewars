@@ -354,7 +354,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.ts>)]
 / [[Python](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.py>)]
 / [[Rust](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.rs>)]
-/ [C++]
+/ [[C++](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.cpp>)]
 <br>
 **[(7 kyu) Number of People in the Bus](https://www.codewars.com/kata/number-of-people-in-the-bus/)**
 ([Description](<(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.md>) +
