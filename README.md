@@ -390,7 +390,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.ts>)]
 / [[Python](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.py>)]
 / [[Rust](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.rs>)]
-/ [C++]
+/ [[C++](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.cpp>)]
 <br>
 **[(7 kyu) Shortest Word](http://www.codewars.com/kata/shortest-word/)**
 ([Description](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.md>) +
@@ -399,7 +399,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.ts>)]
 / [[Python](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.py>)]
 / [[Rust](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.rs>)]
-/ [C++]
+/ [[C++](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.cpp>)]
 <br>
 **[(7 kyu) Simple beads count](https://www.codewars.com/kata/simple-beads-count)**
 ([Description](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.md>) +
