@@ -327,7 +327,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.ts>)]
 / [[Python](<(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.py>)]
 / [[Rust](<(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.rs>)]
-/ [C++]
+/ [[C++](<(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.cpp>)]
 <br>
 **[(7 kyu) Jaden Casing Strings](https://www.codewars.com/kata/jaden-casing-strings)**
 ([Description](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.md>) +
