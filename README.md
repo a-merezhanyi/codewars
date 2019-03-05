@@ -264,7 +264,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.ts>)]
 / [[Python](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.py>)]
 / [[Rust](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.rs>)]
-/ [C++]
+/ [[C++](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.cpp>)]
 <br>
 **[(7 kyu) Even numbers in an array](https://www.codewars.com/kata/even-numbers-in-an-array/)**
 ([Description](<(7%20kyu)%20Even%20numbers%20in%20an%20array/(7%20kyu)%20Even%20numbers%20in%20an%20array.md>) +
