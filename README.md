@@ -282,7 +282,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.ts>)]
 / [[Python](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.py>)]
 / [[Rust](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.rs>)]
-/ [C++]
+/ [[C++](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.cpp>)]
 <br>
 **[(7 kyu) Form The Largest](https://www.codewars.com/kata/form-the-largest)**
 ([Description](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.md>) +
