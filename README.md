@@ -246,7 +246,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.ts>)]
 / [[Python](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.py>)]
 / [[Rust](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.rs>)]
-/ [C++]
+/ [[C++](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.cpp>)]
 <br>
 **[(7 kyu) Canvas Fun 1 - Draw Lines](http://www.codewars.com/kata/canvas-fun-number-1-draw-lines)**
 ([Description](<(7%20kyu)%20Canvas%20Fun%201%20-%20Draw%20Lines/(7%20kyu)%20Canvas%20Fun%201%20-%20Draw%20Lines.md>) +
