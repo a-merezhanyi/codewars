@@ -318,7 +318,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.ts>)]
 / [[Python](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.py>)]
 / [[Rust](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.rs>)]
-/ [C++]
+/ [[C++](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.cpp>)]
 <br>
 **[(7 kyu) Highest and Lowest](https://www.codewars.com/kata/highest-and-lowest)**
 ([Description](<(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.md>) +
