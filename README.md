@@ -204,6 +204,14 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 <br>
+**[(6 kyu) Help the bookseller](https://www.codewars.com/kata/help-the-bookseller/)** ([Description](<(6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.js>)]
+/ [[TypeScript](<(6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.ts>)]
+/ [Python]
+/ [Rust]
+/ [C++]
+<br>
 **[(6 kyu) IQ Test](https://www.codewars.com/kata/iq-test)** ([Description](<(6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.md>) +
 JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.js>)]
