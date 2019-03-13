@@ -232,7 +232,7 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Playing%20with%20digits/(6%20kuy)%20Playing%20with%20digits.js>)]
 / [[TypeScript](<(6%20kyu)%20Playing%20with%20digits/(6%20kuy)%20Playing%20with%20digits.ts>)]
-/ [Python]
+/ [[Python](<(6%20kyu)%20Playing%20with%20digits/(6%20kuy)%20Playing%20with%20digits.py>)]
 / [Rust]
 / [C++]
 <br>
