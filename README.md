@@ -255,8 +255,8 @@ JS Video Tutorial) :
 **[(6 kyu) Salesman's Travel](https://www.codewars.com/kata/salesmans-travel/)** ([Description](<(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.md>) +
 JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.js>)]
-/ [TypeScript]
-/ [Python]
+/ [[TypeScript](<(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.ts>)]
+/ [[Python](<(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.py>)]
 / [Rust]
 / [C++]
 <br>
