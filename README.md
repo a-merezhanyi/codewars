@@ -266,7 +266,7 @@ JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.js>)]
 / [[TypeScript](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.ts>)]
 / [[Python](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.py>)]
-/ [Rust]
+/ [[Rust](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.rs>)]
 / [C++]
 
 ## 7 kyu Katas
