@@ -516,7 +516,7 @@ JS Video Tutorial) :
 <br>
 **[(8 kyu) Counting sheep](https://www.codewars.com/kata/counting-sheep-dot-dot-dot)**
 ([Description](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=lH0Y0Mr8bms)) :
 [[JavaScript](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.js>)]
 / [[TypeScript](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.ts>)]
 / [[Python](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.py>)]
