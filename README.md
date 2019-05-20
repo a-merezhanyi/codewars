@@ -257,8 +257,8 @@ JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.js>)]
 / [[TypeScript](<(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.ts>)]
 / [[Python](<(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.py>)]
-/ [Rust]
-/ [C++]
+/ [[Rust](<(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.rs>)]
+/ [[C++](<(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.cpp>)]
 <br>
 **[(6 kyu) Square Digits Sequence](https://www.codewars.com/kata/simple-fun-number-23-square-digits-sequence)**
 ([Description](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.md>) +
