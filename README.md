@@ -167,7 +167,7 @@ JS Video Tutorial) :
 **[(6 kyu) Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code)** ([Description](<(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.md>) +
 JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.js>)]
-/ [TypeScript]
+/ [[TypeScript](<(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.ts>)]
 / [Python]
 / [Rust]
 / [C++]
