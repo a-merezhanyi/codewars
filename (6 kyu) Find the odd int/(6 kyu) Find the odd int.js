@@ -1,3 +1,4 @@
+// #1
 function findOdd(A) {
   let digits = {};
   let num = 0;
@@ -16,3 +17,6 @@ function findOdd(A) {
 
   return num;
 }
+
+// #2
+const findOdd = (A) => A.reduce((a, b) => a ^ b);
