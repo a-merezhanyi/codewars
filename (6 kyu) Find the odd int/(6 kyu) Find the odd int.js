@@ -6,7 +6,7 @@ function findOdd(A) {
   // while an odd digit is one and only one,
   // create a sum of all elements and
   // reduce all even
-  A.forEach((n) => {
+  A.forEach(n => {
     if (!digits[n]) {
       num += digits[n] = n;
     } else {
@@ -19,4 +19,4 @@ function findOdd(A) {
 }
 
 // #2
-const findOdd = (A) => A.reduce((a, b) => a ^ b);
+const findOdd = A => A.reduce((a, b) => a ^ b);
