@@ -191,7 +191,7 @@ JS Video Tutorial) :
 **[(6 kyu) Find the odd int](https://www.codewars.com/kata/find-the-odd-int)** ([Description](<(6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.md>) +
 JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.js>)]
-/ [TypeScript]
+/ [[TypeScript](<(6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.ts>)]
 / [Python]
 / [Rust]
 / [C++]
