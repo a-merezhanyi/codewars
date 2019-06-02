@@ -1,4 +1,4 @@
-// #1
+// #1 Using an object
 function findOdd(A) {
   let digits = {};
   let num = 0;
@@ -18,5 +18,9 @@ function findOdd(A) {
   return num;
 }
 
-// #2
+// #2 Using find and filter functions
+function findOdd(A) {
+  return A.find((x, i, a) => a.filter(y => y === x).length % 2 === 1);
+}
+// #3 Using reduce and XOR
 const findOdd = A => A.reduce((a, b) => a ^ b);
