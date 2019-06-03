@@ -606,12 +606,12 @@ JS Video Tutorial) :
 <br>
 **[(8 kyu) Reversed Strings](https://www.codewars.com/kata/reversed-strings)**
 ([Description](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=ob-usjKDrXM)) :
 [[JavaScript](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.js>)]
 / [[TypeScript](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.ts>)]
 / [[Python](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.py>)]
 / [[Rust](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.rs>)]
-/ / [[C++](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.cpp>)]
+/ [[C++](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.cpp>)]
 <br>
 **[(8 kyu) Reversed Words](https://www.codewars.com/kata/reversed-words)**
 ([Description](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.md>) +
