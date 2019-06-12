@@ -525,7 +525,7 @@ JS Video Tutorial) :
 <br>
 **[(8 kyu) DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion)**
 ([Description](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=u4vzd5TXxGI)) :
 [[JavaScript](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.js>)]
 / [[TypeScript](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.ts>)]
 / [[Python](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.py>)]
