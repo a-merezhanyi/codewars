@@ -604,7 +604,8 @@ JS Video Tutorial) :
 / [[Rust](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.rs>)]
 / [[C++](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.cpp>)]
 <br>
-**[(8 kyu) Reversed Strings](https://www.codewars.com/kata/reversed-strings)**
+**[(8 kyu) 
+Strings](https://www.codewars.com/kata/reversed-strings)**
 ([Description](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=ob-usjKDrXM)) :
 [[JavaScript](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.js>)]
@@ -615,7 +616,7 @@ JS Video Tutorial) :
 <br>
 **[(8 kyu) Reversed Words](https://www.codewars.com/kata/reversed-words)**
 ([Description](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=Ub5bW3XUJXs)) :
 [[JavaScript](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.js>)]
 / [[TypeScript](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.ts>)]
 / [[Python](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.py>)]
