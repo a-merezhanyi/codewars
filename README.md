@@ -534,7 +534,7 @@ JS Video Tutorial) :
 <br>
 **[(8 kyu) Even or Odd](https://www.codewars.com/kata/even-or-odd)**
 ([Description](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=MIviiAWfM_s)) :
 [[JavaScript](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.js>)]
 / [[TypeScript](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.ts>)]
 / [[Python](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.py>)]
