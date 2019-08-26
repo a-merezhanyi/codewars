@@ -634,7 +634,7 @@ JS Video Tutorial) :
 <br>
 **[(8 kyu) Sort and Star](https://www.codewars.com/kata/sort-and-star)**
 ([Description](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=24C_sH2qzds)) :
 [[JavaScript](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.js>)]
 / [[TypeScript](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.ts>)]
 / [[Python](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.py>)]
