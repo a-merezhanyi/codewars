@@ -552,7 +552,7 @@ JS Video Tutorial) :
 <br>
 **[(8 kyu) If you can't sleep, just count sheep](https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep)**
 ([Description](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=TdMqYpl-ThY)) :
 [[JavaScript](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.js>)]
 / [[TypeScript](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.ts>)]
 / [[Python](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.py>)]
