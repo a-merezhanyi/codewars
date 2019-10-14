@@ -561,7 +561,7 @@ JS Video Tutorial) :
 <br>
 **[(8 kyu) Jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)**
 ([Description](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=5-XSkw4iQE0)) :
 [[JavaScript](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.js>)]
 / [[TypeScript](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.ts>)]
 / [[Python](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.py>)]
