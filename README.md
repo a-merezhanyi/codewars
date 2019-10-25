@@ -652,7 +652,7 @@ JS Video Tutorial) :
 <br>
 **[(8 kyu) String repeat](https://www.codewars.com/kata/string-repeat)**
 ([Description](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=SN6hqiExBgs)) :
 [[JavaScript](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.js>)]
 / [[TypeScript](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.ts>)]
 / [[Python](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.py>)]
