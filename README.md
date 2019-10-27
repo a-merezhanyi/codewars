@@ -579,7 +579,7 @@ JS Video Tutorial) :
 <br>
 **[(8 kyu) Opposite number](https://www.codewars.com/kata/opposite-number)**
 ([Description](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=dOVEH7v5EmY)) :
 [[JavaScript](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.js>)]
 / [[TypeScript](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.ts>)]
 / [[Python](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.py>)]
