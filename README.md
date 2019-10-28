@@ -588,7 +588,7 @@ JS Video Tutorial) :
 <br>
 **[(8 kyu) Remove String Spaces](https://www.codewars.com/kata/remove-string-spaces)**
 ([Description](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=GgbU1aeeFmo)) :
 [[JavaScript](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.js>)]
 / [[TypeScript](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.ts>)]
 / [[Python](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.py>)]
