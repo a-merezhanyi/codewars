@@ -625,7 +625,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 <br>
 **[(8 kyu) Reversed sequence](https://www.codewars.com/kata/reversed-sequence)**
 ([Description](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=y1jgbZ8lt1s)) :
 [[JavaScript](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.js>)]
 / [[TypeScript](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.ts>)]
 / [[Python](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.py>)]
