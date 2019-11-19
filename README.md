@@ -175,7 +175,7 @@ JS Video Tutorial) :
 **[(6 kyu) Easy Balance Checking](https://www.codewars.com/kata/easy-balance-checking/)** ([Description](<(6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.md>) +
 JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.js>)]
-/ [TypeScript]
+/ [[TypeScript](<(6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.ts>)]
 / [Python]
 / [Rust]
 / [C++]
