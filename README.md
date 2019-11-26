@@ -248,7 +248,7 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.js>)]
 / [[TypeScript](<(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.ts>)]
-/ [Python]
+/ [[Python](<(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.py>)]
 / [Rust]
 / [C++]
 <br>
