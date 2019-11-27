@@ -168,7 +168,7 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.js>)]
 / [[TypeScript](<(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.ts>)]
-/ [Python]
+/ [[Python](<(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.py>)]
 / [Rust]
 / [C++]
 <br>
