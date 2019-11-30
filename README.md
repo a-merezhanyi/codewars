@@ -224,7 +224,7 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.js>)]
 / [[TypeScript](<(6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.ts>)]
-/ [Python]
+/ [[Python](<(6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.py>)]
 / [Rust]
 / [C++]
 <br>
