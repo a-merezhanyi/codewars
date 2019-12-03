@@ -216,7 +216,7 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.js>)]
 / [[TypeScript](<(6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.ts>)]
-/ [Python]
+/ [[Python](<(6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.py>)]
 / [Rust]
 / [C++]
 <br>
