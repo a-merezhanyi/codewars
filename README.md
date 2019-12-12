@@ -240,7 +240,7 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.js>)]
 / [[TypeScript](<(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.ts>)]
-/ [Python]
+/ [[Python](<(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.py>)]
 / [Rust]
 / [C++]
 <br>
