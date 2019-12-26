@@ -170,7 +170,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.ts>)]
 / [[Python](<(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.py>)]
 / [[Rust](<(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.rs>)]
-/ [C++]
+/ [[C++](<(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.cpp>)]
 <br>
 **[(6 kyu) Easy Balance Checking](https://www.codewars.com/kata/easy-balance-checking/)** ([Description](<(6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.md>) +
 JS Video Tutorial) :
