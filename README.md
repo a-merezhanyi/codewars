@@ -249,8 +249,8 @@ JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.js>)]
 / [[TypeScript](<(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.ts>)]
 / [[Python](<(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.py>)]
-/ [Rust]
-/ [C++]
+/ [[Rust](<(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.rs>)]
+/ [[C++](<(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.cpp>)]
 <br>
 **[(6 kyu) Salesman's Travel](https://www.codewars.com/kata/salesmans-travel/)** ([Description](<(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.md>) +
 JS Video Tutorial) :
