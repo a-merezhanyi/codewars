@@ -177,7 +177,7 @@ JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.js>)]
 / [[TypeScript](<(6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.ts>)]
 / [[Python](<(6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.py>)]
-/ [Rust]
+/ [[Rust](<(6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.rs>)]
 / [C++]
 <br>
 **[(6 kyu) Fibonacci Generator Function](https://www.codewars.com/kata/fibonacci-generator-function)** ([Description](<(6%20kyu)%20Fibonacci%20Generator%20Function/(6%20kyu)%20Fibonacci%20Generator%20Function.md>) +
