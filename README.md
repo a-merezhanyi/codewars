@@ -144,6 +144,14 @@ JS Video Tutorial) :
 / [Rust]
 / [[C++](<(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.cpp>)]
 
+**[(5 kyu) RGB To Hex Conversion](https://www.codewars.com/kata/rgb-to-hex-conversion/)** ([Description](<(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.md>) +
+JS Video Tutorial) :
+[[JavaScript](<(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.js>)]
+/ [TypeScript]
+/ [[Python](<(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.py>)]
+/ [Rust]
+/ [C++]
+
 ## 6 kyu Katas
 
 **[(6 kyu) CamelCase Method](https://www.codewars.com/kata/camelcase-method/)**
@@ -604,7 +612,7 @@ JS Video Tutorial) :
 / [[Rust](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.rs>)]
 / [[C++](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.cpp>)]
 <br>
-**[(8 kyu) Reversed 
+**[(8 kyu) Reversed
 Strings](https://www.codewars.com/kata/reversed-strings)**
 ([Description](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=ob-usjKDrXM)) :
