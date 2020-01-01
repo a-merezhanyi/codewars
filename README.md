@@ -149,8 +149,8 @@ JS Video Tutorial) :
 [[JavaScript](<(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.js>)]
 / [TypeScript]
 / [[Python](<(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.py>)]
-/ [Rust]
-/ [C++]
+/ [[Rust](<(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.rs>)]
+/ [[C++](<(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.cpp>)]
 
 ## 6 kyu Katas
 
