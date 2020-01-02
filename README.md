@@ -249,8 +249,8 @@ JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.js>)]
 / [[TypeScript](<(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.ts>)]
 / [[Python](<(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.py>)]
-/ [Rust]
-/ [C++]
+/ [[Rust](<(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.rs>)]
+/ [[C++](<(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.cpp>)]
 <br>
 **[(6 kyu) Reverse or rotate?](https://www.codewars.com/kata/reverse-or-rotate)** ([Description](<(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.md>) +
 JS Video Tutorial) :
