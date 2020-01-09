@@ -202,7 +202,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.ts>)]
 / [[Python](<(6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.py>)]
 / [Rust]
-/ [C++]
+/ [[C++](<(6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.cpp>)]
 <br>
 **[(6 kyu) Follow that Spy](https://www.codewars.com/kata/follow-that-spy)** ([Description](<(6%20kyu)%20Follow%20that%20Spy/(6%20kyu)%20Follow%20that%20Spy.md>) +
 JS Video Tutorial) :
