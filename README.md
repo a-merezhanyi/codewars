@@ -281,7 +281,7 @@ JS Video Tutorial) :
 
 **[(7 kyu) Build a square](https://www.codewars.com/kata/build-a-square/)**
 ([Description](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=z7fY9svM6h4)) :
 [[JavaScript](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.js>)]
 / [[TypeScript](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.ts>)]
 / [[Python](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.py>)]
