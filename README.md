@@ -651,7 +651,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 <br>
 **[(8 kyu) Square(n) Sum](https://www.codewars.com/kata/square-n-sum)**
 ([Description](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=6I2O8sJYWWE)) :
 [[JavaScript](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.js>)]
 / [[TypeScript](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.ts>)]
 / [[Python](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.py>)]
