@@ -499,7 +499,7 @@ JS Video Tutorial) :
 <br>
 **[(8 kyu) Basic subclasses - Adam and Eve](https://www.codewars.com/kata/547274e24481cfc469000416)**
 ([Description](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=FFXtwgJicQg))) :
 [[JavaScript](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.js>)]
 / [[TypeScript](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.ts>)]
 / [[Python](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.py>)]
