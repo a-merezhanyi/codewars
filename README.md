@@ -145,7 +145,7 @@ JS Video Tutorial) :
 / [[C++](<(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.cpp>)]
 
 **[(5 kyu) RGB To Hex Conversion](https://www.codewars.com/kata/rgb-to-hex-conversion/)** ([Description](<(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=XiCsDn0tsVE)) :
 [[JavaScript](<(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.js>)]
 / [TypeScript]
 / [[Python](<(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.py>)]
