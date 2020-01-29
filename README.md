@@ -105,7 +105,7 @@ JS Video Tutorial) :
 / [C++]
 <br>
 **[(5 kyu) Count IP Addresses](https://www.codewars.com/kata/526989a41034285187000de4)** ([Description](<(5%20kyu)%20Count%20IP%20Addresses/(5%20kyu)%20Count%20IP%20Addresses.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=4v7ZvW8Tu1w)) :
 [[JavaScript](<(5%20kyu)%20Count%20IP%20Addresses/(5%20kyu)%20Count%20IP%20Addresses.js>)]
 / [TypeScript]
 / [Python]
