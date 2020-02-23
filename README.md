@@ -121,7 +121,7 @@ JS Video Tutorial) :
 / [C++]
 <br>
 **[(5 kyu) Human Readable Time](https://www.codewars.com/kata/human-readable-time)** ([Description](<(5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=QTjxPDIGlus)) :
 [[JavaScript](<(5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.js>)]
 / [TypeScript]
 / [Python]
@@ -299,7 +299,7 @@ JS Video Tutorial) :
 <br>
 **[(7 kyu) Complementary DNA](https://www.codewars.com/kata/complementary-dna/)**
 ([Description](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=88yQwlit-JY)) :
 [[JavaScript](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.js>)]
 / [[TypeScript](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.ts>)]
 / [[Python](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.py>)]
