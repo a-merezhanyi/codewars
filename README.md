@@ -308,7 +308,7 @@ JS Video Tutorial) :
 <br>
 **[(7 kyu) Even numbers in an array](https://www.codewars.com/kata/even-numbers-in-an-array/)**
 ([Description](<(7%20kyu)%20Even%20numbers%20in%20an%20array/(7%20kyu)%20Even%20numbers%20in%20an%20array.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=c87K0f-Ek-E)) :
 [[JavaScript](<(7%20kyu)%20Even%20numbers%20in%20an%20array/(7%20kyu)%20Even%20numbers%20in%20an%20array.js>)]
 / [[TypeScript](<(7%20kyu)%20Even%20numbers%20in%20an%20array/(7%20kyu)%20Even%20numbers%20in%20an%20array.ts>)]
 / [[Python](<(7%20kyu)%20Even%20numbers%20in%20an%20array/(7%20kyu)%20Even%20numbers%20in%20an%20array.py>)]
