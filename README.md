@@ -108,7 +108,7 @@ JS Video Tutorial) :
 [JS Video Tutorial](https://www.youtube.com/watch?v=4v7ZvW8Tu1w)) :
 [[JavaScript](<(5%20kyu)%20Count%20IP%20Addresses/(5%20kyu)%20Count%20IP%20Addresses.js>)]
 / [TypeScript]
-/ [Python]
+/ [[Python](<(5%20kyu)%20Count%20IP%20Addresses/(5%20kyu)%20Count%20IP%20Addresses.py>)]
 / [Rust]
 / [C++]
 <br>
