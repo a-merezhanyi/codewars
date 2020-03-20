@@ -317,7 +317,7 @@ JS Video Tutorial) :
 <br>
 **[(7 kyu) Exes and Ohs](https://www.codewars.com/kata/exes-and-ohs/)**
 ([Description](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=5j6y704Kucs)) :
 [[JavaScript](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.js>)]
 / [[TypeScript](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.ts>)]
 / [[Python](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.py>)]
