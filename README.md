@@ -116,9 +116,9 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<(5%20kyu)%20Fibonacci%20Generator/(5%20kyu)%20Fibonacci%20Generator.js>)]
 / [TypeScript]
-/ [Python]
-/ [Rust]
-/ [C++]
+/ ~~[Python]~~
+/ ~~[Rust]~~
+/ ~~[C++]~~
 <br>
 **[(5 kyu) Human Readable Time](https://www.codewars.com/kata/human-readable-time)** ([Description](<(5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=QTjxPDIGlus)) :
@@ -192,9 +192,9 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Fibonacci%20Generator%20Function/(6%20kyu)%20Fibonacci%20Generator%20Function.js>)]
 / [TypeScript]
-/ [Python]
-/ [Rust]
-/ [C++]
+/ ~~[Python]~~
+/ ~~[Rust]~~
+/ ~~[C++]~~
 <br>
 **[(6 kyu) Find the odd int](https://www.codewars.com/kata/find-the-odd-int)** ([Description](<(6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.md>) +
 JS Video Tutorial) :
@@ -216,9 +216,9 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Hard%20Time%20Bomb/(6%20kyu)%20Hard%20Time%20Bomb.js>)]
 / [TypeScript]
-/ [Python]
-/ [Rust]
-/ [C++]
+/ ~~[Python]~~
+/ ~~[Rust]~~
+/ ~~[C++]~~
 <br>
 **[(6 kyu) Help the bookseller](https://www.codewars.com/kata/help-the-bookseller/)** ([Description](<(6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.md>) +
 JS Video Tutorial) :
@@ -293,9 +293,9 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<(7%20kyu)%20Canvas%20Fun%201%20-%20Draw%20Lines/(7%20kyu)%20Canvas%20Fun%201%20-%20Draw%20Lines.js>)]
 / [TypeScript]
-/ [Python]
-/ [Rust]
-/ [C++]
+/ ~~[Python]~~
+/ ~~[Rust]~~
+/ ~~[C++]~~
 <br>
 **[(7 kyu) Complementary DNA](https://www.codewars.com/kata/complementary-dna/)**
 ([Description](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.md>) +
