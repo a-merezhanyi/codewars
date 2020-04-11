@@ -241,8 +241,8 @@ JS Video Tutorial) :
 [[JavaScript](<(6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.js>)]
 / [[TypeScript](<(6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.ts>)]
 / [[Python](<(6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.py>)]
-/ [Rust]
-/ [C++]
+/ [[Rust](<(6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.rs>)]
+/ [[C++](<(6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.cpp>)]
 <br>
 **[(6 kyu) Playing with passphrases](https://www.codewars.com/kata/playing-with-passphrases/)** ([Description](<(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.md>) +
 JS Video Tutorial) :
