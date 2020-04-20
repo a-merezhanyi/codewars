@@ -340,7 +340,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.ts>)]
 / [[Python](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.py>)]
 / [[Rust](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.rs>)]
-/ [C++]
+/ [[C++](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.cpp>)]
 <br>
 **[(7 kyu) Frequency sequence](https://www.codewars.com/kata/frequency-sequence/)**
 ([Description](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.md>) +
