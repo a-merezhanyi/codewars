@@ -331,7 +331,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.ts>)]
 / [[Python](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.py>)]
 / [[Rust](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.rs>)]
-/ [C++]
+/ [[C++](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.cpp>)]
 <br>
 **[(7 kyu) Form The Minimum](https://www.codewars.com/kata/form-the-minimum)**
 ([Description](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.md>) +
