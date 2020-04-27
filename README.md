@@ -132,7 +132,7 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<(5%20kyu)%20Memoized%20Fibonacci/(5%20kyu)%20Memoized%20Fibonacci.js>)]
 / [TypeScript]
-/ [Python]
+/ [[Python](<(5%20kyu)%20Memoized%20Fibonacci/(5%20kyu)%20Memoized%20Fibonacci.py>)]
 / [Rust]
 / [C++]
 <br>
