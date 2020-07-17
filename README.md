@@ -33,7 +33,7 @@ JS Video Tutorial) :
 **[(4 kyu) Decode the Morse code, advanced](https://www.codewars.com/kata/decode-the-morse-code-advanced)** ([Description](<(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced.md>) +
 JS Video Tutorial) :
 [[JavaScript](<(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced.js>)]
-/ [TypeScript]
+/ [[TypeScript](<(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced.ts>)]
 / [Python]
 / [Rust]
 / [C++]
