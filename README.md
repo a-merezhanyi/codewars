@@ -123,7 +123,7 @@ JS Video Tutorial) :
 **[(5 kyu) Human Readable Time](https://www.codewars.com/kata/human-readable-time)** ([Description](<(5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=QTjxPDIGlus)) :
 [[JavaScript](<(5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.js>)]
-/ [TypeScript]
+/ [[TypeScript](<(5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.ts>)]
 / [Python]
 / [Rust]
 / [C++]
