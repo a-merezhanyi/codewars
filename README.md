@@ -739,7 +739,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[TypeScript](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.ts>)]
 / [[Python](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.py>)]
 / [[Rust](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.rs>)]
-/ [[Go](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.go>)]]
+/ [[Go](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.go>)]
 / [[C++](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.cpp>)]
 <br>
 **[(8 kyu) The Feast of Many Beasts](https://www.codewars.com/kata/the-feast-of-many-beasts/)**
