@@ -729,7 +729,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[TypeScript](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.ts>)]
 / [[Python](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.py>)]
 / [[Rust](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.rs>)]
-/ [Go]
+/ [[Go](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.go>)]
 / [[С++](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.cpp>)]
 <br>
 **[(8 kyu) String repeat](https://www.codewars.com/kata/string-repeat)**
