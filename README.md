@@ -689,7 +689,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[TypeScript](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.ts>)]
 / [[Python](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.py>)]
 / [[Rust](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.rs>)]
-/ [Go]
+/ [[Go](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.go>)]
 / [[C++](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.cpp>)]
 <br>
 **[(8 kyu) Reversed Words](https://www.codewars.com/kata/reversed-words)**
