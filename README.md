@@ -111,7 +111,7 @@ JS Video Tutorial) :
 [JS Video Tutorial](https://www.youtube.com/watch?v=QTjxPDIGlus)) :
 [[JavaScript](<(5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.js>)]
 / [[TypeScript](<(5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.ts>)]
-/ [Python]
+/ [[Python](<(5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.py>)]
 / [Rust]
 <br>
 **[(5 kyu) Memoized Fibonacci](https://www.codewars.com/kata/memoized-fibonacci)** ([Description](<(5%20kyu)%20Memoized%20Fibonacci/(5%20kyu)%20Memoized%20Fibonacci.md>) +
