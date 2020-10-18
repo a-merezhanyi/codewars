@@ -11,9 +11,9 @@ _Please be noticed, that violating Codewars ToS might lead to the termitation of
 
 ## My solutions for Codewars' Kata https://www.codewars.com
 
-My Profile: https://www.codewars.com/users/e1r0nd<br>
+My Profile: https://www.codewars.com/users/e1r0nd
 
-**A collection of TDD katas (simple programs) written in JavaScript, TypeScript, Python, Rust, and more to learn and have fun!**
+**A collection of TDD katas (simple programs) written in JavaScript, Python, Rust, and more to learn and have fun!**
 
 ### JavaScript Video Tutorials playlist: [Codewars' katas solved](https://www.youtube.com/watch?v=cxNFuXg66sg&list=PLEZfD_aygfgJ2ov9PncOovO4Q3Ym82ctA)
 
@@ -661,6 +661,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[Python](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.py>)]
 / [[Rust](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.rs>)]
 / [[C++](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.cpp>)]
+/ [[Java](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.java>)]
 <br>
 **[(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe](http://www.codewars.com/kata/alternating-case-%3C-equals-%3E-alternating-case)** ([Description](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=ECzUJBc9fO0)) :
