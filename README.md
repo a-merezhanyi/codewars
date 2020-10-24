@@ -652,6 +652,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[Rust](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.rs>)]
 / [[Go](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.go>)]
 / [[C++](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.cpp>)]
+/ [[Java](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.java>)]
 <br>
 **[(8 kyu) The Feast of Many Beasts](https://www.codewars.com/kata/the-feast-of-many-beasts/)**
 ([Description](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.md>) +
