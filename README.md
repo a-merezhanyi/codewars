@@ -632,6 +632,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[Python](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.py>)]
 / [[Rust](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.rs>)]
 / [[C++](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.cpp>)]
+/ [[Java](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.java>)]
 <br>
 **[(8 kyu) Square(n) Sum](https://www.codewars.com/kata/square-n-sum)**
 ([Description](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.md>) +
@@ -642,6 +643,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[Rust](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.rs>)]
 / [[Go](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.go>)]
 / [[С++](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.cpp>)]
+/ [[Java](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.java>)]
 <br>
 **[(8 kyu) String repeat](https://www.codewars.com/kata/string-repeat)**
 ([Description](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.md>) +
