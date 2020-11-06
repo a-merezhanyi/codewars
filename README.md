@@ -717,7 +717,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[Python](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.py>)]
 / [[Rust](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.rs>)]
 / [[C++](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.cpp>)]
-/ [Java]
+/ [[Java](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.java>)]
 <br>
 **[(8 kyu) Sort and Star](https://www.codewars.com/kata/sort-and-star)**
 ([Description](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.md>) +
