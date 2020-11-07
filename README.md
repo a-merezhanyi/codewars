@@ -707,7 +707,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[Python](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.py>)]
 / [[Rust](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.rs>)]
 / [C++]
-/ [Java]
+/ [[Java](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.java>)]
 <br>
 **[(8 kyu) Reversed sequence](https://www.codewars.com/kata/reversed-sequence)**
 ([Description](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.md>) +
