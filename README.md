@@ -654,7 +654,7 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.py>)]
 / [[Rust](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.rs>)]
 / [[C++](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.cpp>)]
-/ [Java]
+/ [Java](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.java>)]
 / [[Go](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.go>)]
 <br>
 **[(8 kyu) Opposite number](https://www.codewars.com/kata/opposite-number)**
