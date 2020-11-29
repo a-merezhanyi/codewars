@@ -18,11 +18,15 @@
 // }
 
 // #3
-public class Greeter {
+// public class Greeter {
+//   public static String greet(String name) {
+//     return String.format("Hello, %s!", (name.equals("Johnny")) ? "my love" : name);
+//   }
+// }
+
+// #4
+class Greeter {
   public static String greet(String name) {
-    return String.format("Hello, %s!", (name.equals("Johnny"))
-                         ? "my love"
-                         : name
-                         );
+    return "Hello, " + (name == "Johnny" ? "my love" : name) + "!";
   }
 }
