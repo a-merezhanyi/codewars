@@ -42,13 +42,18 @@ String.prototype.toAlternatingCase = function() {
 }
 
 // #5 Coding golf
-String.prototype
-  .toAlternatingCase = function() {
-  return this.
-    replace(
-      /[A-z]/g,
-      x => x["to"
-        + (x > "Z" ? "Upper" : "Lower")
-        + "Case"]()
-    ) 
+String
+  .prototype
+  .toAlternatingCase =
+  function() {
+    return this.
+      replace(
+        /[A-z]/g,
+        x => x[
+          `to${x > "Z"
+            ? "Upper"
+            : "Lower"
+          }Case`
+        ]()
+      ) 
 }
