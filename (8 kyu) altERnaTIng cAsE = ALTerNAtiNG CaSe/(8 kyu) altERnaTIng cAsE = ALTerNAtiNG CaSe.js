@@ -1,6 +1,7 @@
 // 1 Plain solution
 String.prototype.toAlternatingCase = function() {
-  res = "";
+  let res = "";
+  
   for(let i = 0; i < this.length; i++) {
     if (this[i] === this[i].toUpperCase()) {
       res += this[i].toLowerCase();
@@ -8,6 +9,7 @@ String.prototype.toAlternatingCase = function() {
       res += this[i].toUpperCase();
     }
   }
+  
   return res;
 }
 
@@ -18,6 +20,7 @@ String.prototype.toAlternatingCase = function(res = "") {
       ? this[i].toLowerCase()
       : this[i].toUpperCase();
   }
+  
   return res;
 }
 
@@ -28,7 +31,7 @@ String.prototype.toAlternatingCase = function() {
           ? c.toLowerCase()
           : c.toUpperCase()),
   ).join('');
-};
+}
 
 // 4 Clever solution
 String.prototype.toAlternatingCase = function() {
