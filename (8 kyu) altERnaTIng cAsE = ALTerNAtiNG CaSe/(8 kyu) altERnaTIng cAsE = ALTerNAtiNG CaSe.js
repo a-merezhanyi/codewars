@@ -1,4 +1,4 @@
-// #1 Plain solution
+// 1 Plain solution
 String.prototype.toAlternatingCase = function() {
   res = "";
   for(let i = 0; i < this.length; i++) {
@@ -11,7 +11,7 @@ String.prototype.toAlternatingCase = function() {
   return res;
 }
 
-// #2 Straightforward solution
+// 2 Straightforward solution
 String.prototype.toAlternatingCase = function(res = "") {
   for(let i = 0; i < this.length; i++) {
     res += this[i] === this[i].toUpperCase()
@@ -21,7 +21,7 @@ String.prototype.toAlternatingCase = function(res = "") {
   return res;
 }
 
-// #3 Optimized solution
+// 3 Optimized solution
 String.prototype.toAlternatingCase = function() {
   return [...this].map(
     c => (c === c.toUpperCase()
@@ -30,7 +30,7 @@ String.prototype.toAlternatingCase = function() {
   ).join('');
 };
 
-// #4 Clever solution
+// 4 Clever solution
 String.prototype.toAlternatingCase = function() {
   return this.
     replace(
@@ -41,7 +41,7 @@ String.prototype.toAlternatingCase = function() {
     ) 
 }
 
-// #5 Coding golf
+// 5 Coding golf
 String
   .prototype
   .toAlternatingCase =
