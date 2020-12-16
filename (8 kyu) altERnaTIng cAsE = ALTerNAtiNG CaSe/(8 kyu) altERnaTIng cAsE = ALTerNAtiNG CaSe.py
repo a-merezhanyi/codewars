@@ -1,24 +1,24 @@
-# 1
+# 1 Plain solution
 def to_alternating_case(string):
     result = []
-    for x in string:
-        if x.islower():
-            result.append(x.upper())
+    for c in string:
+        if c.islower():
+            result.append(c.upper())
         else:
-            result.append(x.lower())
+            result.append(c.lower())
     return ''.join(result)
 
-# 2
+# 2 Straightforward solution
 def to_alternating_case(string):
-    return ''.join(list(map(lambda s:s.upper() if s.islower() else s.lower(),string)))
+    return ''.join(list(map(lambda c:c.upper() if c.islower() else c.lower(), string)))
 
-# 3
+# 3 Optimized solution
 def to_alternating_case(string):
     return ''.join([c.upper() if c.islower() else c.lower() for c in string])
 
-# 4
+# 4 Clever solution
 def to_alternating_case(string):
     return string.swapcase()
 
-# 5
+# 5 Coding golf
 to_alternating_case = str.swapcase
