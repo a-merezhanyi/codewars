@@ -41,7 +41,6 @@ public class Kata {
 import java.util.stream.*;
 
 public class Kata {
-
   public static int[] countPositivesSumNegatives(int[] input) {
     return input == null || input.length == 0 ? 
       new int[0] : 
