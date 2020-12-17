@@ -584,7 +584,7 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.py>)]
 / [[Rust](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.rs>)]
 / [[C++](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.cpp>)]
-/ [Java]
+/ [[Java](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.java>)]
 <br>
 **[(8 kyu) Counting sheep](https://www.codewars.com/kata/counting-sheep-dot-dot-dot)**
 ([Description](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.md>) +
