@@ -11,10 +11,33 @@ def to_alternating_case(string):
 # 2 Straightforward solution
 def to_alternating_case(string):
     return ''.join(list(map(lambda c:c.upper() if c.islower() else c.lower(), string)))
+"""
+def to_alternating_case(string):
+    return ''.join(
+        list(
+            map(
+                lambda c:c.upper()
+                if c.islower()
+                else c.lower(),
+                string
+            )
+        )
+    )
+"""
 
 # 3 Optimized solution
 def to_alternating_case(string):
     return ''.join([c.upper() if c.islower() else c.lower() for c in string])
+"""
+def to_alternating_case(string):
+    return ''.join(
+        [c.upper()
+         if c.islower()
+         else c.lower()
+         for c in string
+        ]
+    )
+"""
 
 # 4 Clever solution
 def to_alternating_case(string):
