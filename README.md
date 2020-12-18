@@ -575,7 +575,7 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.py>)]
 / [[Rust](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.rs>)]
 / [[C++](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.cpp>)]
-/ [Java]
+/ [[Java](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.java>)]
 <br>
 **[(8 kyu) Count of positives - sum of negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)** ([Description](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=Agva6gkNmok)) :
