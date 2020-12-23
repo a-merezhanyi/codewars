@@ -545,7 +545,7 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.py>)]
 / [[Rust](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.rs>)]
 / [[C++](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.cpp>)]
-/ [Java]
+/ [[Java](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 
 ## 8 kyu Katas
 
