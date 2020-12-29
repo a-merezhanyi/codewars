@@ -99,7 +99,7 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<(4%20kyu)%20Strip%20Comments/(4%20kyu)%20Strip%20Comments.js>)]
 / [TypeScript]
-/ [Python]
+/ [[Python](<(4%20kyu)%20Strip%20Comments/(4%20kyu)%20Strip%20Comments.py>)]
 / [Rust]
 / [C++]
 / [Java]
