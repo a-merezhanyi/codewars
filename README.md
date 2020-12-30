@@ -525,7 +525,7 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.py>)]
 / [[Rust](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.rs>)]
 / [[C++](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.cpp>)]
-/ [Java]
+/ [[Java](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.java>)]
 <br>
 **[(7 kyu) Thinkful - String Drills. Repeater](https://www.codewars.com/kata/thinkful-string-drills-repeater/)**
 ([Description](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.md>) +
