@@ -22,3 +22,6 @@ public class BeadsCounter {
     return Math.max(0, (nBlue - 1) * 2);
   }
 }
+
+// Coding golf
+class BeadsCounter { static int countRedBeads(int n) { return Math.max(0, n - 1) << 1; } }
