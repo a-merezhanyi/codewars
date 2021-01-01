@@ -495,7 +495,7 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.py>)]
 / [[Rust](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.rs>)]
 / [[C++](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.cpp>)]
-/ [Java]
+/ [[Java](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.java>)]
 <br>
 **[(7 kyu) Simple beads count](https://www.codewars.com/kata/simple-beads-count)**
 ([Description](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.md>) +
