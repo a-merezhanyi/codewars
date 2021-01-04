@@ -33,11 +33,11 @@ JS Video Tutorial) :
 **[(3 kyu) The soul of wit - reverse an array](https://www.codewars.com/kata/the-soul-of-wit-reverse-an-array)** ([Description](<(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array/(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.md>) +
 JS Video Tutorial) :
 [[JavaScript](<(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array/(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.js>)]
-/ [TypeScript]
-/ [Python]
-/ [Rust]
-/ [C++]
-/ [Java]
+/ [[TypeScript](<(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array/(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.ts>)]
+/ ~~[Python]~~
+/ ~~[Rust]~~
+/ ~~[C++]~~
+/ ~~[Java]~~
 
 ## 4 kyu Katas
 
@@ -80,11 +80,11 @@ JS Video Tutorial) :
 **[(4 kyu) Reverse it, quickly](https://www.codewars.com/kata/reverse-it-quickly)** ([Description](<(4%20kyu)%20Reverse%20it%2C%20quickly/(4%20kyu)%20Reverse%20it%2C%20quickly.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=Y-bnrIVHraQ)) :
 [[JavaScript](<(4%20kyu)%20Reverse%20it%2C%20quickly/(4%20kyu)%20Reverse%20it%2C%20quickly.js>)]
-/ [TypeScript]
-/ [Python]
-/ [Rust]
-/ [C++]
-/ [Java]
+/ ~~[TypeScript]~~
+/ ~~[Python]~~
+/ ~~[Rust]~~
+/ ~~[C++]~~
+/ ~~[Java]~~
 <br>
 **[(4 kyu) Snail](https://www.codewars.com/kata/snail/)** ([Description](<(4%20kyu)%20Snail/(4%20kyu)%20Snail.md>) +
 JS Video Tutorial) :
