@@ -465,7 +465,8 @@ JS Video Tutorial) :
 / [[TypeScript](<(7%20kyu)%20Recursion%202%20-%20Fibonacci/(7%20kyu)%20Recursion%202%20-%20Fibonacci.ts>)]
 / [[Python](<(7%20kyu)%20Recursion%202%20-%20Fibonacci/(7%20kyu)%20Recursion%202%20-%20Fibonacci.py>)]
 / [[Rust](<(7%20kyu)%20Recursion%202%20-%20Fibonacci/(7%20kyu)%20Recursion%202%20-%20Fibonacci.rs>)]
-/ [Java]
+/ ~~[C++]~~
+/ ~~[Java]~~
 <br>
 **[(7 kyu) Remove duplicate words](http://www.codewars.com/kata/remove-duplicate-words)**
 ([Description](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.md>) +
