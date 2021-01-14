@@ -1,9 +1,9 @@
 # 1 Plain Solution
 def feast(beast, dish):
-   start = beast.startswith(dish[:1])
-   end = beast.endswith(dish[-1:])
-    
-   return start and end
+    start = beast.startswith(dish[:1])
+    end = beast.endswith(dish[-1:])
+
+    return start and end
 
 # 2 Optimized solution
 def feast(beast, dish):
