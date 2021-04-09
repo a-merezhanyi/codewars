@@ -656,6 +656,7 @@ JS Video Tutorial) :
 / [[Rust](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.rs>)]
 / [[C++](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.cpp>)]
 / [Java](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.java>)]
+/ [[C#](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.cs>)]
 / [[Go](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.go>)]
 <br>
 **[(8 kyu) Opposite number](https://www.codewars.com/kata/opposite-number)**
