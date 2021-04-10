@@ -762,6 +762,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[Rust](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.rs>)]
 / [[C++](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.cpp>)]
 / [[Java](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.java>)]
+/ [[C#](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.cs>)]
 <br>
 **[(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe](http://www.codewars.com/kata/alternating-case-%3C-equals-%3E-alternating-case)** ([Description](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=ECzUJBc9fO0)) :
