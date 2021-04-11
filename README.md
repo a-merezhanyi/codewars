@@ -655,8 +655,8 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.py>)]
 / [[Rust](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.rs>)]
 / [[C++](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.cpp>)]
-/ [Java](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.java>)]
 / [[C#](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.cs>)]
+/ [Java](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.java>)]
 / [[Go](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.go>)]
 <br>
 **[(8 kyu) Opposite number](https://www.codewars.com/kata/opposite-number)**
@@ -750,6 +750,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[Python](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.py>)]
 / [[Rust](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.rs>)]
 / [[C++](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.cpp>)]
+/ [[C#](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.cs>)]
 / [[Java](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.java>)]
 / [[Go](<(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.go>)]
 <br>
@@ -761,8 +762,8 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[Python](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.py>)]
 / [[Rust](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.rs>)]
 / [[C++](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.cpp>)]
-/ [[Java](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.java>)]
 / [[C#](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.cs>)]
+/ [[Java](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.java>)]
 <br>
 **[(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe](http://www.codewars.com/kata/alternating-case-%3C-equals-%3E-alternating-case)** ([Description](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=ECzUJBc9fO0)) :
@@ -771,5 +772,5 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[Python](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.py>)]
 / [[Rust](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.rs>)]
 / [[C++](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.cpp>)]
-/ [[Java](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.java>)]
 / [[C#](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.cs>)]
+/ [[Java](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.java>)]
