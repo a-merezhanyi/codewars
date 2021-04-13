@@ -739,6 +739,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[Python](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.py>)]
 / [[Rust](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.rs>)]
 / [[С++](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.cpp>)]
+/ [[С#](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.cs>)]
 / [[Java](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.java>)]
 / [[Go](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.go>)]
 <br>
