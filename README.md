@@ -729,6 +729,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[Python](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.py>)]
 / [[Rust](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.rs>)]
 / [[C++](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.cpp>)]
+/ [[C#](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.cs>)]
 / [[Java](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.java>)]
 <br>
 **[(8 kyu) Square(n) Sum](https://www.codewars.com/kata/square-n-sum)**
