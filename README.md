@@ -687,9 +687,9 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.py>)]
 / [[Rust](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.rs>)]
 / [[C++](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.cpp>)]
-/ [C#]
+/ [[C#](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.cs>)]
 / [[Java](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.java>)]
-/ [Go]
+/ [[Go](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.go>)]
 <br>
 **[(8 kyu) Remove String Spaces](https://www.codewars.com/kata/remove-string-spaces)**
 ([Description](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.md>) +
