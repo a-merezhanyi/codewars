@@ -688,6 +688,7 @@ JS Video Tutorial) :
 / [[Rust](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.rs>)]
 / [[C++](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.cpp>)]
 / [[Java](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.java>)]
+/ [[Go](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.go>)]
 <br>
 **[(8 kyu) Reversed
 Strings](https://www.codewars.com/kata/reversed-strings)**
