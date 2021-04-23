@@ -558,7 +558,9 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.py>)]
 / [[Rust](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.rs>)]
 / [[C++](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.cpp>)]
+/ [C#]
 / [[Java](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.java>)]
+/ [Go]
 <br>
 **[(8 kyu) Basic subclasses - Adam and Eve](https://www.codewars.com/kata/547274e24481cfc469000416)**
 ([Description](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.md>) +
@@ -567,7 +569,9 @@ JS Video Tutorial) :
 / [[TypeScript](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.ts>)]
 / [[Python](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.py>)]
 / ~~[Rust]~~
+/ C#]
 / [[Java](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.java>)]
+/ ~~[Go]~~
 <br>
 **[(8 kyu) Century From Year](https://www.codewars.com/kata/century-from-year/)** ([Description](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=r4FcQieqKFM)) :
@@ -576,7 +580,9 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.py>)]
 / [[Rust](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.rs>)]
 / [[C++](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.cpp>)]
+/ [C#]
 / [[Java](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.java>)]
+/ [Go]
 <br>
 **[(8 kyu) Count of positives - sum of negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)** ([Description](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=Agva6gkNmok)) :
@@ -585,7 +591,9 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.py>)]
 / [[Rust](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.rs>)]
 / [[C++](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.cpp>)]
+/ [C#]
 / [[Java](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.java>)]
+/ [Go]
 <br>
 **[(8 kyu) Counting sheep](https://www.codewars.com/kata/counting-sheep-dot-dot-dot)**
 ([Description](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.md>) +
@@ -595,7 +603,9 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.py>)]
 / [[Rust](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.rs>)]
 / [[C++](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.cpp>)]
+/ [C#]
 / [[Java](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.java>)]
+/ [Go]
 <br>
 **[(8 kyu) DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion)**
 ([Description](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.md>) +
@@ -605,7 +615,9 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.py>)]
 / [[Rust](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.rs>)]
 / [[C++](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.cpp>)]
+/ [C#]
 / [[Java](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.java>)]
+/ [Go]
 <br>
 **[(8 kyu) Even or Odd](https://www.codewars.com/kata/even-or-odd)**
 ([Description](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.md>) +
@@ -615,7 +627,9 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.py>)]
 / [[Rust](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.rs>)]
 / [[C++](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.cpp>)]
+/ [C#]
 / [[Java](<(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.java>)]
+/ [Go]
 <br>
 **[(8 kyu) Find the smallest integer in the array](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array)**
 ([Description](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.md>) +
@@ -625,7 +639,9 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.py>)]
 / [[Rust](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.rs>)]
 / [[C++](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.cpp>)]
+/ [C#]
 / [[Java](<(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.java>)]
+/ [Go]
 <br>
 **[(8 kyu) If you can't sleep, just count sheep](https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep)**
 ([Description](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.md>) +
@@ -635,7 +651,9 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.py>)]
 / [[Rust](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.rs>)]
 / [[C++](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.cpp>)]
+/ [C#]
 / [[Java](<(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.java>)]
+/ [Go]
 <br>
 **[(8 kyu) Jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)**
 ([Description](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.md>) +
@@ -645,7 +663,9 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.py>)]
 / [[Rust](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.rs>)]
 / [[C++](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.cpp>)]
+/ [C#]
 / [[Java](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.java>)]
+/ [Go]
 <br>
 **[(8 kyu) Multiply](https://www.codewars.com/kata/multiply/)**
 ([Description](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.md>) +
@@ -667,7 +687,9 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.py>)]
 / [[Rust](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.rs>)]
 / [[C++](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.cpp>)]
+/ [C#]
 / [[Java](<(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.java>)]
+/ [Go]
 <br>
 **[(8 kyu) Remove String Spaces](https://www.codewars.com/kata/remove-string-spaces)**
 ([Description](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.md>) +
@@ -677,7 +699,9 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.py>)]
 / [[Rust](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.rs>)]
 / [[C++](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.cpp>)]
+/ [C#]
 / [[Java](<(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.java>)]
+/ [Go]
 <br>
 **[(8 kyu) Return Negative](https://www.codewars.com/kata/return-negative)**
 ([Description](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.md>) +
@@ -687,6 +711,7 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.py>)]
 / [[Rust](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.rs>)]
 / [[C++](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.cpp>)]
+/ [C#]
 / [[Java](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.java>)]
 / [[Go](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.go>)]
 <br>
@@ -699,6 +724,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[Python](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.py>)]
 / [[Rust](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.rs>)]
 / [[C++](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.cpp>)]
+/ [C#]
 / [[Java](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.java>)]
 / [[Go](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.go>)]
 <br>
@@ -710,7 +736,9 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[Python](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.py>)]
 / [[Rust](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.rs>)]
 / [C++]
+/ [C#]
 / [[Java](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.java>)]
+/ [Go]
 <br>
 **[(8 kyu) Reversed sequence](https://www.codewars.com/kata/reversed-sequence)**
 ([Description](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.md>) +
@@ -722,6 +750,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[C++](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.cpp>)]
 / [[C#](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.cs>)]
 / [[Java](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.java>)]
+/ [Go]
 <br>
 **[(8 kyu) Sort and Star](https://www.codewars.com/kata/sort-and-star)**
 ([Description](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.md>) +
@@ -733,6 +762,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[C++](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.cpp>)]
 / [[C#](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.cs>)]
 / [[Java](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.java>)]
+/ [Go]
 <br>
 **[(8 kyu) Square(n) Sum](https://www.codewars.com/kata/square-n-sum)**
 ([Description](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.md>) +
@@ -768,6 +798,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[C++](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.cpp>)]
 / [[C#](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.cs>)]
 / [[Java](<(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.java>)]
+/ [Go]
 <br>
 **[(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe](http://www.codewars.com/kata/alternating-case-%3C-equals-%3E-alternating-case)** ([Description](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=ECzUJBc9fO0)) :
@@ -778,3 +809,4 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[C++](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.cpp>)]
 / [[C#](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.cs>)]
 / [[Java](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.java>)]
+/ [Go]
