@@ -663,7 +663,7 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.py>)]
 / [[Rust](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.rs>)]
 / [[C++](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.cpp>)]
-/ [C#]
+/ [[C#](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.cs>)]
 / [[Java](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.java>)]
 / [Go]
 <br>
