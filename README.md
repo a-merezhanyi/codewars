@@ -736,7 +736,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[Python](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.py>)]
 / [[Rust](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.rs>)]
 / [C++]
-/ [C#]
+/ [[C#](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.cs>)]
 / [[Java](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.java>)]
 / [Go]
 <br>
