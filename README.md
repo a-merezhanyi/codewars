@@ -603,7 +603,7 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.py>)]
 / [[Rust](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.rs>)]
 / [[C++](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.cpp>)]
-/ [C#]
+/ [[C#](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.cs>)]
 / [[Java](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.java>)]
 / [Go]
 <br>
