@@ -591,7 +591,7 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.py>)]
 / [[Rust](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.rs>)]
 / [[C++](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.cpp>)]
-/ [C#]
+/ [[C#](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.cs>)]
 / [[Java](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.java>)]
 / [Go]
 <br>
