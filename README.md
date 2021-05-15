@@ -569,7 +569,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.ts>)]
 / [[Python](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.py>)]
 / ~~[Rust]~~
-/ C#]
+/ [C#]
 / [[Java](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.java>)]
 / ~~[Go]~~
 <br>
@@ -580,9 +580,9 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.py>)]
 / [[Rust](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.rs>)]
 / [[C++](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.cpp>)]
-/ [C#]
+/ [[C#](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.cs>)]
 / [[Java](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.java>)]
-/ [Go]
+/ [[Go](<(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.go>)]
 <br>
 **[(8 kyu) Count of positives - sum of negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)** ([Description](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=Agva6gkNmok)) :
