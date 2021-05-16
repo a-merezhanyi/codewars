@@ -328,7 +328,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.py>)]
 / [[Rust](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.rs>)]
 / [[C++](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.cpp>)]
+/ [C#]
 / [Java]
+/ [Go]
 <br>
 **[(7 kyu) Canvas Fun 1 - Draw Lines](http://www.codewars.com/kata/canvas-fun-number-1-draw-lines)**
 ([Description](<(7%20kyu)%20Canvas%20Fun%201%20-%20Draw%20Lines/(7%20kyu)%20Canvas%20Fun%201%20-%20Draw%20Lines.md>) +
@@ -338,7 +340,9 @@ JS Video Tutorial) :
 / ~~[Python]~~
 / ~~[Rust]~~
 / ~~[C++]~~
+/ ~~[C#]~~
 / ~~[Java]~~
+/ ~~[Go]~~
 <br>
 **[(7 kyu) Complementary DNA](https://www.codewars.com/kata/complementary-dna/)**
 ([Description](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.md>) +
@@ -348,7 +352,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.py>)]
 / [[Rust](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.rs>)]
 / [[C++](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.cpp>)]
+/ [C#]
 / [Java]
+/ [Go]
 <br>
 **[(7 kyu) Even numbers in an array](https://www.codewars.com/kata/even-numbers-in-an-array/)**
 ([Description](<(7%20kyu)%20Even%20numbers%20in%20an%20array/(7%20kyu)%20Even%20numbers%20in%20an%20array.md>) +
@@ -358,7 +364,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Even%20numbers%20in%20an%20array/(7%20kyu)%20Even%20numbers%20in%20an%20array.py>)]
 / [[Rust](<(7%20kyu)%20Even%20numbers%20in%20an%20array/(7%20kyu)%20Even%20numbers%20in%20an%20array.rs>)]
 / [[C++](<(7%20kyu)%20Even%20numbers%20in%20an%20array/(7%20kyu)%20Even%20numbers%20in%20an%20array.cpp>)]
+/ [C#]
 / [Java]
+/ [Go]
 <br>
 **[(7 kyu) Exes and Ohs](https://www.codewars.com/kata/exes-and-ohs/)**
 ([Description](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.md>) +
@@ -368,7 +376,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.py>)]
 / [[Rust](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.rs>)]
 / [[C++](<(7%20kyu)%20Exes%20and%20Ohs/7%20kyu%20Exes%20and%20Ohs.cpp>)]
+/ [C#]
 / [Java]
+/ [Go]
 <br>
 **[(7 kyu) Form The Largest](https://www.codewars.com/kata/form-the-largest)**
 ([Description](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.md>) +
@@ -378,7 +388,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.py>)]
 / [[Rust](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.rs>)]
 / [[C++](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.cpp>)]
+/ [C#]
 / [Java]
+/ [Go]
 <br>
 **[(7 kyu) Form The Minimum](https://www.codewars.com/kata/form-the-minimum)**
 ([Description](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.md>) +
@@ -388,7 +400,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.py>)]
 / [[Rust](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.rs>)]
 / [[C++](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.cpp>)]
+/ [C#]
 / [Java]
+/ [Go]
 <br>
 **[(7 kyu) Frequency sequence](https://www.codewars.com/kata/frequency-sequence/)**
 ([Description](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.md>) +
@@ -397,7 +411,10 @@ JS Video Tutorial) :
 / [[TypeScript](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.ts>)]
 / [[Python](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.py>)]
 / [[Rust](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.rs>)]
+/ [C++]
+/ [C#]
 / [Java]
+/ [Go]
 <br>
 **[(7 kyu) Get the Middle Character](https://www.codewars.com/kata/get-the-middle-character/)**
 ([Description](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.md>) +
@@ -407,7 +424,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.py>)]
 / [[Rust](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.rs>)]
 / [[C++](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.cpp>)]
+/ [C#]
 / [Java]
+/ [Go]
 <br>
 **[(7 kyu) Highest and Lowest](https://www.codewars.com/kata/highest-and-lowest)**
 ([Description](<(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.md>) +
@@ -417,7 +436,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.py>)]
 / [[Rust](<(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.rs>)]
 / [[C++](<(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.cpp>)]
+/ [C#]
 / [Java]
+/ [Go]
 <br>
 **[(7 kyu) Jaden Casing Strings](https://www.codewars.com/kata/jaden-casing-strings)**
 ([Description](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.md>) +
@@ -427,7 +448,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.py>)]
 / [[Rust](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.rs>)]
 / [[C++](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.cpp>)]
+/ [C#]
 / [Java]
+/ [Go]
 <br>
 **[(7 kyu) Last](https://www.codewars.com/kata/541629460b198da04e000bb9)**
 ([Description](<(7%20kyu)%20Last/(7%20kyu)%20Last.md>) +
@@ -436,7 +459,10 @@ JS Video Tutorial) :
 / [[TypeScript](<(7%20kyu)%20Last/(7%20kyu)%20Last.ts>)]
 / [[Python](<(7%20kyu)%20Last/(7%20kyu)%20Last.py>)]
 / [[Rust](<(7%20kyu)%20Last/(7%20kyu)%20Last.rs>)]
+/ [C++]
+/ [C#]
 / [Java]
+/ [Go]
 <br>
 **[(7 kyu) Mumbling](https://www.codewars.com/kata/mumbling/)**
 ([Description](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.md>) +
@@ -446,7 +472,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.py>)]
 / [[Rust](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.rs>)]
 / [[C++](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.cpp>)]
+/ [C#]
 / [Java]
+/ [Go]
 <br>
 **[(7 kyu) Number of People in the Bus](https://www.codewars.com/kata/number-of-people-in-the-bus/)**
 ([Description](<(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.md>) +
@@ -456,7 +484,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.py>)]
 / [[Rust](<(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.rs>)]
 / [[C++](<(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.cpp>)]
+/ [C#]
 / [Java]
+/ [Go]
 <br>
 **[(7 kyu) Recursion #2 - Fibonacci](https://www.codewars.com/kata/recursion-number-2-fibonacci/)**
 ([Description](<(7%20kyu)%20Recursion%202%20-%20Fibonacci/(7%20kyu)%20Recursion%202%20-%20Fibonacci.md>) +
@@ -466,7 +496,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Recursion%202%20-%20Fibonacci/(7%20kyu)%20Recursion%202%20-%20Fibonacci.py>)]
 / [[Rust](<(7%20kyu)%20Recursion%202%20-%20Fibonacci/(7%20kyu)%20Recursion%202%20-%20Fibonacci.rs>)]
 / ~~[C++]~~
+/ ~~[C#]~~
 / ~~[Java]~~
+/ ~~[Go]~~
 <br>
 **[(7 kyu) Remove duplicate words](http://www.codewars.com/kata/remove-duplicate-words)**
 ([Description](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.md>) +
@@ -476,7 +508,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.py>)]
 / [[Rust](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.rs>)]
 / [[C++](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.cpp>)]
+/ [C#]
 / [[Java](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.java>)]
+/ [Go]
 <br>
 **[(7 kyu) Reverse words](https://www.codewars.com/kata/reverse-words)**
 ([Description](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.md>) +
@@ -486,7 +520,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.py>)]
 / [[Rust](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.rs>)]
 / [[C++](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.cpp>)]
+/ [C#]
 / [[Java](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.java>)]
+/ [Go]
 <br>
 **[(7 kyu) Shortest Word](http://www.codewars.com/kata/shortest-word/)**
 ([Description](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.md>) +
@@ -496,7 +532,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.py>)]
 / [[Rust](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.rs>)]
 / [[C++](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.cpp>)]
+/ [C#]
 / [[Java](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.java>)]
+/ [Go]
 <br>
 **[(7 kyu) Simple beads count](https://www.codewars.com/kata/simple-beads-count)**
 ([Description](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.md>) +
@@ -506,7 +544,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.py>)]
 / [[Rust](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.rs>)]
 / [[C++](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.cpp>)]
+/ [C#]
 / [[Java](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.java>)]
+/ [Go]
 <br>
 **[(7 kyu) Sort Numbers](https://www.codewars.com/kata/sort-numbers/)**
 ([Description](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.md>) +
@@ -516,7 +556,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.py>)]
 / [[Rust](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.rs>)]
 / [[C++](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.cpp>)]
+/ [C#]
 / [Java]
+/ [Go]
 <br>
 **[(7 kyu) String ends with](https://www.codewars.com/kata/string-ends-with/)**
 ([Description](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.md>) +
@@ -526,7 +568,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.py>)]
 / [[Rust](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.rs>)]
 / [[C++](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.cpp>)]
+/ [C#]
 / [[Java](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.java>)]
+/ [Go]
 <br>
 **[(7 kyu) Thinkful - String Drills. Repeater](https://www.codewars.com/kata/thinkful-string-drills-repeater/)**
 ([Description](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.md>) +
@@ -536,7 +580,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.py>)]
 / [[Rust](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.rs>)]
 / [[C++](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.cpp>)]
+/ [C#]
 / [[Java](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.java>)]
+/ [Go]
 <br>
 **[(7 kyu) Two to One](https://www.codewars.com/kata/two-to-one/)**
 ([Description](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.md>) +
@@ -546,7 +592,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.py>)]
 / [[Rust](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.rs>)]
 / [[C++](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.cpp>)]
+/ [C#]
 / [[Java](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
+/ [Go]
 
 ## 8 kyu Katas
 
@@ -558,9 +606,9 @@ JS Video Tutorial) :
 / [[Python](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.py>)]
 / [[Rust](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.rs>)]
 / [[C++](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.cpp>)]
-/ [C#]
+/ [[C#](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.cs>)]
 / [[Java](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.java>)]
-/ [Go]
+/ [[Go](<(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.go>)]
 <br>
 **[(8 kyu) Basic subclasses - Adam and Eve](https://www.codewars.com/kata/547274e24481cfc469000416)**
 ([Description](<(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.md>) +
