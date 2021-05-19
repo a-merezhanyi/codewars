@@ -580,7 +580,7 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.py>)]
 / [[Rust](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.rs>)]
 / [[C++](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.cpp>)]
-/ [C#]
+/ [[C#](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.cs>)]
 / [[Java](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.java>)]
 / [Go]
 <br>
