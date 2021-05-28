@@ -810,7 +810,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[C++](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.cpp>)]
 / [[C#](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.cs>)]
 / [[Java](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.java>)]
-/ [Go]
+/ [[Go](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.go>)]
 <br>
 **[(8 kyu) Square(n) Sum](https://www.codewars.com/kata/square-n-sum)**
 ([Description](<(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.md>) +
@@ -857,4 +857,4 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[C++](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.cpp>)]
 / [[C#](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.cs>)]
 / [[Java](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.java>)]
-/ [Go]
+/ [[Go](<(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.go>)]
