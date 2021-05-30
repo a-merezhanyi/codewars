@@ -568,7 +568,7 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.py>)]
 / [[Rust](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.rs>)]
 / [[C++](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.cpp>)]
-/ [C#]
+/ [[C#](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.cs>)]
 / [[Java](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.java>)]
 / [Go]
 <br>
