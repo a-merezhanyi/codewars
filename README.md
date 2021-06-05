@@ -594,7 +594,7 @@ JS Video Tutorial) :
 / [[C++](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.cpp>)]
 / [[C#](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.cs>)]
 / [[Java](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
-/ [Go]
+/ [[Go](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
 ## 8 kyu Katas
 
