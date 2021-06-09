@@ -570,7 +570,7 @@ JS Video Tutorial) :
 / [[C++](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.cpp>)]
 / [[C#](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.cs>)]
 / [[Java](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.java>)]
-/ [Go]
+/ [[Go](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.go>)]
 <br>
 **[(7 kyu) Thinkful - String Drills. Repeater](https://www.codewars.com/kata/thinkful-string-drills-repeater/)**
 ([Description](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.md>) +
