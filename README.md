@@ -556,7 +556,7 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.py>)]
 / [[Rust](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.rs>)]
 / [[C++](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.cpp>)]
-/ [C#]
+/ [[C#](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.cs>)]
 / [Java]
 / [Go]
 <br>
