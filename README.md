@@ -544,7 +544,7 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.py>)]
 / [[Rust](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.rs>)]
 / [[C++](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.cpp>)]
-/ [C#]
+/ [[C#](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.cs>)]
 / [[Java](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.java>)]
 / [Go]
 <br>
