@@ -534,7 +534,7 @@ JS Video Tutorial) :
 / [[C++](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.cpp>)]
 / [C#]
 / [[Java](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.java>)]
-/ [Go]
+/ [[Go](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.go>)]
 <br>
 **[(7 kyu) Simple beads count](https://www.codewars.com/kata/simple-beads-count)**
 ([Description](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.md>) +
