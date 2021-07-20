@@ -438,7 +438,7 @@ JS Video Tutorial) :
 / [[C++](<(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.cpp>)]
 / [C#]
 / [Java]
-/ [Go]
+/ [[Go](<(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.go>)]
 <br>
 **[(7 kyu) Jaden Casing Strings](https://www.codewars.com/kata/jaden-casing-strings)**
 ([Description](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.md>) +
