@@ -532,7 +532,7 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.py>)]
 / [[Rust](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.rs>)]
 / [[C++](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.cpp>)]
-/ [C#]
+/ [[C#](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.cs>)]
 / [[Java](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.java>)]
 / [[Go](<(7%20kyu)%20Shortest%20Word/(7%20kyu)%20Shortest%20Word.go>)]
 <br>
