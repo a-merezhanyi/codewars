@@ -798,7 +798,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[C++](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.cpp>)]
 / [[C#](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.cs>)]
 / [[Java](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.java>)]
-/ [Go]
+/ [[Go](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.go>)]
 <br>
 **[(8 kyu) Sort and Star](https://www.codewars.com/kata/sort-and-star)**
 ([Description](<(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.md>) +
