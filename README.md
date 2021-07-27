@@ -786,7 +786,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [C++]
 / [[C#](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.cs>)]
 / [[Java](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.java>)]
-/ [Go]
+/ [[Go](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.go>)]
 <br>
 **[(8 kyu) Reversed sequence](https://www.codewars.com/kata/reversed-sequence)**
 ([Description](<(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.md>) +
