@@ -763,8 +763,7 @@ JS Video Tutorial) :
 / [[Java](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.java>)]
 / [[Go](<(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.go>)]
 <br>
-**[(8 kyu) Reversed
-Strings](https://www.codewars.com/kata/reversed-strings)**
+**[(8 kyu) Reversed Strings](https://www.codewars.com/kata/reversed-strings)**
 ([Description](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=ob-usjKDrXM)) :
 [[JavaScript](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.js>)]
@@ -772,7 +771,7 @@ Strings](https://www.codewars.com/kata/reversed-strings)**
 / [[Python](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.py>)]
 / [[Rust](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.rs>)]
 / [[C++](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.cpp>)]
-/ [C#]
+/ [[C#](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.cs>)]
 / [[Java](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.java>)]
 / [[Go](<(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.go>)]
 <br>
