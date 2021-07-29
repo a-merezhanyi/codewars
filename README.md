@@ -782,7 +782,7 @@ JS Video Tutorial) :
 / [[TypeScript](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.ts>)]
 / [[Python](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.py>)]
 / [[Rust](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.rs>)]
-/ [C++]
+/ [[C++](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.cpp>)]
 / [[C#](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.cs>)]
 / [[Java](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.java>)]
 / [[Go](<(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.go>)]
