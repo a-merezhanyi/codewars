@@ -713,7 +713,7 @@ JS Video Tutorial) :
 / [[C++](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.cpp>)]
 / [[C#](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.cs>)]
 / [[Java](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.java>)]
-/ [Go]
+/ [[Go](<(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.go>)]
 <br>
 **[(8 kyu) Multiply](https://www.codewars.com/kata/multiply/)**
 ([Description](<(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.md>) +
