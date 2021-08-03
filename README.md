@@ -641,7 +641,7 @@ JS Video Tutorial) :
 / [[C++](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.cpp>)]
 / [[C#](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.cs>)]
 / [[Java](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.java>)]
-/ [Go]
+/ [[Go](<(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.go>)]
 <br>
 **[(8 kyu) Counting sheep](https://www.codewars.com/kata/counting-sheep-dot-dot-dot)**
 ([Description](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.md>) +
@@ -653,7 +653,7 @@ JS Video Tutorial) :
 / [[C++](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.cpp>)]
 / [[C#](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.cs>)]
 / [[Java](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.java>)]
-/ [Go]
+/ [[Go](<(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.go>)]
 <br>
 **[(8 kyu) DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion)**
 ([Description](<(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.md>) +
