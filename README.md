@@ -582,7 +582,7 @@ JS Video Tutorial) :
 / [[C++](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.cpp>)]
 / [[C#](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.cs>)]
 / [[Java](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.java>)]
-/ [Go]
+/ [[Go](<(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.go>)]
 <br>
 **[(7 kyu) Two to One](https://www.codewars.com/kata/two-to-one/)**
 ([Description](<(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.md>) +
