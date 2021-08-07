@@ -557,8 +557,8 @@ JS Video Tutorial) :
 / [[Rust](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.rs>)]
 / [[C++](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.cpp>)]
 / [[C#](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.cs>)]
-/ [Java]
-/ [Go]
+/ [[Java](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.java>)]
+/ [[Go](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.go>)]
 <br>
 **[(7 kyu) String ends with](https://www.codewars.com/kata/string-ends-with/)**
 ([Description](<(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.md>) +
