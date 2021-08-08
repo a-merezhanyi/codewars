@@ -546,7 +546,7 @@ JS Video Tutorial) :
 / [[C++](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.cpp>)]
 / [[C#](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.cs>)]
 / [[Java](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.java>)]
-/ [Go]
+/ [[Go](<(7%20kyu)%20Simple%20beads%20count/(7%20kyu)%20Simple%20beads%20count.go>)]
 <br>
 **[(7 kyu) Sort Numbers](https://www.codewars.com/kata/sort-numbers/)**
 ([Description](<(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.md>) +
