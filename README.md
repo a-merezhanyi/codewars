@@ -508,9 +508,9 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.py>)]
 / [[Rust](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.rs>)]
 / [[C++](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.cpp>)]
-/ [C#]
+/ [[C#](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.cs>)]
 / [[Java](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.java>)]
-/ [Go]
+/ [[Go](<(7%20kyu)%20Remove%20duplicate%20words/(7%20kyu)%20Remove%20duplicate%20words.go>)]
 <br>
 **[(7 kyu) Reverse words](https://www.codewars.com/kata/reverse-words)**
 ([Description](<(7%20kyu)%20Reverse%20words/(7%20kyu)%20Reverse%20words.md>) +
