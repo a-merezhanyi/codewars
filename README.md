@@ -473,7 +473,7 @@ JS Video Tutorial) :
 / [[Rust](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.rs>)]
 / [[C++](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.cpp>)]
 / [[C#](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.cs>)]
-/ [Java]
+/ [[Java](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.java>)]
 / [[Go](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.go>)]
 <br>
 **[(7 kyu) Number of People in the Bus](https://www.codewars.com/kata/number-of-people-in-the-bus/)**
