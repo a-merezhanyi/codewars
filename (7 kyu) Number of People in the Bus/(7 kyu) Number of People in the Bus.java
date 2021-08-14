@@ -9,6 +9,6 @@ class Metro {
       totalPeople += stop[0] - stop[1];
     }
     
-    return people;
+    return totalPeople;
   }
 }
