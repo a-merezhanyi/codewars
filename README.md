@@ -462,7 +462,7 @@ JS Video Tutorial) :
 / [C++]
 / [C#]
 / [Java]
-/ [Go]
+/ [[Go](<(7%20kyu)%20Last/(7%20kyu)%20Last.go>)]
 <br>
 **[(7 kyu) Mumbling](https://www.codewars.com/kata/mumbling/)**
 ([Description](<(7%20kyu)%20Mumbling/(7%20kyu)%20Mumbling.md>) +
