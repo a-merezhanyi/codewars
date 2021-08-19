@@ -486,7 +486,7 @@ JS Video Tutorial) :
 / [[C++](<(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.cpp>)]
 / [[C#](<(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.cs>)]
 / [[Java](<(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.java>)]
-/ [Go]
+/ [[Go](<(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.go>)]
 <br>
 **[(7 kyu) Recursion #2 - Fibonacci](https://www.codewars.com/kata/recursion-number-2-fibonacci/)**
 ([Description](<(7%20kyu)%20Recursion%202%20-%20Fibonacci/(7%20kyu)%20Recursion%202%20-%20Fibonacci.md>) +
