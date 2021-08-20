@@ -461,7 +461,7 @@ JS Video Tutorial) :
 / [[Rust](<(7%20kyu)%20Last/(7%20kyu)%20Last.rs>)]
 / [C++]
 / [C#]
-/ [Java]
+/ [[Java](<(7%20kyu)%20Last/(7%20kyu)%20Last.java>)]
 / [[Go](<(7%20kyu)%20Last/(7%20kyu)%20Last.go>)]
 <br>
 **[(7 kyu) Mumbling](https://www.codewars.com/kata/mumbling/)**
