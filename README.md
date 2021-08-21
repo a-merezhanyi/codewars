@@ -450,7 +450,7 @@ JS Video Tutorial) :
 / [[C++](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.cpp>)]
 / [C#]
 / [Java]
-/ [Go]
+/ [[Go](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.go>)]
 <br>
 **[(7 kyu) Last](https://www.codewars.com/kata/541629460b198da04e000bb9)**
 ([Description](<(7%20kyu)%20Last/(7%20kyu)%20Last.md>) +
