@@ -437,7 +437,7 @@ JS Video Tutorial) :
 / [[Rust](<(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.rs>)]
 / [[C++](<(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.cpp>)]
 / [[C#](<(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.cs>)]
-/ [Java]
+/ [[Java](<(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.java>)]
 / [[Go](<(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.go>)]
 <br>
 **[(7 kyu) Jaden Casing Strings](https://www.codewars.com/kata/jaden-casing-strings)**
@@ -448,8 +448,8 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.py>)]
 / [[Rust](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.rs>)]
 / [[C++](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.cpp>)]
-/ [[C#](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.cs>)]
-/ [[Java](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.java>)]
+/ [C#]
+/ [Java]
 / [[Go](<(7%20kyu)%20Jaden%20Casing%20Strings/(7%20kyu)%20Jaden%20Casing%20Strings.go>)]
 <br>
 **[(7 kyu) Last](https://www.codewars.com/kata/541629460b198da04e000bb9)**
