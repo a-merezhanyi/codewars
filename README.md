@@ -414,7 +414,7 @@ JS Video Tutorial) :
 / [C++]
 / [C#]
 / [Java]
-/ [Go]
+/ [[Go](<(7%20kyu)%20Frequency%20sequence/(7%20kyu)%20Frequency%20sequence.go>)]
 <br>
 **[(7 kyu) Get the Middle Character](https://www.codewars.com/kata/get-the-middle-character/)**
 ([Description](<(7%20kyu)%20Get%20the%20Middle%20Character/(7%20kyu)%20Get%20the%20Middle%20Character.md>) +
