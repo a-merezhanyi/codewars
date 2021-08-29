@@ -382,7 +382,7 @@ JS Video Tutorial) :
 <br>
 **[(7 kyu) Form The Largest](https://www.codewars.com/kata/form-the-largest)**
 ([Description](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.md>) +
-JS Video Tutorial) :
+[JS Video Tutorial](https://www.youtube.com/watch?v=eWGTF5XcIhE)) :
 [[JavaScript](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.js>)]
 / [[TypeScript](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.ts>)]
 / [[Python](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.py>)]
