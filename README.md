@@ -354,7 +354,7 @@ JS Video Tutorial) :
 / [[C++](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.cpp>)]
 / [C#]
 / [Java]
-/ [Go]
+/ [[Go](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.go>)]
 <br>
 **[(7 kyu) Even numbers in an array](https://www.codewars.com/kata/even-numbers-in-an-array/)**
 ([Description](<(7%20kyu)%20Even%20numbers%20in%20an%20array/(7%20kyu)%20Even%20numbers%20in%20an%20array.md>) +
@@ -382,7 +382,7 @@ JS Video Tutorial) :
 <br>
 **[(7 kyu) Form The Largest](https://www.codewars.com/kata/form-the-largest)**
 ([Description](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.md>) +
-[JS Video Tutorial](https://www.youtube.com/watch?v=eWGTF5XcIhE)) :
+JS Video Tutorial) :
 [[JavaScript](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.js>)]
 / [[TypeScript](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.ts>)]
 / [[Python](<(7%20kyu)%20Form%20The%20Largest/(7%20kyu)%20Form%20The%20Largest.py>)]
