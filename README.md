@@ -29,6 +29,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [Java]
+/ [Go]
 <br>
 **[(3 kyu) The soul of wit - reverse an array](https://www.codewars.com/kata/the-soul-of-wit-reverse-an-array)** ([Description](<(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array/(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.md>) +
 JS Video Tutorial) :
@@ -38,6 +39,7 @@ JS Video Tutorial) :
 / ~~[Rust]~~
 / ~~[C++]~~
 / ~~[Java]~~
+/ ~~[Go]~~
 
 ## 4 kyu Katas
 
@@ -49,6 +51,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [Java]
+/ [Go]
 <br>
 **[(4 kyu) Human readable duration format](https://www.codewars.com/kata/human-readable-duration-format)** ([Description](<(4%20kyu)%20Human%20readable%20duration%20format/(4%20kyu)%20Human%20readable%20duration%20format.md>) +
 JS Video Tutorial) :
@@ -58,6 +61,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [Java]
+/ [Go]
 <br>
 **[(4 kyu) IP Validation](https://www.codewars.com/kata/ip-validation)** ([Description](<(4%20kyu)%20IP%20Validation/(4%20kyu)%20IP%20Validation.md>) +
 JS Video Tutorial) :
@@ -67,6 +71,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [Java]
+/ [Go]
 <br>
 **[(4 kyu) Range Extraction](https://www.codewars.com/kata/range-extraction)** ([Description](<(4%20kyu)%20Range%20Extraction/(4%20kyu)%20Range%20Extraction.md>) +
 JS Video Tutorial) :
@@ -76,6 +81,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [Java]
+/ [Go]
 <br>
 **[(4 kyu) Reverse it, quickly](https://www.codewars.com/kata/reverse-it-quickly)** ([Description](<(4%20kyu)%20Reverse%20it%2C%20quickly/(4%20kyu)%20Reverse%20it%2C%20quickly.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=Y-bnrIVHraQ)) :
@@ -85,6 +91,7 @@ JS Video Tutorial) :
 / ~~[Rust]~~
 / ~~[C++]~~
 / ~~[Java]~~
+/ ~~[Go]~~
 <br>
 **[(4 kyu) Snail](https://www.codewars.com/kata/snail/)** ([Description](<(4%20kyu)%20Snail/(4%20kyu)%20Snail.md>) +
 JS Video Tutorial) :
@@ -94,6 +101,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [Java]
+/ [Go]
 <br>
 **[(4 kyu) Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)** ([Description](<(4%20kyu)%20Strip%20Comments/(4%20kyu)%20Strip%20Comments.md>) +
 JS Video Tutorial) :
@@ -103,6 +111,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [Java]
+/ [Go]
 <br>
 **[(4 kyu) Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370)** ([Description](<(4%20kyu)%20Sum%20Strings%20as%20Numbers/(4%20kyu)%20Sum%20Strings%20as%20Numbers.md>) +
 JS Video Tutorial) :
@@ -112,6 +121,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [Java]
+/ [Go]
 
 ## 5 kyu Katas
 
@@ -123,6 +133,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [Java]
+/ [Go]
 <br>
 **[(5 kyu) Count IP Addresses](https://www.codewars.com/kata/526989a41034285187000de4)** ([Description](<(5%20kyu)%20Count%20IP%20Addresses/(5%20kyu)%20Count%20IP%20Addresses.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=4v7ZvW8Tu1w)) :
@@ -132,6 +143,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [Java]
+/ [Go]
 <br>
 **[(5 kyu) Fibonacci Generator](https://www.codewars.com/kata/522498c9906b0cfcb40001fc)** ([Description](<(5%20kyu)%20Fibonacci%20Generator/(5%20kyu)%20Fibonacci%20Generator.md>) +
 JS Video Tutorial) :
@@ -141,6 +153,7 @@ JS Video Tutorial) :
 / ~~[Rust]~~
 / ~~[C++]~~
 / ~~[Java]~~
+/ ~~[Go]~~
 <br>
 **[(5 kyu) Human Readable Time](https://www.codewars.com/kata/human-readable-time)** ([Description](<(5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=QTjxPDIGlus)) :
@@ -150,6 +163,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [Java]
+/ [Go]
 <br>
 **[(5 kyu) Memoized Fibonacci](https://www.codewars.com/kata/memoized-fibonacci)** ([Description](<(5%20kyu)%20Memoized%20Fibonacci/(5%20kyu)%20Memoized%20Fibonacci.md>) +
 JS Video Tutorial) :
@@ -159,6 +173,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [Java]
+/ [Go]
 <br>
 **[(5 kyu) Ninety Nine Thousand Nine Hundred Ninety Nine](https://www.codewars.com/kata/5463c8db865001c1710003b2)** ([Description](<(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.md>) +
 JS Video Tutorial) :
@@ -168,6 +183,7 @@ JS Video Tutorial) :
 / [Rust]
 / [[C++](<(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.cpp>)]
 / [Java]
+/ [Go]
 
 **[(5 kyu) RGB To Hex Conversion](https://www.codewars.com/kata/rgb-to-hex-conversion/)** ([Description](<(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=XiCsDn0tsVE)) :
@@ -177,6 +193,7 @@ JS Video Tutorial) :
 / [[Rust](<(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.rs>)]
 / [[C++](<(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.cpp>)]
 / [Java]
+/ [Go]
 
 ## 6 kyu Katas
 
@@ -189,6 +206,7 @@ JS Video Tutorial) :
 / [[Rust](<(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.rs>)]
 / [C++]
 / [Java]
+/ [Go]
 <br>
 **[(6 kyu) Multiples of 3 or 5](https://www.codewars.com/kata/multiples-of-3-or-5/)**
 ([Description](<(6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.md>) +
@@ -199,6 +217,7 @@ JS Video Tutorial) :
 / [[Rust](<(6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.rs>)]
 / [[C++](<(6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.cpp>)]
 / [Java]
+/ [Go]
 <br>
 **[(6 kyu) Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code)** ([Description](<(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.md>) +
 JS Video Tutorial) :
@@ -208,6 +227,7 @@ JS Video Tutorial) :
 / [[Rust](<(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.rs>)]
 / [[C++](<(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.cpp>)]
 / [Java]
+/ [Go]
 <br>
 **[(6 kyu) Easy Balance Checking](https://www.codewars.com/kata/easy-balance-checking/)** ([Description](<(6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.md>) +
 JS Video Tutorial) :
@@ -217,6 +237,7 @@ JS Video Tutorial) :
 / [[Rust](<(6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.rs>)]
 / [C++]
 / [Java]
+/ [Go]
 <br>
 **[(6 kyu) Fibonacci Generator Function](https://www.codewars.com/kata/fibonacci-generator-function)** ([Description](<(6%20kyu)%20Fibonacci%20Generator%20Function/(6%20kyu)%20Fibonacci%20Generator%20Function.md>) +
 JS Video Tutorial) :
@@ -226,6 +247,7 @@ JS Video Tutorial) :
 / ~~[Rust]~~
 / ~~[C++]~~
 / ~~[Java]~~
+/ ~~[Go]~~
 <br>
 **[(6 kyu) Find the odd int](https://www.codewars.com/kata/find-the-odd-int)** ([Description](<(6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.md>) +
 JS Video Tutorial) :
@@ -235,6 +257,7 @@ JS Video Tutorial) :
 / [Rust]
 / [[C++](<(6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.cpp>)]
 / [Java]
+/ [Go]
 <br>
 **[(6 kyu) Follow that Spy](https://www.codewars.com/kata/follow-that-spy)** ([Description](<(6%20kyu)%20Follow%20that%20Spy/(6%20kyu)%20Follow%20that%20Spy.md>) +
 JS Video Tutorial) :
@@ -244,6 +267,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [Java]
+/ [Go]
 <br>
 **[(6 kyu) Hard Time Bomb](https://www.codewars.com/kata/hard-time-bomb)** ([Description](<(6%20kyu)%20Hard%20Time%20Bomb/(6%20kyu)%20Hard%20Time%20Bomb.md>) +
 JS Video Tutorial) :
@@ -253,6 +277,7 @@ JS Video Tutorial) :
 / ~~[Rust]~~
 / ~~[C++]~~
 / ~~[Java]~~
+/ ~~[Go]~~
 <br>
 **[(6 kyu) Help the bookseller](https://www.codewars.com/kata/help-the-bookseller/)** ([Description](<(6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.md>) +
 JS Video Tutorial) :
@@ -262,6 +287,7 @@ JS Video Tutorial) :
 / [[Rust](<(6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.rs>)]
 / [[C++](<(6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.cpp>)]
 / [Java]
+/ [Go]
 <br>
 **[(6 kyu) IQ Test](https://www.codewars.com/kata/iq-test)** ([Description](<(6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.md>) +
 JS Video Tutorial) :
@@ -271,6 +297,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [Java]
+/ [Go]
 <br>
 **[(6 kyu) Playing with digits](https://www.codewars.com/kata/playing-with-digits)** ([Description](<(6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.md>) +
 JS Video Tutorial) :
@@ -280,6 +307,7 @@ JS Video Tutorial) :
 / [[Rust](<(6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.rs>)]
 / [[C++](<(6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.cpp>)]
 / [Java]
+/ [Go]
 <br>
 **[(6 kyu) Playing with passphrases](https://www.codewars.com/kata/playing-with-passphrases/)** ([Description](<(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.md>) +
 JS Video Tutorial) :
@@ -289,6 +317,7 @@ JS Video Tutorial) :
 / [[Rust](<(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.rs>)]
 / [[C++](<(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.cpp>)]
 / [Java]
+/ [Go]
 <br>
 **[(6 kyu) Reverse or rotate?](https://www.codewars.com/kata/reverse-or-rotate)** ([Description](<(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.md>) +
 JS Video Tutorial) :
@@ -298,6 +327,7 @@ JS Video Tutorial) :
 / [[Rust](<(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.rs>)]
 / [[C++](<(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.cpp>)]
 / [Java]
+/ [Go]
 <br>
 **[(6 kyu) Salesman's Travel](https://www.codewars.com/kata/salesmans-travel/)** ([Description](<(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.md>) +
 JS Video Tutorial) :
@@ -307,6 +337,7 @@ JS Video Tutorial) :
 / [[Rust](<(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.rs>)]
 / [[C++](<(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.cpp>)]
 / [Java]
+/ [Go]
 <br>
 **[(6 kyu) Square Digits Sequence](https://www.codewars.com/kata/simple-fun-number-23-square-digits-sequence)**
 ([Description](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.md>) +
@@ -317,6 +348,7 @@ JS Video Tutorial) :
 / [[Rust](<(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.rs>)]
 / [C++]
 / [Java]
+/ [Go]
 
 ## 7 kyu Katas
 
