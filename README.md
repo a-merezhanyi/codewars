@@ -433,7 +433,7 @@ JS Video Tutorial) :
 / [[Rust](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.rs>)]
 / [[C++](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.cpp>)]
 / [C#]
-/ [Java]
+/ [[Java](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.java>)]
 / [Go]
 <br>
 **[(7 kyu) Frequency sequence](https://www.codewars.com/kata/frequency-sequence/)**
