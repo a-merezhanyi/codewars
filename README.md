@@ -360,7 +360,7 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.py>)]
 / [[Rust](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.rs>)]
 / [[C++](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.cpp>)]
-/ [C#]
+/ [[C#](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.cs>)]
 / [Java]
 / [Go]
 <br>
