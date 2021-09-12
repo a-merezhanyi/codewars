@@ -361,7 +361,7 @@ JS Video Tutorial) :
 / [[Rust](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.rs>)]
 / [[C++](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.cpp>)]
 / [[C#](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.cs>)]
-/ [Java]
+/ [[Java](<(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.java>)]
 / [Go]
 <br>
 **[(7 kyu) Canvas Fun 1 - Draw Lines](http://www.codewars.com/kata/canvas-fun-number-1-draw-lines)**
