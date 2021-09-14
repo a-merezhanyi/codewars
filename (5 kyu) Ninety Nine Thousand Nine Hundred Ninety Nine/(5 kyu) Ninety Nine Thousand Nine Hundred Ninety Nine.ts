@@ -5,7 +5,7 @@ export function numberToEnglish(x: number): string {
     return '';
   }
 
-  const value = {
+  const value: {[id: string]: string} = {
     '0': 'zero',
     '1': 'one',
     '2': 'two',
@@ -38,7 +38,7 @@ export function numberToEnglish(x: number): string {
 
   const getDozens = (n: number) =>
     n <= 20
-      ? value[n]
+      ? value[n.toString()]
       : `${value[n.toString()[0] + '0']} ${value[n.toString()[1]]}`;
   const getHundreds = (n: number) =>
     n > 0 ? `${value[n.toString()]} hundred ` : '';
