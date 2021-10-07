@@ -417,7 +417,7 @@ JS Video Tutorial) :
 / [[Rust](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.rs>)]
 / [[C++](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.cpp>)]
 / [C#]
-/ [Java]
+/ [[Java](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.java>)]
 / [[Go](<(7%20kyu)%20Complementary%20DNA/(7%20kyu)%20Complementary%20DNA.go>)]
 <br>
 **[(7 kyu) Even numbers in an array](https://www.codewars.com/kata/even-numbers-in-an-array/)**
