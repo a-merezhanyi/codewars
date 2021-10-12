@@ -464,7 +464,7 @@ JS Video Tutorial) :
 / [[Python](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.py>)]
 / [[Rust](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.rs>)]
 / [[C++](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.cpp>)]
-/ [C#]
+/ [[C#](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.cs>)]
 / [[Java](<(7%20kyu)%20Form%20The%20Minimum/(7%20kyu)%20Form%20The%20Minimum.java>)]
 / [Go]
 <br>
