@@ -21,9 +21,9 @@ My Profile: https://www.codewars.com/users/e1r0nd
 
 ## 3 kyu Katas (?)
 
-**[(3 kyu) Base64 Encoding](https://www.codewars.com/kata/5270f22f862516c686000161)** ([Description](<(3kyu/3%20kyu)%20Base64%20Encoding/(3%20kyu)%20Base64%20Encoding.md>) +
+**[(3 kyu) Base64 Encoding](https://www.codewars.com/kata/5270f22f862516c686000161)** ([Description](<3kyu/(3%20kyu)%20Base64%20Encoding/(3%20kyu)%20Base64%20Encoding.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(3kyu/3%20kyu)%20Base64%20Encoding/(3%20kyu)%20Base64%20Encoding.js>)]
+[[JavaScript](<3kyu/(3%20kyu)%20Base64%20Encoding/(3%20kyu)%20Base64%20Encoding.js>)]
 / [TypeScript]
 / [Python]
 / [Rust]
@@ -32,10 +32,10 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 <br>
-**[(3 kyu) The soul of wit - reverse an array](https://www.codewars.com/kata/the-soul-of-wit-reverse-an-array)** ([Description](<(3kyu/3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array/(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.md>) +
+**[(3 kyu) The soul of wit - reverse an array](https://www.codewars.com/kata/the-soul-of-wit-reverse-an-array)** ([Description](<3kyu/(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array/(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(3kyu/3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array/(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.js>)]
-/ [[TypeScript](<(3kyu/3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array/(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.ts>)]
+[[JavaScript](<3kyu/(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array/(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.js>)]
+/ [[TypeScript](<3kyu/(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array/(3%20kyu)%20The%20soul%20of%20wit%20-%20reverse%20an%20array.ts>)]
 / ~~[Python]~~
 / ~~[Rust]~~
 / ~~[C++]~~
@@ -45,10 +45,10 @@ JS Video Tutorial) :
 
 ## 4 kyu Katas (?)
 
-**[(4 kyu) Decode the Morse code, advanced](https://www.codewars.com/kata/decode-the-morse-code-advanced)** ([Description](<(4kyu/4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced.md>) +
+**[(4 kyu) Decode the Morse code, advanced](https://www.codewars.com/kata/decode-the-morse-code-advanced)** ([Description](<4kyu/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(4kyu/4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced.js>)]
-/ [[TypeScript](<(4kyu/4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced.ts>)]
+[[JavaScript](<4kyu/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced.js>)]
+/ [[TypeScript](<4kyu/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced.ts>)]
 / [Python]
 / [Rust]
 / [C++]
@@ -56,9 +56,9 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 <br>
-**[(4 kyu) Human readable duration format](https://www.codewars.com/kata/human-readable-duration-format)** ([Description](<(4kyu/4%20kyu)%20Human%20readable%20duration%20format/(4%20kyu)%20Human%20readable%20duration%20format.md>) +
+**[(4 kyu) Human readable duration format](https://www.codewars.com/kata/human-readable-duration-format)** ([Description](<4kyu/(4%20kyu)%20Human%20readable%20duration%20format/(4%20kyu)%20Human%20readable%20duration%20format.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(4kyu/4%20kyu)%20Human%20readable%20duration%20format/(4%20kyu)%20Human%20readable%20duration%20format.js>)]
+[[JavaScript](<4kyu/(4%20kyu)%20Human%20readable%20duration%20format/(4%20kyu)%20Human%20readable%20duration%20format.js>)]
 / [TypeScript]
 / [Python]
 / [Rust]
@@ -67,9 +67,9 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 <br>
-**[(4 kyu) IP Validation](https://www.codewars.com/kata/ip-validation)** ([Description](<(4kyu/4%20kyu)%20IP%20Validation/(4%20kyu)%20IP%20Validation.md>) +
+**[(4 kyu) IP Validation](https://www.codewars.com/kata/ip-validation)** ([Description](<4kyu/(4%20kyu)%20IP%20Validation/(4%20kyu)%20IP%20Validation.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(4kyu/4%20kyu)%20IP%20Validation/(4%20kyu)%20IP%20Validation.js>)]
+[[JavaScript](<4kyu/(4%20kyu)%20IP%20Validation/(4%20kyu)%20IP%20Validation.js>)]
 / [TypeScript]
 / [Python]
 / [Rust]
@@ -78,9 +78,9 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 <br>
-**[(4 kyu) Range Extraction](https://www.codewars.com/kata/range-extraction)** ([Description](<(4kyu/4%20kyu)%20Range%20Extraction/(4%20kyu)%20Range%20Extraction.md>) +
+**[(4 kyu) Range Extraction](https://www.codewars.com/kata/range-extraction)** ([Description](<4kyu/(4%20kyu)%20Range%20Extraction/(4%20kyu)%20Range%20Extraction.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(4kyu/4%20kyu)%20Range%20Extraction/(4%20kyu)%20Range%20Extraction.js>)]
+[[JavaScript](<4kyu/(4%20kyu)%20Range%20Extraction/(4%20kyu)%20Range%20Extraction.js>)]
 / [TypeScript]
 / [Python]
 / [Rust]
@@ -89,9 +89,9 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 <br>
-**[(4 kyu) Reverse it, quickly](https://www.codewars.com/kata/reverse-it-quickly)** ([Description](<(4kyu/4%20kyu)%20Reverse%20it%2C%20quickly/(4%20kyu)%20Reverse%20it%2C%20quickly.md>) +
+**[(4 kyu) Reverse it, quickly](https://www.codewars.com/kata/reverse-it-quickly)** ([Description](<4kyu/(4%20kyu)%20Reverse%20it%2C%20quickly/(4%20kyu)%20Reverse%20it%2C%20quickly.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=Y-bnrIVHraQ)) :
-[[JavaScript](<(4kyu/4%20kyu)%20Reverse%20it%2C%20quickly/(4%20kyu)%20Reverse%20it%2C%20quickly.js>)]
+[[JavaScript](<4kyu/(4%20kyu)%20Reverse%20it%2C%20quickly/(4%20kyu)%20Reverse%20it%2C%20quickly.js>)]
 / ~~[TypeScript]~~
 / ~~[Python]~~
 / ~~[Rust]~~
@@ -100,9 +100,9 @@ JS Video Tutorial) :
 / ~~[Java]~~
 / ~~[Go]~~
 <br>
-**[(4 kyu) Snail](https://www.codewars.com/kata/snail/)** ([Description](<(4kyu/4%20kyu)%20Snail/(4%20kyu)%20Snail.md>) +
+**[(4 kyu) Snail](https://www.codewars.com/kata/snail/)** ([Description](<4kyu/(4%20kyu)%20Snail/(4%20kyu)%20Snail.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(4kyu/4%20kyu)%20Snail/(4%20kyu)%20Snail.js>)]
+[[JavaScript](<4kyu/(4%20kyu)%20Snail/(4%20kyu)%20Snail.js>)]
 / [TypeScript]
 / [Python]
 / [Rust]
@@ -111,20 +111,20 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 <br>
-**[(4 kyu) Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)** ([Description](<(4kyu/4%20kyu)%20Strip%20Comments/(4%20kyu)%20Strip%20Comments.md>) +
+**[(4 kyu) Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)** ([Description](<4kyu/(4%20kyu)%20Strip%20Comments/(4%20kyu)%20Strip%20Comments.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(4kyu/4%20kyu)%20Strip%20Comments/(4%20kyu)%20Strip%20Comments.js>)]
+[[JavaScript](<4kyu/(4%20kyu)%20Strip%20Comments/(4%20kyu)%20Strip%20Comments.js>)]
 / [TypeScript]
-/ [[Python](<(4kyu/4%20kyu)%20Strip%20Comments/(4%20kyu)%20Strip%20Comments.py>)]
+/ [[Python](<4kyu/(4%20kyu)%20Strip%20Comments/(4%20kyu)%20Strip%20Comments.py>)]
 / [Rust]
 / [C++]
 / [C#]
 / [Java]
 / [Go]
 <br>
-**[(4 kyu) Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370)** ([Description](<(4kyu/4%20kyu)%20Sum%20Strings%20as%20Numbers/(4%20kyu)%20Sum%20Strings%20as%20Numbers.md>) +
+**[(4 kyu) Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370)** ([Description](<4kyu/(4%20kyu)%20Sum%20Strings%20as%20Numbers/(4%20kyu)%20Sum%20Strings%20as%20Numbers.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(4kyu/4%20kyu)%20Sum%20Strings%20as%20Numbers/(4%20kyu)%20Sum%20Strings%20as%20Numbers.js>)]
+[[JavaScript](<4kyu/(4%20kyu)%20Sum%20Strings%20as%20Numbers/(4%20kyu)%20Sum%20Strings%20as%20Numbers.js>)]
 / [TypeScript]
 / [Python]
 / [Rust]
@@ -135,9 +135,9 @@ JS Video Tutorial) :
 
 ## 5 kyu Katas (?)
 
-**[(5 kyu) Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/)** ([Description](<(5kyu/5%20kyu)%20Calculating%20with%20Functions/(5%20kyu)%20Calculating%20with%20Functions.md>) +
+**[(5 kyu) Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/)** ([Description](<5kyu/(5%20kyu)%20Calculating%20with%20Functions/(5%20kyu)%20Calculating%20with%20Functions.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(5kyu/5%20kyu)%20Calculating%20with%20Functions/(5%20kyu)%20Calculating%20with%20Functions.js>)]
+[[JavaScript](<5kyu/(5%20kyu)%20Calculating%20with%20Functions/(5%20kyu)%20Calculating%20with%20Functions.js>)]
 / [TypeScript]
 / [Python]
 / [Rust]
@@ -146,20 +146,20 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 <br>
-**[(5 kyu) Count IP Addresses](https://www.codewars.com/kata/526989a41034285187000de4)** ([Description](<(5kyu/5%20kyu)%20Count%20IP%20Addresses/(5%20kyu)%20Count%20IP%20Addresses.md>) +
+**[(5 kyu) Count IP Addresses](https://www.codewars.com/kata/526989a41034285187000de4)** ([Description](<5kyu/(5%20kyu)%20Count%20IP%20Addresses/(5%20kyu)%20Count%20IP%20Addresses.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=4v7ZvW8Tu1w)) :
-[[JavaScript](<(5kyu/5%20kyu)%20Count%20IP%20Addresses/(5%20kyu)%20Count%20IP%20Addresses.js>)]
+[[JavaScript](<5kyu/(5%20kyu)%20Count%20IP%20Addresses/(5%20kyu)%20Count%20IP%20Addresses.js>)]
 / [TypeScript]
-/ [[Python](<(5kyu/5%20kyu)%20Count%20IP%20Addresses/(5%20kyu)%20Count%20IP%20Addresses.py>)]
+/ [[Python](<5kyu/(5%20kyu)%20Count%20IP%20Addresses/(5%20kyu)%20Count%20IP%20Addresses.py>)]
 / [Rust]
 / [C++]
 / [C#]
 / [Java]
 / [Go]
 <br>
-**[(5 kyu) Fibonacci Generator](https://www.codewars.com/kata/522498c9906b0cfcb40001fc)** ([Description](<(5kyu/5%20kyu)%20Fibonacci%20Generator/(5%20kyu)%20Fibonacci%20Generator.md>) +
+**[(5 kyu) Fibonacci Generator](https://www.codewars.com/kata/522498c9906b0cfcb40001fc)** ([Description](<5kyu/(5%20kyu)%20Fibonacci%20Generator/(5%20kyu)%20Fibonacci%20Generator.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(5kyu/5%20kyu)%20Fibonacci%20Generator/(5%20kyu)%20Fibonacci%20Generator.js>)]
+[[JavaScript](<5kyu/(5%20kyu)%20Fibonacci%20Generator/(5%20kyu)%20Fibonacci%20Generator.js>)]
 / [TypeScript]
 / ~~[Python]~~
 / ~~[Rust]~~
@@ -168,46 +168,46 @@ JS Video Tutorial) :
 / ~~[Java]~~
 / ~~[Go]~~
 <br>
-**[(5 kyu) Human Readable Time](https://www.codewars.com/kata/human-readable-time)** ([Description](<(5kyu/5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.md>) +
+**[(5 kyu) Human Readable Time](https://www.codewars.com/kata/human-readable-time)** ([Description](<5kyu/(5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=QTjxPDIGlus)) :
-[[JavaScript](<(5kyu/5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.js>)]
-/ [[TypeScript](<(5kyu/5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.ts>)]
-/ [[Python](<(5kyu/5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.py>)]
+[[JavaScript](<5kyu/(5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.js>)]
+/ [[TypeScript](<5kyu/(5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.ts>)]
+/ [[Python](<5kyu/(5%20kyu)%20Human%20Readable%20Time/(5%20kyu)%20Human%20Readable%20Time.py>)]
 / [Rust]
 / [C++]
 / [C#]
 / [Java]
 / [Go]
 <br>
-**[(5 kyu) Memoized Fibonacci](https://www.codewars.com/kata/memoized-fibonacci)** ([Description](<(5kyu/5%20kyu)%20Memoized%20Fibonacci/(5%20kyu)%20Memoized%20Fibonacci.md>) +
+**[(5 kyu) Memoized Fibonacci](https://www.codewars.com/kata/memoized-fibonacci)** ([Description](<5kyu/(5%20kyu)%20Memoized%20Fibonacci/(5%20kyu)%20Memoized%20Fibonacci.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(5kyu/5%20kyu)%20Memoized%20Fibonacci/(5%20kyu)%20Memoized%20Fibonacci.js>)]
+[[JavaScript](<5kyu/(5%20kyu)%20Memoized%20Fibonacci/(5%20kyu)%20Memoized%20Fibonacci.js>)]
 / [TypeScript]
-/ [[Python](<(5kyu/5%20kyu)%20Memoized%20Fibonacci/(5%20kyu)%20Memoized%20Fibonacci.py>)]
+/ [[Python](<5kyu/(5%20kyu)%20Memoized%20Fibonacci/(5%20kyu)%20Memoized%20Fibonacci.py>)]
 / [Rust]
 / [C++]
 / [C#]
 / [Java]
 / [Go]
 <br>
-**[(5 kyu) Ninety Nine Thousand Nine Hundred Ninety Nine](https://www.codewars.com/kata/5463c8db865001c1710003b2)** ([Description](<(5kyu/5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.md>) +
+**[(5 kyu) Ninety Nine Thousand Nine Hundred Ninety Nine](https://www.codewars.com/kata/5463c8db865001c1710003b2)** ([Description](<5kyu/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(5kyu/5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.js>)]
-/ [[TypeScript](<(5kyu/5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.ts>)]
-/ [[Python](<(5kyu/5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.py>)]
+[[JavaScript](<5kyu/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.js>)]
+/ [[TypeScript](<5kyu/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.ts>)]
+/ [[Python](<5kyu/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.py>)]
 / [Rust]
-/ [[C++](<(5kyu/5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.cpp>)]
+/ [[C++](<5kyu/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine/(5%20kyu)%20Ninety%20Nine%20Thousand%20Nine%20Hundred%20Ninety%20Nine.cpp>)]
 / [C#]
 / [Java]
 / [Go]
 
-**[(5 kyu) RGB To Hex Conversion](https://www.codewars.com/kata/rgb-to-hex-conversion/)** ([Description](<(5kyu/5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.md>) +
+**[(5 kyu) RGB To Hex Conversion](https://www.codewars.com/kata/rgb-to-hex-conversion/)** ([Description](<5kyu/(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=XiCsDn0tsVE)) :
-[[JavaScript](<(5kyu/5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.js>)]
+[[JavaScript](<5kyu/(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.js>)]
 / [TypeScript]
-/ [[Python](<(5kyu/5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.py>)]
-/ [[Rust](<(5kyu/5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.rs>)]
-/ [[C++](<(5kyu/5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.cpp>)]
+/ [[Python](<5kyu/(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.py>)]
+/ [[Rust](<5kyu/(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.rs>)]
+/ [[C++](<5kyu/(5%20kyu)%20RGB%20To%20Hex%20Conversion/(5%20kyu)%20RGB%20To%20Hex%20Conversion.cpp>)]
 / [C#]
 / [Java]
 / [Go]
@@ -215,54 +215,54 @@ JS Video Tutorial) :
 ## 6 kyu Katas (?)
 
 **[(6 kyu) CamelCase Method](https://www.codewars.com/kata/camelcase-method/)**
-([Description](<(6kyu/6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.md>) +
+([Description](<6kyu/(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(6kyu/6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.js>)]
-/ [[TypeScript](<(6kyu/6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.ts>)]
-/ [[Python](<(6kyu/6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.py>)]
-/ [[Rust](<(6kyu/6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.rs>)]
+[[JavaScript](<6kyu/(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.js>)]
+/ [[TypeScript](<6kyu/(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.ts>)]
+/ [[Python](<6kyu/(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.py>)]
+/ [[Rust](<6kyu/(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.rs>)]
 / [C++]
 / [C#]
 / [Java]
 / [Go]
 <br>
 **[(6 kyu) Multiples of 3 or 5](https://www.codewars.com/kata/multiples-of-3-or-5/)**
-([Description](<(6kyu/6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.md>) +
+([Description](<6kyu/(6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(6kyu/6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.js>)]
-/ [[TypeScript](<(6kyu/6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.ts>)]
-/ [[Python](<(6kyu/6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.py>)]
-/ [[Rust](<(6kyu/6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.rs>)]
-/ [[C++](<(6kyu/6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.cpp>)]
+[[JavaScript](<6kyu/(6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.js>)]
+/ [[TypeScript](<6kyu/(6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.ts>)]
+/ [[Python](<6kyu/(6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.py>)]
+/ [[Rust](<6kyu/(6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.rs>)]
+/ [[C++](<6kyu/(6%20kyu)%20Multiples%20of%203%20or%205/(6%20kyu)%20Multiples%20of%203%20or%205.cpp>)]
 / [C#]
 / [Java]
 / [Go]
 <br>
-**[(6 kyu) Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code)** ([Description](<(6kyu/6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.md>) +
+**[(6 kyu) Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code)** ([Description](<6kyu/(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(6kyu/6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.js>)]
-/ [[TypeScript](<(6kyu/6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.ts>)]
-/ [[Python](<(6kyu/6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.py>)]
-/ [[Rust](<(6kyu/6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.rs>)]
-/ [[C++](<(6kyu/6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.cpp>)]
+[[JavaScript](<6kyu/(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.js>)]
+/ [[TypeScript](<6kyu/(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.ts>)]
+/ [[Python](<6kyu/(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.py>)]
+/ [[Rust](<6kyu/(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.rs>)]
+/ [[C++](<6kyu/(6%20kyu)%20Decode%20the%20Morse%20code/(6%20kyu)%20Decode%20the%20Morse%20code.cpp>)]
 / [C#]
 / [Java]
 / [Go]
 <br>
-**[(6 kyu) Easy Balance Checking](https://www.codewars.com/kata/easy-balance-checking/)** ([Description](<(6kyu/6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.md>) +
+**[(6 kyu) Easy Balance Checking](https://www.codewars.com/kata/easy-balance-checking/)** ([Description](<6kyu/(6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(6kyu/6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.js>)]
-/ [[TypeScript](<(6kyu/6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.ts>)]
-/ [[Python](<(6kyu/6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.py>)]
-/ [[Rust](<(6kyu/6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.rs>)]
+[[JavaScript](<6kyu/(6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.js>)]
+/ [[TypeScript](<6kyu/(6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.ts>)]
+/ [[Python](<6kyu/(6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.py>)]
+/ [[Rust](<6kyu/(6%20kyu)%20Easy%20Balance%20Checking/(6%20kyu)%20Easy%20Balance%20Checking.rs>)]
 / [C++]
 / [C#]
 / [Java]
 / [Go]
 <br>
-**[(6 kyu) Fibonacci Generator Function](https://www.codewars.com/kata/fibonacci-generator-function)** ([Description](<(6kyu/6%20kyu)%20Fibonacci%20Generator%20Function/(6%20kyu)%20Fibonacci%20Generator%20Function.md>) +
+**[(6 kyu) Fibonacci Generator Function](https://www.codewars.com/kata/fibonacci-generator-function)** ([Description](<6kyu/(6%20kyu)%20Fibonacci%20Generator%20Function/(6%20kyu)%20Fibonacci%20Generator%20Function.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(6kyu/6%20kyu)%20Fibonacci%20Generator%20Function/(6%20kyu)%20Fibonacci%20Generator%20Function.js>)]
+[[JavaScript](<6kyu/(6%20kyu)%20Fibonacci%20Generator%20Function/(6%20kyu)%20Fibonacci%20Generator%20Function.js>)]
 / [TypeScript]
 / ~~[Python]~~
 / ~~[Rust]~~
@@ -271,20 +271,20 @@ JS Video Tutorial) :
 / ~~[Java]~~
 / ~~[Go]~~
 <br>
-**[(6 kyu) Find the odd int](https://www.codewars.com/kata/find-the-odd-int)** ([Description](<(6kyu/6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.md>) +
+**[(6 kyu) Find the odd int](https://www.codewars.com/kata/find-the-odd-int)** ([Description](<6kyu/(6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(6kyu/6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.js>)]
-/ [[TypeScript](<(6kyu/6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.ts>)]
-/ [[Python](<(6kyu/6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.py>)]
+[[JavaScript](<6kyu/(6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.js>)]
+/ [[TypeScript](<6kyu/(6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.ts>)]
+/ [[Python](<6kyu/(6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.py>)]
 / [Rust]
-/ [[C++](<(6kyu/6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.cpp>)]
+/ [[C++](<6kyu/(6%20kyu)%20Find%20the%20odd%20int/(6%20kyu)%20Find%20the%20odd%20int.cpp>)]
 / [C#]
 / [Java]
 / [Go]
 <br>
-**[(6 kyu) Follow that Spy](https://www.codewars.com/kata/follow-that-spy)** ([Description](<(6kyu/6%20kyu)%20Follow%20that%20Spy/(6%20kyu)%20Follow%20that%20Spy.md>) +
+**[(6 kyu) Follow that Spy](https://www.codewars.com/kata/follow-that-spy)** ([Description](<6kyu/(6%20kyu)%20Follow%20that%20Spy/(6%20kyu)%20Follow%20that%20Spy.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(6kyu/6%20kyu)%20Follow%20that%20Spy/(6%20kyu)%20Follow%20that%20Spy.js>)]
+[[JavaScript](<6kyu/(6%20kyu)%20Follow%20that%20Spy/(6%20kyu)%20Follow%20that%20Spy.js>)]
 / [TypeScript]
 / [Python]
 / [Rust]
@@ -293,9 +293,9 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 <br>
-**[(6 kyu) Hard Time Bomb](https://www.codewars.com/kata/hard-time-bomb)** ([Description](<(6kyu/6%20kyu)%20Hard%20Time%20Bomb/(6%20kyu)%20Hard%20Time%20Bomb.md>) +
+**[(6 kyu) Hard Time Bomb](https://www.codewars.com/kata/hard-time-bomb)** ([Description](<6kyu/(6%20kyu)%20Hard%20Time%20Bomb/(6%20kyu)%20Hard%20Time%20Bomb.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(6kyu/6%20kyu)%20Hard%20Time%20Bomb/(6%20kyu)%20Hard%20Time%20Bomb.js>)]
+[[JavaScript](<6kyu/(6%20kyu)%20Hard%20Time%20Bomb/(6%20kyu)%20Hard%20Time%20Bomb.js>)]
 / [TypeScript]
 / ~~[Python]~~
 / ~~[Rust]~~
@@ -304,79 +304,79 @@ JS Video Tutorial) :
 / ~~[Java]~~
 / ~~[Go]~~
 <br>
-**[(6 kyu) Help the bookseller](https://www.codewars.com/kata/help-the-bookseller/)** ([Description](<(6kyu/6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.md>) +
+**[(6 kyu) Help the bookseller](https://www.codewars.com/kata/help-the-bookseller/)** ([Description](<6kyu/(6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(6kyu/6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.js>)]
-/ [[TypeScript](<(6kyu/6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.ts>)]
-/ [[Python](<(6kyu/6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.py>)]
-/ [[Rust](<(6kyu/6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.rs>)]
-/ [[C++](<(6kyu/6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.cpp>)]
+[[JavaScript](<6kyu/(6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.js>)]
+/ [[TypeScript](<6kyu/(6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.ts>)]
+/ [[Python](<6kyu/(6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.py>)]
+/ [[Rust](<6kyu/(6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.rs>)]
+/ [[C++](<6kyu/(6%20kyu)%20Help%20the%20bookseller/(6%20kyu)%20Help%20the%20bookseller.cpp>)]
 / [C#]
 / [Java]
 / [Go]
 <br>
-**[(6 kyu) IQ Test](https://www.codewars.com/kata/iq-test)** ([Description](<(6kyu/6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.md>) +
+**[(6 kyu) IQ Test](https://www.codewars.com/kata/iq-test)** ([Description](<6kyu/(6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(6kyu/6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.js>)]
-/ [[TypeScript](<(6kyu/6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.ts>)]
-/ [[Python](<(6kyu/6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.py>)]
+[[JavaScript](<6kyu/(6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.js>)]
+/ [[TypeScript](<6kyu/(6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.ts>)]
+/ [[Python](<6kyu/(6%20kyu)%20IQ%20Test/(6%20kyu)%20IQ%20Test.py>)]
 / [Rust]
 / [C++]
 / [C#]
 / [Java]
 / [Go]
 <br>
-**[(6 kyu) Playing with digits](https://www.codewars.com/kata/playing-with-digits)** ([Description](<(6kyu/6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.md>) +
+**[(6 kyu) Playing with digits](https://www.codewars.com/kata/playing-with-digits)** ([Description](<6kyu/(6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(6kyu/6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.js>)]
-/ [[TypeScript](<(6kyu/6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.ts>)]
-/ [[Python](<(6kyu/6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.py>)]
-/ [[Rust](<(6kyu/6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.rs>)]
-/ [[C++](<(6kyu/6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.cpp>)]
+[[JavaScript](<6kyu/(6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.js>)]
+/ [[TypeScript](<6kyu/(6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.ts>)]
+/ [[Python](<6kyu/(6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.py>)]
+/ [[Rust](<6kyu/(6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.rs>)]
+/ [[C++](<6kyu/(6%20kyu)%20Playing%20with%20digits/(6%20kyu)%20Playing%20with%20digits.cpp>)]
 / [C#]
 / [Java]
 / [Go]
 <br>
-**[(6 kyu) Playing with passphrases](https://www.codewars.com/kata/playing-with-passphrases/)** ([Description](<(6kyu/6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.md>) +
+**[(6 kyu) Playing with passphrases](https://www.codewars.com/kata/playing-with-passphrases/)** ([Description](<6kyu/(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(6kyu/6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.js>)]
-/ [[TypeScript](<(6kyu/6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.ts>)]
-/ [[Python](<(6kyu/6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.py>)]
-/ [[Rust](<(6kyu/6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.rs>)]
-/ [[C++](<(6kyu/6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.cpp>)]
+[[JavaScript](<6kyu/(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.js>)]
+/ [[TypeScript](<6kyu/(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.ts>)]
+/ [[Python](<6kyu/(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.py>)]
+/ [[Rust](<6kyu/(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.rs>)]
+/ [[C++](<6kyu/(6%20kyu)%20Playing%20with%20passphrases/(6%20kyu)%20Playing%20with%20passphrases.cpp>)]
 / [C#]
 / [Java]
 / [Go]
 <br>
-**[(6 kyu) Reverse or rotate?](https://www.codewars.com/kata/reverse-or-rotate)** ([Description](<(6kyu/6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.md>) +
+**[(6 kyu) Reverse or rotate?](https://www.codewars.com/kata/reverse-or-rotate)** ([Description](<6kyu/(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(6kyu/6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.js>)]
-/ [[TypeScript](<(6kyu/6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.ts>)]
-/ [[Python](<(6kyu/6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.py>)]
-/ [[Rust](<(6kyu/6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.rs>)]
-/ [[C++](<(6kyu/6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.cpp>)]
+[[JavaScript](<6kyu/(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.js>)]
+/ [[TypeScript](<6kyu/(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.ts>)]
+/ [[Python](<6kyu/(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.py>)]
+/ [[Rust](<6kyu/(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.rs>)]
+/ [[C++](<6kyu/(6%20kyu)%20Reverse%20or%20rotate/(6%20kyu)%20Reverse%20or%20rotate.cpp>)]
 / [C#]
 / [Java]
 / [Go]
 <br>
-**[(6 kyu) Salesman's Travel](https://www.codewars.com/kata/salesmans-travel/)** ([Description](<(6kyu/6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.md>) +
+**[(6 kyu) Salesman's Travel](https://www.codewars.com/kata/salesmans-travel/)** ([Description](<6kyu/(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(6kyu/6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.js>)]
-/ [[TypeScript](<(6kyu/6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.ts>)]
-/ [[Python](<(6kyu/6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.py>)]
-/ [[Rust](<(6kyu/6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.rs>)]
-/ [[C++](<(6kyu/6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.cpp>)]
+[[JavaScript](<6kyu/(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.js>)]
+/ [[TypeScript](<6kyu/(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.ts>)]
+/ [[Python](<6kyu/(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.py>)]
+/ [[Rust](<6kyu/(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.rs>)]
+/ [[C++](<6kyu/(6%20kyu)%20Salesman's%20Travel/(6%20kyu)%20Salesman's%20Travel.cpp>)]
 / [C#]
 / [Java]
 / [Go]
 <br>
 **[(6 kyu) Square Digits Sequence](https://www.codewars.com/kata/simple-fun-number-23-square-digits-sequence)**
-([Description](<(6kyu/6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.md>) +
+([Description](<6kyu/(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.md>) +
 JS Video Tutorial) :
-[[JavaScript](<(6kyu/6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.js>)]
-/ [[TypeScript](<(6kyu/6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.ts>)]
-/ [[Python](<(6kyu/6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.py>)]
-/ [[Rust](<(6kyu/6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.rs>)]
+[[JavaScript](<6kyu/(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.js>)]
+/ [[TypeScript](<6kyu/(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.ts>)]
+/ [[Python](<6kyu/(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.py>)]
+/ [[Rust](<6kyu/(6%20kyu)%20Square%20Digits%20Sequence/(6%20kyu)%20Square%20Digits%20Sequence.rs>)]
 / [C++]
 / [C#]
 / [Java]
