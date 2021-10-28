@@ -696,6 +696,17 @@ JS Video Tutorial) :
 / [[Java](<8kyu/(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.go>)]
 <br>
+**[(8 kyu) Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/)** ([Description](<8kyu/(8%20kyu)%20Convert%20a%20string%20to%20an%20array/(8%20kyu)%20Convert%20a%20string%20to%20an%20array.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Convert%20a%20string%20to%20an%20array/(8%20kyu)%20Convert%20a%20string%20to%20an%20array.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
+<br>
 **[(8 kyu) Count of positives - sum of negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)** ([Description](<8kyu/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=Agva6gkNmok)) :
 [[JavaScript](<8kyu/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.js>)]
