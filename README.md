@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (22)
+## 8 kyu Katas (23)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -729,6 +729,18 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.go>)]
+<br>
+**[(8 kyu) Difference of Volumes of Cuboids](https://www.codewars.com/kata/58cb43f4256836ed95000f97)**
+([Description](<8kyu/(8%20kyu)%20Difference%of%20Volumes%20of%20Cubiods/(8%20kyu)%20Difference%of%20Volumes%20of%20Cubiods.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Difference%of%20Volumes%20of%20Cubiods/(8%20kyu)%20Difference%of%20Volumes%20of%20Cubiods.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
 <br>
 **[(8 kyu) DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion)**
 ([Description](<8kyu/(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.md>) +
