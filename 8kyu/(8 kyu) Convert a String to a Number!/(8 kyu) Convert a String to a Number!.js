@@ -31,5 +31,5 @@ function stringToNumber(str) {
 // 3 Clever solution
 const stringToNumber = str => Number(str);
 
-// 4 Conding golf
+// 4 Coding golf
 stringToNumber = Number;
