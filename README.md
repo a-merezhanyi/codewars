@@ -696,9 +696,9 @@ JS Video Tutorial) :
 / [[Java](<8kyu/(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.go>)]
 <br>
-**[(8 kyu) Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79/)** ([Description](<8kyu/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!/(8%20kuy)%20Convert%20a%20String%20to%20a%20Number.md>) +
+**[(8 kyu) Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79/)** ([Description](<8kyu/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!.md>) +
 JS Video Tutorial) :
-[[JavaScript](<8kyu/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!/(8%20kuy)%20Convert%20a%20String%20to%20a%20Number.js>)]
+[[JavaScript](<8kyu/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!.js>)]
 / [TypeScript]
 / [Python]
 / [Rust]
