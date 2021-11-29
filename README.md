@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (23)
+## 8 kyu Katas (27)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -789,6 +789,17 @@ JS Video Tutorial) :
 / [[Java](<8kyu/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.go>)]
 <br>
+**[(8 kyu) I love you, a little , a lot, passionately ... not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/)** ([Description](<8kyu/(8%20kyu)%20I%20love%20you%2C%20a%20little%2C%20a%20lot%2C%20passionately%2C%20not%20at%20all/(8%20kuy)%20I%20love%20you%2C%20a%20little%2C%20a%20lot%2C%20passionately%2C%20not%20at%20all.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20I%20love%20you%2C%20a%20little%2C%20a%20lot%2C%20passionately%2C%20not%20at%20all/(8%20kuy)%20I%20love%20you%2C%20a%20little%2C%20a%20lot%2C%20passionately%2C%20not%20at%20all.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
+<br>
 **[(8 kyu) If you can't sleep, just count sheep](https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep)**
 ([Description](<8kyu/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=TdMqYpl-ThY)) :
@@ -812,17 +823,6 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.go>)]
-<br>
-**[(8 kyu) I love you, a little , a lot, passionately ... not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/)** ([Description](<8kyu/(8%20kyu)%20I%20love%20you,%20a%20little%20,%20a%20lot,%20passionately%20...%20not%20at%20all/(8%20kuy)%20I%20love%20you,%20a%20little%20,%20a%20lot,%20passionately%20...%20not%20at%20all.md>) +
-JS Video Tutorial) :
-[[JavaScript](<8kyu/(8%20kyu)%20I%20love%20you,%20a%20little%20,%20a%20lot,%20passionately%20...%20not%20at%20all/(8%20kuy)%20I%20love%20you,%20a%20little%20,%20a%20lot,%20passionately%20...%20not%20at%20all.js>)]
-/ [TypeScript]
-/ [Python]
-/ [Rust]
-/ [C++]
-/ [C#]
-/ [Java]
-/ [Go]
 <br>
 **[(8 kyu) Multiply](https://www.codewars.com/kata/multiply/)**
 ([Description](<8kyu/(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.md>) +
