@@ -789,9 +789,9 @@ JS Video Tutorial) :
 / [[Java](<8kyu/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.go>)]
 <br>
-**[(8 kyu) I love you, a little , a lot, passionately ... not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/)** ([Description](<8kyu/(8%20kyu)%20I%20love%20you%2C%20a%20little%2C%20a%20lot%2C%20passionately%2C%20not%20at%20all/(8%20kuy)%20I%20love%20you%2C%20a%20little%2C%20a%20lot%2C%20passionately%2C%20not%20at%20all.md>) +
+**[(8 kyu) I love you, a little , a lot, passionately ... not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/)** ([Description](<8kyu/(8%20kyu)%20I%20love%20you%2C%20a%20little%2C%20a%20lot%2C%20passionately%2C%20not%20at%20all/(8%20kyu)%20I%20love%20you%2C%20a%20little%2C%20a%20lot%2C%20passionately%2C%20not%20at%20all.md>) +
 JS Video Tutorial) :
-[[JavaScript](<8kyu/(8%20kyu)%20I%20love%20you%2C%20a%20little%2C%20a%20lot%2C%20passionately%2C%20not%20at%20all/(8%20kuy)%20I%20love%20you%2C%20a%20little%2C%20a%20lot%2C%20passionately%2C%20not%20at%20all.js>)]
+[[JavaScript](<8kyu/(8%20kyu)%20I%20love%20you%2C%20a%20little%2C%20a%20lot%2C%20passionately%2C%20not%20at%20all/(8%20kyu)%20I%20love%20you%2C%20a%20little%2C%20a%20lot%2C%20passionately%2C%20not%20at%20all.js>)]
 / [TypeScript]
 / [Python]
 / [Rust]
