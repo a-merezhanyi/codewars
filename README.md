@@ -813,6 +813,17 @@ JS Video Tutorial) :
 / [[Java](<8kyu/(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.go>)]
 <br>
+**[(8 kyu) I love you, a little , a lot, passionately ... not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/)** ([Description](<8kyu/(8%20kyu)%20I%20love%20you,%20a%20little%20,%20a%20lot,%20passionately%20...%20not%20at%20all/(8%20kuy)%20I%20love%20you,%20a%20little%20,%20a%20lot,%20passionately%20...%20not%20at%20all.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20I%20love%20you,%20a%20little%20,%20a%20lot,%20passionately%20...%20not%20at%20all/(8%20kuy)%20I%20love%20you,%20a%20little%20,%20a%20lot,%20passionately%20...%20not%20at%20all.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
+<br>
 **[(8 kyu) Multiply](https://www.codewars.com/kata/multiply/)**
 ([Description](<8kyu/(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=cxNFuXg66sg)) :
