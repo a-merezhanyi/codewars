@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (27)
+## 8 kyu Katas (28)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -710,6 +710,17 @@ JS Video Tutorial) :
 **[(8 kyu) Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/)** ([Description](<8kyu/(8%20kyu)%20Convert%20a%20string%20to%20an%20array/(8%20kuy)%20Convert%20a%20string%20to%20an%20array.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Convert%20a%20string%20to%20an%20array/(8%20kuy)%20Convert%20a%20string%20to%20an%20array.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
+<br>
+**[(8 kyu) Convert boolean values to strings 'Yes' or 'No'.](https://www.codewars.com/kata/544675c6f971f7399a000e79/)** ([Description](<8kyu/(8%20kyu)%20Convert%20boolean%values%20to%20strings%20Yes%20or%20No/(8%20kyu)%20Convert%20boolean%values%20to%20strings%20Yes%20or%20No.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Convert%20boolean%values%20to%20strings%20Yes%20or%20No/(8%20kyu)%20Convert%20boolean%values%20to%20strings%20Yes%20or%20No.js>)]
 / [TypeScript]
 / [Python]
 / [Rust]
