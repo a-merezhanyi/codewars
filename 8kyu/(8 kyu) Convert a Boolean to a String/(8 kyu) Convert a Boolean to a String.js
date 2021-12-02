@@ -16,3 +16,6 @@ function booleanToString(b) {
 
 // 3 Clever solution
 const booleanToString = b => b.toString();
+
+// 4 Coding golf
+booleanToString=b=>`${b}`
