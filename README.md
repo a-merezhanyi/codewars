@@ -696,6 +696,17 @@ JS Video Tutorial) :
 / [[Java](<8kyu/(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.go>)]
 <br>
+**[(8 kyu) Convert a Boolean to a String](https://www.codewars.com/kata/551b4501ac0447318f0009cd/)** ([Description](<8kyu/(8%20kyu)%20Convert%20a%20Boolean%20to%20a%20String/(8%20kyu)%20Convert%20a%20Boolean%20to%20a%20String.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Convert%20a%20Boolean%20to%20a%20String/(8%20kyu)%20Convert%20a%20Boolean%20to%20a%20String.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
+<br>
 **[(8 kyu) Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79/)** ([Description](<8kyu/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!.js>)]
@@ -718,9 +729,9 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 <br>
-**[(8 kyu) Convert boolean values to strings 'Yes' or 'No'.](https://www.codewars.com/kata/544675c6f971f7399a000e79/)** ([Description](<8kyu/(8%20kyu)%20Convert%20boolean%values%20to%20strings%20Yes%20or%20No/(8%20kyu)%20Convert%20boolean%values%20to%20strings%20Yes%20or%20No.md>) +
+**[(8 kyu) Convert boolean values to strings 'Yes' or 'No'.](https://www.codewars.com/kata/544675c6f971f7399a000e79/)** ([Description](<8kyu/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.md>) +
 JS Video Tutorial) :
-[[JavaScript](<8kyu/(8%20kyu)%20Convert%20boolean%values%20to%20strings%20Yes%20or%20No/(8%20kyu)%20Convert%20boolean%values%20to%20strings%20Yes%20or%20No.js>)]
+[[JavaScript](<8kyu/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.js>)]
 / [TypeScript]
 / [Python]
 / [Rust]
