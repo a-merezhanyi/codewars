@@ -984,7 +984,7 @@ JS Video Tutorial) :
 / [TypeScript]
 / [[Python](<8kyu/(8%20kyu)%20Volume%20of%20a%20Cuboid/(8%20kyu)%20Volume%20of%20a%20Cuboid.py>)]
 / [Rust]
-/ [C++]
+/ [[C++](<8kyu/(8%20kyu)%20Volume%20of%20a%20Cuboid/(8%20kyu)%20Volume%20of%20a%20Cuboid.cpp>)]
 / [C#]
 / [Java]
 / [Go]
