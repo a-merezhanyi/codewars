@@ -846,6 +846,18 @@ JS Video Tutorial) :
 / [[Java](<8kyu/(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.go>)]
 <br>
+**[(8 kyu) MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/)**
+([Description](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.md>) +
+[JS Video Tutorial]) :
+[[JavaScript](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
+<br>
 **[(8 kyu) Multiply](https://www.codewars.com/kata/multiply/)**
 ([Description](<8kyu/(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=cxNFuXg66sg)) :
