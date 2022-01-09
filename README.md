@@ -850,7 +850,7 @@ JS Video Tutorial) :
 ([Description](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.md>) +
 [JS Video Tutorial]) :
 [[JavaScript](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.js>)]
-/ [TypeScript]
+/ [[TypeScript](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.ts>)]
 / [Python]
 / [Rust]
 / [C++]
