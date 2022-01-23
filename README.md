@@ -43,7 +43,7 @@ JS Video Tutorial) :
 / ~~[Java]~~
 / ~~[Go]~~
 
-## 4 kyu Katas (8 -> 10)
+## 4 kyu Katas (8)
 
 **[(4 kyu) Decode the Morse code, advanced](https://www.codewars.com/kata/decode-the-morse-code-advanced)** ([Description](<4kyu/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced.md>) +
 JS Video Tutorial) :
@@ -133,7 +133,7 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 
-## 5 kyu Katas (7 -> 15)
+## 5 kyu Katas (7 -> 13)
 
 **[(5 kyu) Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/)** ([Description](<5kyu/(5%20kyu)%20Calculating%20with%20Functions/(5%20kyu)%20Calculating%20with%20Functions.md>) +
 JS Video Tutorial) :
@@ -212,7 +212,7 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 
-## 6 kyu Katas (16 -> 20)
+## 6 kyu Katas (16 -> 21)
 
 **[(6 kyu) CamelCase Method](https://www.codewars.com/kata/camelcase-method/)**
 ([Description](<6kyu/(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.md>) +
@@ -382,7 +382,7 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 
-## 7 kyu Katas (23 -> 25)
+## 7 kyu Katas (23 -> 34)
 
 **[(7 kyu) Build a square](https://www.codewars.com/kata/build-a-square/)**
 ([Description](<7kyu/(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.md>) +
@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (30)
+## 8 kyu Katas (30 -> 55)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
