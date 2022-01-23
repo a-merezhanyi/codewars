@@ -19,7 +19,7 @@ My Profile: https://www.codewars.com/users/e1r0nd
 
 ![](https://www.codewars.com/users/e1r0nd/badges/large)
 
-## 3 kyu Katas (?)
+## 3 kyu Katas (2 -> 5)
 
 **[(3 kyu) Base64 Encoding](https://www.codewars.com/kata/5270f22f862516c686000161)** ([Description](<3kyu/(3%20kyu)%20Base64%20Encoding/(3%20kyu)%20Base64%20Encoding.md>) +
 JS Video Tutorial) :
@@ -43,7 +43,7 @@ JS Video Tutorial) :
 / ~~[Java]~~
 / ~~[Go]~~
 
-## 4 kyu Katas (?)
+## 4 kyu Katas (8 -> 10)
 
 **[(4 kyu) Decode the Morse code, advanced](https://www.codewars.com/kata/decode-the-morse-code-advanced)** ([Description](<4kyu/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced/(4%20kyu)%20Decode%20the%20Morse%20code%2C%20advanced.md>) +
 JS Video Tutorial) :
@@ -133,7 +133,7 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 
-## 5 kyu Katas (?)
+## 5 kyu Katas (7 -> 15)
 
 **[(5 kyu) Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/)** ([Description](<5kyu/(5%20kyu)%20Calculating%20with%20Functions/(5%20kyu)%20Calculating%20with%20Functions.md>) +
 JS Video Tutorial) :
@@ -212,7 +212,7 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 
-## 6 kyu Katas (?)
+## 6 kyu Katas (16 -> 20)
 
 **[(6 kyu) CamelCase Method](https://www.codewars.com/kata/camelcase-method/)**
 ([Description](<6kyu/(6%20kyu)%20CamelCase%20Method/(6%20kyu)%20CamelCase%20Method.md>) +
@@ -382,7 +382,7 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 
-## 7 kyu Katas (?)
+## 7 kyu Katas (23 -> 25)
 
 **[(7 kyu) Build a square](https://www.codewars.com/kata/build-a-square/)**
 ([Description](<7kyu/(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.md>) +
