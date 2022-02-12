@@ -729,6 +729,17 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 <br>
+**[(8 kyu) Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/)** ([Description](<8kyu/(8%20kyu)%20Convert%20a%20string%20to%20an%20array/(8%20kyu)%20Convert%20a%20string%20to%20an%20array.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Convert%20a%20string%20to%20an%20array/(8%20kyu)%20Convert%20a%20string%20to%20an%20array.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
+<br>
 **[(8 kyu) Convert boolean values to strings 'Yes' or 'No'.](https://www.codewars.com/kata/544675c6f971f7399a000e79/)** ([Description](<8kyu/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.js>)]
@@ -881,6 +892,18 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.go>)]
+<br>
+**[(8 kyu) Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)**
+([Description](<8kyu/(8%20kyu)%20Remove%20First%20and%20Last%20Character/(8%20kyu)%20Remove%20First%20and%20Last%20Character.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Remove%20First%20and%20Last%20Character/(8%20kyu)%20Remove%20First%20and%20Last%20Character.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
 <br>
 **[(8 kyu) Remove String Spaces](https://www.codewars.com/kata/remove-string-spaces)**
 ([Description](<8kyu/(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.md>) +
