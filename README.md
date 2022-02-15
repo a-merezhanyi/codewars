@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (30 -> 55)
+## 8 kyu Katas (33 -> 55)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -673,6 +673,17 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.go>)]
+<br>
+**[(8 kyu) Area or Perimeter](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/)** ([Description](<8kyu/(8%20kyu)%20Area%20or%20Perimeter/(8%20kyu)%20Area%20or%20Perimeter.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Area%20or%20Perimeter/(8%20kyu)%20Area%20or%20Perimeter.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
 <br>
 **[(8 kyu) Basic subclasses - Adam and Eve](https://www.codewars.com/kata/547274e24481cfc469000416)**
 ([Description](<8kyu/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.md>) +
