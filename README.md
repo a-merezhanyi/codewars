@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (33 -> 55)
+## 8 kyu Katas (34 -> 55)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -855,6 +855,17 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.java>)]
 / [[Go](<8kyu/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.go>)]
+<br>
+**[(8 kyu) Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086)** ([Description](<8kyu/(8%20kyu)%20Is%20n%20divisible%20%by%20x%20and%20y/(8%20kyu)%20Is%20n%20divisible%20%by%20x%20and%20y.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Is%20n%20divisible%20%by%20x%20and%20y/(8%20kyu)%20Is%20n%20divisible%20%by%20x%20and%20y.js>)]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Is%20n%20divisible%20%by%20x%20and%20y/(8%20kyu)%20Is%20n%20divisible%20%by%20x%20and%20y.ts>)]
+/ [Python]
+/ [[Rust](<8kyu/(8%20kyu)%20Is%20n%20divisible%20%by%20x%20and%20y/(8%20kyu)%20Is%20n%20divisible%20%by%20x%20and%20y.rs>)]
+/ [C++]
+/ [C#]
+/ [[Java](<8kyu/(8%20kyu)%20Is%20n%20divisible%20%by%20x%20and%20y/(8%20kyu)%20Is%20n%20divisible%20%by%20x%20and%20y.java>)]
+/ [[Go](<8kyu/(8%20kyu)%20Is%20n%20divisible%20%by%20x%20and%20y/(8%20kyu)%20Is%20n%20divisible%20%by%20x%20and%20y.go>)]
 <br>
 **[(8 kyu) Jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)**
 ([Description](<8kyu/(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.md>) +
