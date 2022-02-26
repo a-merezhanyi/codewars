@@ -740,17 +740,6 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 <br>
-**[(8 kyu) Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/)** ([Description](<8kyu/(8%20kyu)%20Convert%20a%20string%20to%20an%20array/(8%20kyu)%20Convert%20a%20string%20to%20an%20array.md>) +
-JS Video Tutorial) :
-[[JavaScript](<8kyu/(8%20kyu)%20Convert%20a%20string%20to%20an%20array/(8%20kyu)%20Convert%20a%20string%20to%20an%20array.js>)]
-/ [TypeScript]
-/ [Python]
-/ [Rust]
-/ [C++]
-/ [C#]
-/ [Java]
-/ [Go]
-<br>
 **[(8 kyu) Convert boolean values to strings 'Yes' or 'No'.](https://www.codewars.com/kata/544675c6f971f7399a000e79/)** ([Description](<8kyu/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.js>)]
@@ -1034,6 +1023,17 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.java>)]
 / [[Go](<8kyu/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.go>)]
+<br>
+**[(8 kyu) Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131/)** ([Description](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
 <br>
 **[(8 kyu) Volume of a Cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a/)** ([Description](<8kyu/(8%20kyu)%20Volume%20of%20a%20Cuboid/(8%20kyu)%20Volume%20of%20a%20Cuboid.md>) +
 JS Video Tutorial) :
