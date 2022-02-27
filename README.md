@@ -1035,6 +1035,17 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 <br>
+**[(8 kyu) Twice as old](https://www.codewars.com/kata/5b853229cfde412a470000d0/)** ([Description](<8kyu/(8%20kyu)%20Twice%20as%20old/(8%20kyu)%20Twice%20as%20old.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Twice%20as%20old/(8%20kyu)%20Twice%20as%20old.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
+<br>
 **[(8 kyu) Volume of a Cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a/)** ([Description](<8kyu/(8%20kyu)%20Volume%20of%20a%20Cuboid/(8%20kyu)%20Volume%20of%20a%20Cuboid.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Volume%20of%20a%20Cuboid/(8%20kyu)%20Volume%20of%20a%20Cuboid.js>)]
