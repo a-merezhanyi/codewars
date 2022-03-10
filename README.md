@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (35 -> 55)
+## 8 kyu Katas (36 -> 55)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -743,6 +743,17 @@ JS Video Tutorial) :
 **[(8 kyu) Convert boolean values to strings 'Yes' or 'No'.](https://www.codewars.com/kata/544675c6f971f7399a000e79/)** ([Description](<8kyu/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
+<br>
+**[(8 kyu) Count Odd Numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6/)** ([Description](<8kyu/(8%20kyu)%20Count%20Odd%20Numbers%20below%20n/(8%20kyu)%20Count%20Odd%20Numbers%20below%20n.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Count%20Odd%20Numbers%20below%20n/(8%20kyu)%20Count%20Odd%20Numbers%20below%20n.js>)]
 / [TypeScript]
 / [Python]
 / [Rust]
