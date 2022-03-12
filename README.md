@@ -1049,7 +1049,7 @@ JS Video Tutorial) :
 **[(8 kyu) Twice as old](https://www.codewars.com/kata/5b853229cfde412a470000d0/)** ([Description](<8kyu/(8%20kyu)%20Twice%20as%20old/(8%20kyu)%20Twice%20as%20old.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Twice%20as%20old/(8%20kyu)%20Twice%20as%20old.js>)]
-/ [TypeScript]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Twice%20as%20old/(8%20kyu)%20Twice%20as%20old.ts>)]
 / [Python]
 / [Rust]
 / [C++]
