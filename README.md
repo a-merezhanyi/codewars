@@ -951,10 +951,10 @@ JS Video Tutorial) :
 / [[Java](<8kyu/(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.go>)]
 <br>
-**[(8 kyu) Return Negative](https://www.codewars.com/kata/return-negative)**
-([Description](<8kyu/(8%20kyu)%20Return%20Strings/(8%20kyu)%20Return%20Strings.md>) +
+**[(8 kyu) Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4)**
+([Description](<8kyu/(8%20kyu)%20Returning%20Strings/(8%20kyu)%20Returning%20Strings.md>) +
 [JS Video Tutorial]) :
-[[JavaScript](<8kyu/(8%20kyu)%20Return%20Strings/(8%20kyu)%20Return%20Strings.js>)]
+[[JavaScript](<8kyu/(8%20kyu)%20Returning%20Strings/(8%20kyu)%20Returning%20Strings.js>)]
 / [TypeScript]
 / [Python]
 / [Rust]
