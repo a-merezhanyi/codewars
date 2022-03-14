@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (36 -> 55)
+## 8 kyu Katas (37 -> 55)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -950,6 +950,18 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.go>)]
+<br>
+**[(8 kyu) Return Negative](https://www.codewars.com/kata/return-negative)**
+([Description](<8kyu/(8%20kyu)%20Return%20Strings/(8%20kyu)%20Return%20Strings.md>) +
+[JS Video Tutorial]) :
+[[JavaScript](<8kyu/(8%20kyu)%20Return%20Strings/(8%20kyu)%20Return%20Strings.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
 <br>
 **[(8 kyu) Reversed Strings](https://www.codewars.com/kata/reversed-strings)**
 ([Description](<8kyu/(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.md>) +
