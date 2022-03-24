@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (38 -> 55)
+## 8 kyu Katas (39 -> 55)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -695,6 +695,17 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.java>)]
 / ~~[Go]~~
+<br>
+**[(8 kyu) Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/)** ([Description](<8kyu/(8%20kyu)%20Beginner%20-%20Lost%20Without%20a%20Map/(8%20kyu)%20Beginner%20-%20Lost%20Without%20a%20Map.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Beginner%20-%20Lost%20Without%20a%20Map/(8%20kyu)%20Beginner%20-%20Lost%20Without%20a%20Map.js>)]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Beginner%20-%20Lost%20Without%20a%20Map/(8%20kyu)%20Beginner%20-%20Lost%20Without%20a%20Map.ts>)]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [[Go]](<8kyu/(8%20kyu)%20Beginner%20-%20Lost%20Without%20a%20Map/(8%20kyu)%20Beginner%20-%20Lost%20Without%20a%20Map.go>)]
 <br>
 **[(8 kyu) Century From Year](https://www.codewars.com/kata/century-from-year/)** ([Description](<8kyu/(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=r4FcQieqKFM)) :
