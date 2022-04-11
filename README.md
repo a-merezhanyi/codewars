@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (40 -> 55)
+## 8 kyu Katas (41 -> 55)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -1117,6 +1117,16 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version.js>)]
 / [[TypeScript](<8kyu/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version.ts>)]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
+**[(8 kyu) Rock Paper Scissors](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/)** ([Description](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.js>)]
+/ [TypeScript]
 / [Python]
 / [Rust]
 / [C++]
