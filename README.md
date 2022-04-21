@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (42 -> 55)
+## 8 kyu Katas (43 -> 55)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -936,6 +936,18 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.go>)]
+<br>
+**[(8 kyu) Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083)**
+([Description](<8kyu/(8%20kyu)%20Opposite%20Attract/(8%20kyu)%20Opposite%20Attract.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Opposite%20Attract/(8%20kyu)%20Opposite%20Attract.js>)]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Opposite%20Attract/(8%20kyu)%20Opposite%20Attract.ts>)]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
 <br>
 **[(8 kyu) Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)**
 ([Description](<8kyu/(8%20kyu)%20Remove%20First%20and%20Last%20Character/(8%20kyu)%20Remove%20First%20and%20Last%20Character.md>) +
