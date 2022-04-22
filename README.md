@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (43 -> 55)
+## 8 kyu Katas (44 -> 55)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -844,16 +844,17 @@ JS Video Tutorial) :
 / [[Java](<8kyu/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.go>)]
 <br>
-**[(8 kyu) How good are you really?](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/)** ([Description](<8kyu/(8%20kyu)%20How%20good%20are%20you%20really/(8%20kyu)%20How%20good%20are%20you%20really.md>) +
+Function 3 - multiplying two numbers
+**[(8 kyu) Function 3 - multiplying two numbers](https://www.codewars.com/kata/523b66342d0c301ae400003b/)** ([Description](<8kyu/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers.md>) +
 JS Video Tutorial) :
-[[JavaScript](<8kyu/(8%20kyu)%20How%20good%20are%20you%20really/(8%20kyu)%20How%20good%20are%20you%20really.js>)]
-/ [[TypeScript](<8kyu/(8%20kyu)%20How%20good%20are%20you%20really/(8%20kyu)%20How%20good%20are%20you%20really.ts>)]
+[[JavaScript](<8kyu/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers.js>)]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers.ts>)]
 / [Python]
 / [Rust]
-/ [C++]
+/ [[C++](<8kyu/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers.cpp>)]
 / [C#]
-/ [Java]
-/ [Go]
+/ [[Java](<8kyu/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers.java>)]
+/ [[Go](<8kyu/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers.go>)]
 <br>
 **[(8 kyu) I love you, a little , a lot, passionately ... not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/)** ([Description](<8kyu/(8%20kyu)%20I%20love%20you%2C%20a%20little%2C%20a%20lot%2C%20passionately%2C%20not%20at%20all/(8%20kyu)%20I%20love%20you%2C%20a%20little%2C%20a%20lot%2C%20passionately%2C%20not%20at%20all.md>) +
 JS Video Tutorial) :
