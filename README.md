@@ -844,7 +844,6 @@ JS Video Tutorial) :
 / [[Java](<8kyu/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.go>)]
 <br>
-Function 3 - multiplying two numbers
 **[(8 kyu) Function 3 - multiplying two numbers](https://www.codewars.com/kata/523b66342d0c301ae400003b/)** ([Description](<8kyu/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers.js>)]
