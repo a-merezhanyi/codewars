@@ -674,6 +674,17 @@ JS Video Tutorial) :
 / [[Java](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.go>)]
 <br>
+**[(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe](http://www.codewars.com/kata/alternating-case-%3C-equals-%3E-alternating-case)** ([Description](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.md>) +
+[JS Video Tutorial](https://www.youtube.com/watch?v=ECzUJBc9fO0)) :
+[[JavaScript](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.js>)]
+/ [[TypeScript](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.ts>)]
+/ [[Python](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.py>)]
+/ [[Rust](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.rs>)]
+/ [[C++](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.cpp>)]
+/ [[C#](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.cs>)]
+/ [[Java](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.java>)]
+/ [[Go](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.go>)]
+<br>
 **[(8 kyu) Area or Perimeter](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/)** ([Description](<8kyu/(8%20kyu)%20Area%20or%20Perimeter/(8%20kyu)%20Area%20or%20Perimeter.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Area%20or%20Perimeter/(8%20kyu)%20Area%20or%20Perimeter.js>)]
@@ -1009,6 +1020,18 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 <br>
+**[(8 kyu) Reversed sequence](https://www.codewars.com/kata/reversed-sequence)**
+([Description](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.md>) +
+[JS Video Tutorial](https://www.youtube.com/watch?v=y1jgbZ8lt1s)) :
+[[JavaScript](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.js>)]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.ts>)]
+/ [[Python](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.py>)]
+/ [[Rust](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.rs>)]
+/ [[C++](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.cpp>)]
+/ [[C#](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.cs>)]
+/ [[Java](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.java>)]
+/ [[Go](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.go>)]
+<br>
 **[(8 kyu) Reversed Strings](https://www.codewars.com/kata/reversed-strings)**
 ([Description](<8kyu/(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=ob-usjKDrXM)) :
@@ -1033,17 +1056,16 @@ JS Video Tutorial) :
 / [[Java](<8kyu/(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.go>)]
 <br>
-**[(8 kyu) Reversed sequence](https://www.codewars.com/kata/reversed-sequence)**
-([Description](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.md>) +
-[JS Video Tutorial](https://www.youtube.com/watch?v=y1jgbZ8lt1s)) :
-[[JavaScript](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.js>)]
-/ [[TypeScript](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.ts>)]
-/ [[Python](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.py>)]
-/ [[Rust](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.rs>)]
-/ [[C++](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.cpp>)]
-/ [[C#](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.cs>)]
-/ [[Java](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.java>)]
-/ [[Go](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.go>)]
+**[(8 kyu) Rock Paper Scissors](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/)** ([Description](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
 <br>
 **[(8 kyu) Sort and Star](https://www.codewars.com/kata/sort-and-star)**
 ([Description](<8kyu/(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.md>) +
@@ -1137,31 +1159,10 @@ JS Video Tutorial) :
 / [[Java](<8kyu/(8%20kyu)%20Volume%20of%20a%20Cuboid/(8%20kyu)%20Volume%20of%20a%20Cuboid.java>)]
 / [Go]
 <br>
-**[(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe](http://www.codewars.com/kata/alternating-case-%3C-equals-%3E-alternating-case)** ([Description](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.md>) +
-[JS Video Tutorial](https://www.youtube.com/watch?v=ECzUJBc9fO0)) :
-[[JavaScript](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.js>)]
-/ [[TypeScript](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.ts>)]
-/ [[Python](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.py>)]
-/ [[Rust](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.rs>)]
-/ [[C++](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.cpp>)]
-/ [[C#](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.cs>)]
-/ [[Java](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.java>)]
-/ [[Go](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.go>)]
-<br>
 **[(8 kyu) Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212/)** ([Description](<8kyu/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version.js>)]
 / [[TypeScript](<8kyu/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version.ts>)]
-/ [Python]
-/ [Rust]
-/ [C++]
-/ [C#]
-/ [Java]
-/ [Go]
-**[(8 kyu) Rock Paper Scissors](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/)** ([Description](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.md>) +
-JS Video Tutorial) :
-[[JavaScript](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.js>)]
-/ [TypeScript]
 / [Python]
 / [Rust]
 / [C++]
