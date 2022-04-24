@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (45 -> 55)
+## 8 kyu Katas (46 -> 55)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -733,6 +733,17 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Convert%20a%20Boolean%20to%20a%20String/(8%20kyu)%20Convert%20a%20Boolean%20to%20a%20String.js>)]
 / [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
+<br>
+**[(8 kyu) Convert number to reversed array of digits](https://www.codewars.com/kata/544675c6f971f7399a000e79/)** ([Description](<8kyu/(8%20kyu)%20Convert%20number%20to%20reversed%20array%20of%20digits/(8%20kyu)%20Convert%20number%20to%20reversed%20array%20of%20digits.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Convert%20number%20to%20reversed%20array%20of%20digits/(8%20kyu)%20Convert%20number%20to%20reversed%20array%20of%20digits.js>)]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Convert%20number%20to%20reversed%20array%20of%20digits/(8%20kyu)%20Convert%20number%20to%20reversed%20array%20of%20digits.ts>)]
 / [Python]
 / [Rust]
 / [C++]
