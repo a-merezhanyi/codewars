@@ -1102,6 +1102,17 @@ JS Video Tutorial) :
 / [[Java](<8kyu/(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.go>)]
 <br>
+**[(8 kyu) String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251/)** ([Description](<8kyu/(8%20kyu)%20String%20cleaning/(8%20kyu)%20String%20cleaning.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20String%20cleaning/(8%20kyu)%20String%20cleaning.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
+<br>
 **[(8 kyu) String repeat](https://www.codewars.com/kata/string-repeat)**
 ([Description](<8kyu/(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=SN6hqiExBgs)) :
