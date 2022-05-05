@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (46 -> 55)
+## 8 kyu Katas (47 -> 55)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -982,6 +982,17 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+**[(8 kyu) Plural](https://www.codewars.com/kata/52ceafd1f235ce81aa00073a/)** ([Description](<8kyu/(8%20kyu)%20Plural/(8%20kyu)%20Plural.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Plural/(8%20kyu)%20Plural.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
+<br>
 <br>
 **[(8 kyu) Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)**
 ([Description](<8kyu/(8%20kyu)%20Remove%20First%20and%20Last%20Character/(8%20kyu)%20Remove%20First%20and%20Last%20Character.md>) +
