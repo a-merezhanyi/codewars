@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (48 -> 55)
+## 8 kyu Katas (49 -> 55)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -1213,3 +1213,14 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+<br>
+**[(8 kyu) You Can't Code Under Pressure #1](https://www.codewars.com/kata/53ee5429ba190077850011d4/)** ([Description](<8kyu/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201.js>)]
+/ [[TypeScript](<8kyu/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201.ts>)]
+/ [[Python](<8kyu/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201.py>)]
+/ [[Rust](<8kyu/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201.rs>)]
+/ [[C++](<8kyu/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201.cpp>)]
+/ [[C#](<8kyu/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201.cs>)]
+/ [[Java](<8kyu/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201.java>)]
+/ [[Go](<8kyu/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201.go>)]
