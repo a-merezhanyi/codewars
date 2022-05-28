@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (50 -> 55)
+## 8 kyu Katas (51 -> 55)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -1169,6 +1169,17 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.java>)]
 / [[Go](<8kyu/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.go>)]
+<br>
+**[(8 kyu) To square(root) or not to square(root)](https://www.codewars.com/kata/57f6ad55cca6e045d2000627/)** ([Description](<8kyu/(8%20kyu)%20To%20square%20or%20not/(8%20kyu)%20To%20square%20or%20not.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20To%20square%20or%20not/(8%20kyu)%20To%20square%20or%20not.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
 <br>
 **[(8 kyu) Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131/)** ([Description](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.md>) +
 JS Video Tutorial) :
