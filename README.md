@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (51 -> 55)
+## 8 kyu Katas (52 -> 55)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -997,6 +997,17 @@ JS Video Tutorial) :
 **[(8 kyu) Plural](https://www.codewars.com/kata/52ceafd1f235ce81aa00073a/)** ([Description](<8kyu/(8%20kyu)%20Plural/(8%20kyu)%20Plural.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Plural/(8%20kyu)%20Plural.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
+<br>
+**[(8 kyu) Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028/)** ([Description](<8kyu/(8%20kyu)%20Powers%20of%202/(8%20kyu)%20Powers%20of%202.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Powers%20of%202/(8%20kyu)%20Powers%20of%202.js>)]
 / [TypeScript]
 / [Python]
 / [Rust]
