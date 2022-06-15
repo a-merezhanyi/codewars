@@ -1245,7 +1245,7 @@ JS Video Tutorial) :
 / [C++]
 / [C#]
 / [Java]
-/ [Go]
+/ [[Go](<8kyu/(8%20kyu)%20What%20is%20between/(8%20kyu)%20What%20is%20between.go>)]
 <br>
 **[(8 kyu) You Can't Code Under Pressure #1](https://www.codewars.com/kata/53ee5429ba190077850011d4/)** ([Description](<8kyu/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201.md>) +
 JS Video Tutorial) :
