@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (52 -> 55)
+## 8 kyu Katas (53 -> 55)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -716,7 +716,18 @@ JS Video Tutorial) :
 / [C++]
 / [C#]
 / [Java]
-/ [[Go]](<8kyu/(8%20kyu)%20Beginner%20-%20Lost%20Without%20a%20Map/(8%20kyu)%20Beginner%20-%20Lost%20Without%20a%20Map.go>)]
+/ [[Go](<8kyu/(8%20kyu)%20Beginner%20-%20Lost%20Without%20a%20Map/(8%20kyu)%20Beginner%20-%20Lost%20Without%20a%20Map.go>)]
+<br>
+**[(8 kyu) Bin to Decimal](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334/)** ([Description](<8kyu/(8%20kyu)%20Bin%20or%20Decimal/(8%20kyu)%20Bin%20or%20Decimal.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Bin%20or%20Decimal/(8%20kyu)%20Bin%20or%20Decimal.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
 <br>
 **[(8 kyu) Century From Year](https://www.codewars.com/kata/century-from-year/)** ([Description](<8kyu/(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=r4FcQieqKFM)) :
