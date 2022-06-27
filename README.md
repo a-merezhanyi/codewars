@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (53 -> 55)
+## 8 kyu Katas (54 -> 55)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -921,6 +921,17 @@ JS Video Tutorial) :
 / [C#]
 / [[Java](<8kyu/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y.go>)]
+<br>
+**[(8 kyu) Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)** ([Description](<8kyu/(8%20kyu)%20Is%20the%20string%20uppercase/(8%20kyu)%20Is%20the%20string%20uppercase.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/%20Is%20the%20string%20uppercase/(8%20kyu)%20Is%20the%20string%20uppercase.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
 <br>
 **[(8 kyu) Jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)**
 ([Description](<8kyu/(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.md>) +
