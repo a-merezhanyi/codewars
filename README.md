@@ -660,7 +660,7 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Two%20to%20One/(7%20kyu)%20Two%20to%20One.go>)]
 
-## 8 kyu Katas (54 -> 55)
+## 8 kyu Katas (55 -> 55)
 
 **[(8 kyu) Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name)**
 ([Description](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.md>) +
@@ -864,6 +864,18 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.go>)]
+<br>
+**[(8 kyu) Fake Binary](https://www.codewars.com/kata/559ac78160f0be07c200005a/)**
+([Description](<8kyu/(8%20kyu)%20Fake%20Binary/(8%20kyu)%20Fake%20Binary.md>) +
+[JS Video Tutorial]) :
+[[JavaScript](<8kyu/(8%20kyu)%20Fake%20Binary/(8%20kyu)%20Fake%20Binary.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
 <br>
 **[(8 kyu) Find the smallest integer in the array](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array)**
 ([Description](<8kyu/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.md>) +
