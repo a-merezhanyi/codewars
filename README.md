@@ -865,7 +865,7 @@ JS Video Tutorial) :
 / [[Java](<8kyu/(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.go>)]
 <br>
-**[(8 kyu) Fake Binary](https://www.codewars.com/kata/559ac78160f0be07c200005a/)**
+**[(8 kyu) Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d/)**
 ([Description](<8kyu/(8%20kyu)%20Fake%20Binary/(8%20kyu)%20Fake%20Binary.md>) +
 [JS Video Tutorial]) :
 [[JavaScript](<8kyu/(8%20kyu)%20Fake%20Binary/(8%20kyu)%20Fake%20Binary.js>)]
