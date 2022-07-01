@@ -382,7 +382,7 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 
-## 7 kyu Katas (23 -> 34)
+## 7 kyu Katas (24 -> 34)
 
 **[(7 kyu) Build a square](https://www.codewars.com/kata/build-a-square/)**
 ([Description](<7kyu/(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.md>) +
@@ -551,6 +551,17 @@ JS Video Tutorial) :
 / [[C#](<7kyu/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.cs>)]
 / [[Java](<7kyu/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.go>)]
+<br>
+**[(8 kyu) Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732/)** ([Description](<8kyu/(8%20kyu)%20Parts%20of%20a%20list/(8%20kyu)%20Parts%20of%20a%20list.md>) +
+JS Video Tutorial) :
+[[JavaScript](<8kyu/(8%20kyu)%20Parts%20of%20a%20list/(8%20kyu)%20Parts%20of%20a%20list.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
 <br>
 **[(7 kyu) Recursion #2 - Fibonacci](https://www.codewars.com/kata/recursion-number-2-fibonacci/)**
 ([Description](<7kyu/(7%20kyu)%20Recursion%202%20-%20Fibonacci/(7%20kyu)%20Recursion%202%20-%20Fibonacci.md>) +
