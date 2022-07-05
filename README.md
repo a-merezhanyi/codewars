@@ -382,7 +382,7 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 
-## 7 kyu Katas (24 -> 34)
+## 7 kyu Katas (25 -> 34)
 
 **[(7 kyu) Build a square](https://www.codewars.com/kata/build-a-square/)**
 ([Description](<7kyu/(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.md>) +
@@ -552,9 +552,9 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus/(7%20kyu)%20Number%20of%20People%20in%20the%20Bus.go>)]
 <br>
-**[(8 kyu) Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732/)** ([Description](<8kyu/(8%20kyu)%20Parts%20of%20a%20list/(8%20kyu)%20Parts%20of%20a%20list.md>) +
+**[(7 kyu) Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732/)** ([Description](<7kyu/(7%20kyu)%20Parts%20of%20a%20list/(7%20kyu)%20Parts%20of%20a%20list.md>) +
 JS Video Tutorial) :
-[[JavaScript](<8kyu/(8%20kyu)%20Parts%20of%20a%20list/(8%20kyu)%20Parts%20of%20a%20list.js>)]
+[[JavaScript](<7kyu/(7%20kyu)%20Parts%20of%20a%20list/(7%20kyu)%20Parts%20of%20a%20list.js>)]
 / [TypeScript]
 / [Python]
 / [Rust]
@@ -634,6 +634,17 @@ JS Video Tutorial) :
 / [[C#](<7kyu/(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.cs>)]
 / [[Java](<7kyu/(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.java>)]
 / [[Go](<7kyu/(7%20kyu)%20Sort%20Numbers/(7%20kyu)%20Sort%20Numbers.go>)]
+<br>
+**[(7 kyu) Speed Control](https://www.codewars.com/kata/56484848ba95170a8000004d/)** ([Description](<7kyu/(7%20kyu)%20Speed%20Control/(7%20kyu)%20Speed%20Control.md>) +
+JS Video Tutorial) :
+[[JavaScript](<7kyu/(7%20kyu)%20Speed%20Control/(7%20kyu)%20Speed%20Control.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
 <br>
 **[(7 kyu) String ends with](https://www.codewars.com/kata/string-ends-with/)**
 ([Description](<7kyu/(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.md>) +
