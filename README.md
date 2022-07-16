@@ -1002,6 +1002,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.cs>)]
 / [Java](<8kyu/(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.go>)]
+/ [[Dart](<8kyu/(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.dart>)]
 <br>
 **[(8 kyu) Name Shuffler](https://www.codewars.com/kata/559ac78160f0be07c200005a/)**
 ([Description](<8kyu/(8%20kyu)%20Name%20Shuffler/(8%20kyu)%20Name%20Shuffler.md>) +
