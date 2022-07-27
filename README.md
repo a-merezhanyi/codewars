@@ -711,7 +711,7 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Area%20or%20Perimeter/(8%20kyu)%20Area%20or%20Perimeter.js>)]
 / [TypeScript]
-/ [Python]
+/ [[Python](<8kyu/(8%20kyu)%20Area%20or%20Perimeter/(8%20kyu)%20Area%20or%20Perimeter.py>)]
 / [Rust]
 / [C++]
 / [C#]
