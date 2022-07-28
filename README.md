@@ -1297,7 +1297,7 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20What%20is%20between/(8%20kyu)%20What%20is%20between.js>)]
 / [[TypeScript](<8kyu/(8%20kyu)%20What%20is%20between/(8%20kyu)%20What%20is%20between.ts>)]
-/ [Python]
+/ [[Python](<8kyu/(8%20kyu)%20What%20is%20between/(8%20kyu)%20What%20is%20between.py>)]
 / [Rust]
 / [C++]
 / [C#]
