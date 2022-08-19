@@ -658,6 +658,18 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.java>)]
 / [[Go](<7kyu/(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.go>)]
 <br>
+
+**[(7 kyu) Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/)** ([Description](<7kyu/(7%20kyu)%20Sum%20of%20odd%20numbers/(7%20kyu)%20Sum%20of%20odd%20numbers.md>) +
+JS Video Tutorial) :
+[[JavaScript](<7kyu/(7%20kyu)%20Sum%20of%20odd%20numbers/(7%20kyu)%20Sum%20of%20odd%20numbers.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
+<br>
 **[(7 kyu) Thinkful - String Drills. Repeater](https://www.codewars.com/kata/thinkful-string-drills-repeater/)**
 ([Description](<7kyu/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater/(7%20kyu)%20Thinkful%20-%20String%20Drills.%20Repeater.md>) +
 JS Video Tutorial) :
