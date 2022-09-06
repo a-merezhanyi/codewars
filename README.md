@@ -11,7 +11,7 @@ _Please be noticed, that violating Codewars ToS might lead to the termitation of
 
 ## My solutions for Codewars' Kata https://www.codewars.com
 
-My Profile: https://www.codewars.com/users/e1r0nd
+My Profile: https://www.codewars.com/users/a.merezhanyi
 
 **A collection of TDD katas (simple programs) written in JavaScript, Python, Rust, and more to learn and have fun!**
 
