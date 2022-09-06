@@ -17,7 +17,7 @@ My Profile: https://www.codewars.com/users/e1r0nd
 
 ### JavaScript Video Tutorials playlist: [Codewars' katas solved](https://www.youtube.com/watch?v=cxNFuXg66sg&list=PLEZfD_aygfgJ2ov9PncOovO4Q3Ym82ctA)
 
-![](https://www.codewars.com/users/e1r0nd/badges/large)
+![](https://www.codewars.com/users/a-merezhanyi/badges/large)
 
 ## 3 kyu Katas (2 -> 5)
 
