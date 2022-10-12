@@ -11,13 +11,11 @@ _Please be noticed, that violating Codewars ToS might lead to the termitation of
 
 ## My solutions for Codewars' Kata https://www.codewars.com
 
-My Profile: https://www.codewars.com/users/e1r0nd
-
 **A collection of TDD katas (simple programs) written in JavaScript, Python, Rust, and more to learn and have fun!**
 
 ### JavaScript Video Tutorials playlist: [Codewars' katas solved](https://www.youtube.com/watch?v=cxNFuXg66sg&list=PLEZfD_aygfgJ2ov9PncOovO4Q3Ym82ctA)
 
-![](https://www.codewars.com/users/e1r0nd/badges/large)
+![](https://www.codewars.com/users/a.merezhanyi/badges/large)
 
 ## 3 kyu Katas (2 -> 5)
 
