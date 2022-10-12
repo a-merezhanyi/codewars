@@ -382,8 +382,20 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 
-## 7 kyu Katas (25 -> 34)
+## 7 kyu Katas (26 -> 34)
 
+**[(7 kyu) All Inclusive?](https://www.codewars.com/kata/5700c9acc1555755be00027e/)**
+([Description](<7kyu/(7%20kyu)%20All%20Inclusive/(7%20kyu)%20All%20Inclusive.md>) +
+[JS Video Tutorial]) :
+[[JavaScript](<7kyu/(7%20kyu)%20All%20Inclusive/(7%20kyu)%20All%20Inclusive.js>)]
+/ [TypeScript]
+/ [Python]
+/ [Rust]
+/ [C++]
+/ [C#]
+/ [Java]
+/ [Go]
+<br>
 **[(7 kyu) Build a square](https://www.codewars.com/kata/build-a-square/)**
 ([Description](<7kyu/(7%20kyu)%20Build%20a%20square/(7%20kyu)%20Build%20a%20square.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=z7fY9svM6h4)) :
