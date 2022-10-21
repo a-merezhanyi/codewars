@@ -380,7 +380,7 @@ JS Video Tutorial) :
 / [Java]
 / [Go]
 
-## 7 kyu Katas (26 -> 34)
+## 7 kyu Katas (27 -> 34)
 
 **[(7 kyu) All Inclusive?](https://www.codewars.com/kata/5700c9acc1555755be00027e/)**
 ([Description](<7kyu/(7%20kyu)%20All%20Inclusive/(7%20kyu)%20All%20Inclusive.md>) +
@@ -668,7 +668,6 @@ JS Video Tutorial) :
 / [[Java](<7kyu/(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.java>)]
 / [[Go](<7kyu/(7%20kyu)%20String%20ends%20with/(7%20kyu)%20String%20ends%20with.go>)]
 <br>
-
 **[(7 kyu) Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/)** ([Description](<7kyu/(7%20kyu)%20Sum%20of%20odd%20numbers/(7%20kyu)%20Sum%20of%20odd%20numbers.md>) +
 JS Video Tutorial) :
 [[JavaScript](<7kyu/(7%20kyu)%20Sum%20of%20odd%20numbers/(7%20kyu)%20Sum%20of%20odd%20numbers.js>)]
