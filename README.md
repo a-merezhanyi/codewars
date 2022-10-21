@@ -1314,6 +1314,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [[Dart](<8kyu/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version.dart>)]
 <br>
 **[(8 kyu) What is between](https://www.codewars.com/kata/55ecd718f46fba02e5000029/)** ([Description](<8kyu/(8%20kyu)%20What%20is%20between/(8%20kyu)%20What%20is%20between.md>) +
 JS Video Tutorial) :
