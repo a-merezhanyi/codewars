@@ -716,6 +716,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe](http://www.codewars.com/kata/alternating-case-%3C-equals-%3E-alternating-case)** ([Description](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=ECzUJBc9fO0)) :
@@ -738,6 +739,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Basic subclasses - Adam and Eve](https://www.codewars.com/kata/547274e24481cfc469000416)**
 ([Description](<8kyu/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.md>) +
@@ -749,6 +751,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.java>)]
 / ~~[Go]~~
+/ [Dart]
 <br>
 **[(8 kyu) Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/)** ([Description](<8kyu/(8%20kyu)%20Beginner%20-%20Lost%20Without%20a%20Map/(8%20kyu)%20Beginner%20-%20Lost%20Without%20a%20Map.md>) +
 JS Video Tutorial) :
@@ -760,6 +763,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [[Go](<8kyu/(8%20kyu)%20Beginner%20-%20Lost%20Without%20a%20Map/(8%20kyu)%20Beginner%20-%20Lost%20Without%20a%20Map.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) Bin to Decimal](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334/)** ([Description](<8kyu/(8%20kyu)%20Bin%20or%20Decimal/(8%20kyu)%20Bin%20or%20Decimal.md>) +
 JS Video Tutorial) :
@@ -771,6 +775,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Century From Year](https://www.codewars.com/kata/century-from-year/)** ([Description](<8kyu/(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=r4FcQieqKFM)) :
@@ -782,6 +787,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Century%20From%20Year/(8%20kyu)%20Century%20From%20Year.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) Convert a Boolean to a String](https://www.codewars.com/kata/551b4501ac0447318f0009cd/)** ([Description](<8kyu/(8%20kyu)%20Convert%20a%20Boolean%20to%20a%20String/(8%20kyu)%20Convert%20a%20Boolean%20to%20a%20String.md>) +
 JS Video Tutorial) :
@@ -793,6 +799,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Convert number to reversed array of digits](https://www.codewars.com/kata/544675c6f971f7399a000e79/)** ([Description](<8kyu/(8%20kyu)%20Convert%20number%20to%20reversed%20array%20of%20digits/(8%20kyu)%20Convert%20number%20to%20reversed%20array%20of%20digits.md>) +
 JS Video Tutorial) :
@@ -804,6 +811,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79/)** ([Description](<8kyu/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!.md>) +
 JS Video Tutorial) :
@@ -815,6 +823,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/)** ([Description](<8kyu/(8%20kyu)%20Convert%20a%20string%20to%20an%20array/(8%20kuy)%20Convert%20a%20string%20to%20an%20array.md>) +
 JS Video Tutorial) :
@@ -826,6 +835,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Convert boolean values to strings 'Yes' or 'No'.](https://www.codewars.com/kata/544675c6f971f7399a000e79/)** ([Description](<8kyu/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.md>) +
 JS Video Tutorial) :
@@ -837,6 +847,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Count Odd Numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6/)** ([Description](<8kyu/(8%20kyu)%20Count%20Odd%20Numbers%20below%20n/(8%20kyu)%20Count%20Odd%20Numbers%20below%20n.md>) +
 JS Video Tutorial) :
@@ -848,6 +859,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Count of positives - sum of negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)** ([Description](<8kyu/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=Agva6gkNmok)) :
@@ -859,6 +871,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives/(8%20kyu)%20Count%20of%20positives%20-%20sum%20of%20negatives.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) Counting sheep](https://www.codewars.com/kata/counting-sheep-dot-dot-dot)**
 ([Description](<8kyu/(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.md>) +
@@ -871,6 +884,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Counting%20sheep/(8%20kyu)%20Counting%20sheep.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) Difference of Volumes of Cuboids](https://www.codewars.com/kata/58cb43f4256836ed95000f97)**
 ([Description](<8kyu/(8%20kyu)%20Difference%of%20Volumes%20of%20Cubiods/(8%20kyu)%20Difference%of%20Volumes%20of%20Cubiods.md>) +
@@ -883,6 +897,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion)**
 ([Description](<8kyu/(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.md>) +
@@ -895,6 +910,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.java>)]
 / [[Go](<8kyu/(8%20kyu)%20DNA%20to%20RNA%20Conversion/(8%20kyu)%20DNA%20to%20RNA%20Conversion.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) Even or Odd](https://www.codewars.com/kata/even-or-odd)**
 ([Description](<8kyu/(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.md>) +
@@ -907,6 +923,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d/)**
 ([Description](<8kyu/(8%20kyu)%20Fake%20Binary/(8%20kyu)%20Fake%20Binary.md>) +
@@ -919,6 +936,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Find the smallest integer in the array](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array)**
 ([Description](<8kyu/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.md>) +
@@ -931,6 +949,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) Function 3 - multiplying two numbers](https://www.codewars.com/kata/523b66342d0c301ae400003b/)** ([Description](<8kyu/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers.md>) +
 JS Video Tutorial) :
@@ -942,6 +961,7 @@ JS Video Tutorial) :
 / [C#]
 / [[Java](<8kyu/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) I love you, a little , a lot, passionately ... not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/)** ([Description](<8kyu/(8%20kyu)%20I%20love%20you%2C%20a%20little%2C%20a%20lot%2C%20passionately%2C%20not%20at%20all/(8%20kyu)%20I%20love%20you%2C%20a%20little%2C%20a%20lot%2C%20passionately%2C%20not%20at%20all.md>) +
 JS Video Tutorial) :
@@ -953,6 +973,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) If you can't sleep, just count sheep](https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep)**
 ([Description](<8kyu/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.md>) +
@@ -965,6 +986,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.java>)]
 / [[Go](<8kyu/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086)** ([Description](<8kyu/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y.md>) +
 JS Video Tutorial) :
@@ -976,6 +998,7 @@ JS Video Tutorial) :
 / [C#]
 / [[Java](<8kyu/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)** ([Description](<8kyu/(8%20kyu)%20Is%20the%20string%20uppercase/(8%20kyu)%20Is%20the%20string%20uppercase.md>) +
 JS Video Tutorial) :
@@ -987,6 +1010,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)**
 ([Description](<8kyu/(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.md>) +
@@ -999,6 +1023,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/)**
 ([Description](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.md>) +
@@ -1011,6 +1036,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Multiply](https://www.codewars.com/kata/multiply/)**
 ([Description](<8kyu/(8%20kyu)%20Multiply/(8%20kyu)%20Multiply.md>) +
@@ -1036,6 +1062,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Opposite number](https://www.codewars.com/kata/opposite-number)**
 ([Description](<8kyu/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.md>) +
@@ -1048,6 +1075,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083)**
 ([Description](<8kyu/(8%20kyu)%20Opposite%20Attract/(8%20kyu)%20Opposite%20Attract.md>) +
@@ -1060,6 +1088,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Parse nice int from char problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/)** ([Description](<8kyu/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem.md>) +
 JS Video Tutorial) :
@@ -1071,6 +1100,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Plural](https://www.codewars.com/kata/52ceafd1f235ce81aa00073a/)** ([Description](<8kyu/(8%20kyu)%20Plural/(8%20kyu)%20Plural.md>) +
 JS Video Tutorial) :
@@ -1082,6 +1112,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028/)** ([Description](<8kyu/(8%20kyu)%20Powers%20of%202/(8%20kyu)%20Powers%20of%202.md>) +
 JS Video Tutorial) :
@@ -1093,6 +1124,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)**
 ([Description](<8kyu/(8%20kyu)%20Remove%20First%20and%20Last%20Character/(8%20kyu)%20Remove%20First%20and%20Last%20Character.md>) +
@@ -1105,6 +1137,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Remove String Spaces](https://www.codewars.com/kata/remove-string-spaces)**
 ([Description](<8kyu/(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.md>) +
@@ -1117,6 +1150,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) Return Negative](https://www.codewars.com/kata/return-negative)**
 ([Description](<8kyu/(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.md>) +
@@ -1129,6 +1163,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4)**
 ([Description](<8kyu/(8%20kyu)%20Returning%20Strings/(8%20kyu)%20Returning%20Strings.md>) +
@@ -1141,6 +1176,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Reversed sequence](https://www.codewars.com/kata/reversed-sequence)**
 ([Description](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.md>) +
@@ -1153,6 +1189,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Reversed%20sequence/(8%20kyu)%20Reversed%20sequence.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) Reversed Strings](https://www.codewars.com/kata/reversed-strings)**
 ([Description](<8kyu/(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.md>) +
@@ -1165,6 +1202,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) Reversed Words](https://www.codewars.com/kata/reversed-words)**
 ([Description](<8kyu/(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.md>) +
@@ -1177,6 +1215,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) Rock Paper Scissors](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/)** ([Description](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.md>) +
 JS Video Tutorial) :
@@ -1188,6 +1227,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Sort and Star](https://www.codewars.com/kata/sort-and-star)**
 ([Description](<8kyu/(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.md>) +
@@ -1200,6 +1240,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) Square(n) Sum](https://www.codewars.com/kata/square-n-sum)**
 ([Description](<8kyu/(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.md>) +
@@ -1212,6 +1253,7 @@ JS Video Tutorial) :
 / [[С#](<8kyu/(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251/)** ([Description](<8kyu/(8%20kyu)%20String%20cleaning/(8%20kyu)%20String%20cleaning.md>) +
 JS Video Tutorial) :
@@ -1223,6 +1265,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) String repeat](https://www.codewars.com/kata/string-repeat)**
 ([Description](<8kyu/(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.md>) +
@@ -1235,6 +1278,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.java>)]
 / [[Go](<8kyu/(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/)** ([Description](<8kyu/(8%20kyu)%20Sum%20of%20positive/(8%20kyu)%20Sum%20of%20positive.md>) +
 JS Video Tutorial) :
@@ -1246,6 +1290,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) The Feast of Many Beasts](https://www.codewars.com/kata/the-feast-of-many-beasts/)**
 ([Description](<8kyu/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.md>) +
@@ -1258,6 +1303,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.java>)]
 / [[Go](<8kyu/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts/(8%20kyu)%20The%20Feast%20of%20Many%20Beasts.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) To square(root) or not to square(root)](https://www.codewars.com/kata/57f6ad55cca6e045d2000627/)** ([Description](<8kyu/(8%20kyu)%20To%20square%20or%20not/(8%20kyu)%20To%20square%20or%20not.md>) +
 JS Video Tutorial) :
@@ -1269,6 +1315,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131/)** ([Description](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.md>) +
 JS Video Tutorial) :
@@ -1280,6 +1327,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Twice as old](https://www.codewars.com/kata/5b853229cfde412a470000d0/)** ([Description](<8kyu/(8%20kyu)%20Twice%20as%20old/(8%20kyu)%20Twice%20as%20old.md>) +
 JS Video Tutorial) :
@@ -1291,6 +1339,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Volume of a Cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a/)** ([Description](<8kyu/(8%20kyu)%20Volume%20of%20a%20Cuboid/(8%20kyu)%20Volume%20of%20a%20Cuboid.md>) +
 JS Video Tutorial) :
@@ -1302,6 +1351,7 @@ JS Video Tutorial) :
 / [C#]
 / [[Java](<8kyu/(8%20kyu)%20Volume%20of%20a%20Cuboid/(8%20kyu)%20Volume%20of%20a%20Cuboid.java>)]
 / [Go]
+/ [Dart]
 <br>
 **[(8 kyu) Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212/)** ([Description](<8kyu/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version.md>) +
 JS Video Tutorial) :
@@ -1325,6 +1375,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20What%20is%20between/(8%20kyu)%20What%20is%20between.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20What%20is%20between/(8%20kyu)%20What%20is%20between.java>)]
 / [[Go](<8kyu/(8%20kyu)%20What%20is%20between/(8%20kyu)%20What%20is%20between.go>)]
+/ [Dart]
 <br>
 **[(8 kyu) You Can't Code Under Pressure #1](https://www.codewars.com/kata/53ee5429ba190077850011d4/)** ([Description](<8kyu/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201.md>) +
 JS Video Tutorial) :
@@ -1336,3 +1387,4 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201.java>)]
 / [[Go](<8kyu/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201.go>)]
+/ [Dart]
