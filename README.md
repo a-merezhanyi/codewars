@@ -1388,7 +1388,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [C#]
-/ [Java]
+/ [[Java](<8kyu/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version.go>)]
 / [[Dart](<8kyu/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version.dart>)]
 <br>
