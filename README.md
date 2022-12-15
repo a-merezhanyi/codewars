@@ -1377,7 +1377,7 @@ JS Video Tutorial) :
 / [[C++](<8kyu/(8%20kyu)%20Volume%20of%20a%20Cuboid/(8%20kyu)%20Volume%20of%20a%20Cuboid.cpp>)]
 / [C#]
 / [[Java](<8kyu/(8%20kyu)%20Volume%20of%20a%20Cuboid/(8%20kyu)%20Volume%20of%20a%20Cuboid.java>)]
-/ [Go]
+/ [[Go](<8kyu/(8%20kyu)%20Volume%20of%20a%20Cuboid/(8%20kyu)%20Volume%20of%20a%20Cuboid.go>)]
 / [Dart]
 <br>
 **[(8 kyu) Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212/)** ([Description](<8kyu/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version.md>) +
