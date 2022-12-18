@@ -1371,7 +1371,7 @@ JS Video Tutorial) :
 **[(8 kyu) Volume of a Cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a/)** ([Description](<8kyu/(8%20kyu)%20Volume%20of%20a%20Cuboid/(8%20kyu)%20Volume%20of%20a%20Cuboid.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Volume%20of%20a%20Cuboid/(8%20kyu)%20Volume%20of%20a%20Cuboid.js>)]
-/ [TypeScript]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Volume%20of%20a%20Cuboid/(8%20kyu)%20Volume%20of%20a%20Cuboid.ts>)]
 / [[Python](<8kyu/(8%20kyu)%20Volume%20of%20a%20Cuboid/(8%20kyu)%20Volume%20of%20a%20Cuboid.py>)]
 / [Rust]
 / [[C++](<8kyu/(8%20kyu)%20Volume%20of%20a%20Cuboid/(8%20kyu)%20Volume%20of%20a%20Cuboid.cpp>)]
