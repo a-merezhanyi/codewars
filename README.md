@@ -1362,7 +1362,7 @@ JS Video Tutorial) :
 / [[TypeScript](<8kyu/(8%20kyu)%20Twice%20as%20old/(8%20kyu)%20Twice%20as%20old.ts>)]
 / [[Python](<8kyu/(8%20kyu)%20Twice%20as%20old/(8%20kyu)%20Twice%20as%20old.py>)]
 / [Rust]
-/ [C++]
+/ [[C++](<8kyu/(8%20kyu)%20Twice%20as%20old/(8%20kyu)%20Twice%20as%20old.cpp>)]
 / [C#]
 / [Java]
 / [Go]
