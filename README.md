@@ -1365,7 +1365,7 @@ JS Video Tutorial) :
 / [[C++](<8kyu/(8%20kyu)%20Twice%20as%20old/(8%20kyu)%20Twice%20as%20old.cpp>)]
 / [[C#](<8kyu/(8%20kyu)%20Twice%20as%20old/(8%20kyu)%20Twice%20as%20old.cs>)]
 / [Java]
-/ [Go]
+/ [[Go](<8kyu/(8%20kyu)%20Twice%20as%20old/(8%20kyu)%20Twice%20as%20old.go>)]
 / [Dart]
 <br>
 **[(8 kyu) Volume of a Cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a/)** ([Description](<8kyu/(8%20kyu)%20Volume%20of%20a%20Cuboid/(8%20kyu)%20Volume%20of%20a%20Cuboid.md>) +
