@@ -1364,7 +1364,7 @@ JS Video Tutorial) :
 / [Rust]
 / [[C++](<8kyu/(8%20kyu)%20Twice%20as%20old/(8%20kyu)%20Twice%20as%20old.cpp>)]
 / [[C#](<8kyu/(8%20kyu)%20Twice%20as%20old/(8%20kyu)%20Twice%20as%20old.cs>)]
-/ [Java]
+/ [[Java](<8kyu/(8%20kyu)%20Twice%20as%20old/(8%20kyu)%20Twice%20as%20old.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Twice%20as%20old/(8%20kyu)%20Twice%20as%20old.go>)]
 / [Dart]
 <br>
