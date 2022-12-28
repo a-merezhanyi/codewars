@@ -1347,7 +1347,7 @@ JS Video Tutorial) :
 **[(8 kyu) Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131/)** ([Description](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.js>)]
-/ [TypeScript]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.ts>)]
 / [Python]
 / [Rust]
 / [C++]
