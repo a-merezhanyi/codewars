@@ -1349,7 +1349,7 @@ JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.js>)]
 / [[TypeScript](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.ts>)]
 / [[Python](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.py>)]
-/ [Rust]
+/ [[Rust](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.rs>)]
 / [C++]
 / [C#]
 / [Java]
