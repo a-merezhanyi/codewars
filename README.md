@@ -1351,7 +1351,7 @@ JS Video Tutorial) :
 / [[Python](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.py>)]
 / [[Rust](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.rs>)]
 / [C++]
-/ [C#]
+/ [[C#](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.cs>)]
 / [Java]
 / [[Go](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.go>)]
 / [Dart]
