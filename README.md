@@ -1352,7 +1352,7 @@ JS Video Tutorial) :
 / [[Rust](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.rs>)]
 / [C++]
 / [[C#](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.cs>)]
-/ [Java]
+/ [[Java](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.go>)]
 / [Dart]
 <br>
