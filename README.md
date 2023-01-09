@@ -1335,7 +1335,7 @@ JS Video Tutorial) :
 **[(8 kyu) To square(root) or not to square(root)](https://www.codewars.com/kata/57f6ad55cca6e045d2000627/)** ([Description](<8kyu/(8%20kyu)%20To%20square%20or%20not/(8%20kyu)%20To%20square%20or%20not.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20To%20square%20or%20not/(8%20kyu)%20To%20square%20or%20not.js>)]
-/ [TypeScript]
+/ [[TypeScript](<8kyu/(8%20kyu)%20To%20square%20or%20not/(8%20kyu)%20To%20square%20or%20not.ts>)]
 / [Python]
 / [Rust]
 / [C++]
