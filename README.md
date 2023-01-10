@@ -1339,7 +1339,7 @@ JS Video Tutorial) :
 / [Python]
 / [Rust]
 / [C++]
-/ [C#]
+/ [[C#](<8kyu/(8%20kyu)%20To%20square%20or%20not/(8%20kyu)%20To%20square%20or%20not.cs>)]
 / [Java]
 / [Go]
 / [Dart]
