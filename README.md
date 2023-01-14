@@ -1341,7 +1341,7 @@ JS Video Tutorial) :
 / [C++]
 / [[C#](<8kyu/(8%20kyu)%20To%20square%20or%20not/(8%20kyu)%20To%20square%20or%20not.cs>)]
 / [Java]
-/ [Go]
+/ [[Go](<8kyu/(8%20kyu)%20To%20square%20or%20not/(8%20kyu)%20To%20square%20or%20not.go>)]
 / [Dart]
 <br>
 **[(8 kyu) Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131/)** ([Description](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.md>) +
