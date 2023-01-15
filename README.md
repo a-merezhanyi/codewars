@@ -1340,7 +1340,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [[C#](<8kyu/(8%20kyu)%20To%20square%20or%20not/(8%20kyu)%20To%20square%20or%20not.cs>)]
-/ [Java]
+/ [[Java](<8kyu/(8%20kyu)%20To%20square%20or%20not/(8%20kyu)%20To%20square%20or%20not.java>)]
 / [[Go](<8kyu/(8%20kyu)%20To%20square%20or%20not/(8%20kyu)%20To%20square%20or%20not.go>)]
 / [Dart]
 <br>
