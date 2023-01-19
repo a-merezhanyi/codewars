@@ -1336,7 +1336,7 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20To%20square%20or%20not/(8%20kyu)%20To%20square%20or%20not.js>)]
 / [[TypeScript](<8kyu/(8%20kyu)%20To%20square%20or%20not/(8%20kyu)%20To%20square%20or%20not.ts>)]
-/ [Python]
+/ [[Python](<8kyu/(8%20kyu)%20To%20square%20or%20not/(8%20kyu)%20To%20square%20or%20not.py>)]
 / [Rust]
 / [C++]
 / [[C#](<8kyu/(8%20kyu)%20To%20square%20or%20not/(8%20kyu)%20To%20square%20or%20not.cs>)]
