@@ -1310,7 +1310,7 @@ JS Video Tutorial) :
 **[(8 kyu) Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/)** ([Description](<8kyu/(8%20kyu)%20Sum%20of%20positive/(8%20kyu)%20Sum%20of%20positive.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Sum%20of%20positive/(8%20kyu)%20Sum%20of%20positive.js>)]
-/ [TypeScript]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Sum%20of%20positive/(8%20kyu)%20Sum%20of%20positive.ts>)]
 / [Python]
 / [Rust]
 / [C++]
