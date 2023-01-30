@@ -1313,7 +1313,7 @@ JS Video Tutorial) :
 / [[TypeScript](<8kyu/(8%20kyu)%20Sum%20of%20positive/(8%20kyu)%20Sum%20of%20positive.ts>)]
 / [Python]
 / [Rust]
-/ [C++]
+/ [[C++](<8kyu/(8%20kyu)%20Sum%20of%20positive/(8%20kyu)%20Sum%20of%20positive.cs>)]
 / [C#]
 / [Java]
 / [Go]
