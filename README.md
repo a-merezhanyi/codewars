@@ -1316,7 +1316,7 @@ JS Video Tutorial) :
 / [[C++](<8kyu/(8%20kyu)%20Sum%20of%20positive/(8%20kyu)%20Sum%20of%20positive.cs>)]
 / [C#]
 / [[Java](<8kyu/(8%20kyu)%20Sum%20of%20positive/(8%20kyu)%20Sum%20of%20positive.java>)]
-/ [Go]
+/ [[Go](<8kyu/(8%20kyu)%20Sum%20of%20positive/(8%20kyu)%20Sum%20of%20positive.go>)]
 / [[Dart](<8kyu/(8%20kyu)%20Sum%20of%20positive/(8%20kyu)%20Sum%20of%20positive.dart>)]
 <br>
 **[(8 kyu) The Feast of Many Beasts](https://www.codewars.com/kata/the-feast-of-many-beasts/)**
