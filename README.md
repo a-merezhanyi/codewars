@@ -1311,7 +1311,7 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Sum%20of%20positive/(8%20kyu)%20Sum%20of%20positive.js>)]
 / [[TypeScript](<8kyu/(8%20kyu)%20Sum%20of%20positive/(8%20kyu)%20Sum%20of%20positive.ts>)]
-/ [Python]
+/ [[Python](<8kyu/(8%20kyu)%20Sum%20of%20positive/(8%20kyu)%20Sum%20of%20positive.py>)]
 / [Rust]
 / [[C++](<8kyu/(8%20kyu)%20Sum%20of%20positive/(8%20kyu)%20Sum%20of%20positive.cpp>)]
 / [[C#](<8kyu/(8%20kyu)%20Sum%20of%20positive/(8%20kyu)%20Sum%20of%20positive.cs>)]
