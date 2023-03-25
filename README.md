@@ -1305,7 +1305,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.java>)]
 / [[Go](<8kyu/(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.go>)]
-/ [Dart]
+/ [[Dart](<8kyu/(8%20kyu)%20String%20repeat/(8%20kyu)%20String%20repeat.dart>)]
 <br>
 **[(8 kyu) Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/)** ([Description](<8kyu/(8%20kyu)%20Sum%20of%20positive/(8%20kyu)%20Sum%20of%20positive.md>) +
 JS Video Tutorial) :
