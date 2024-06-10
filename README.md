@@ -765,7 +765,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [C#]
-/ [Java]
+[[Java](<8kyu/(8%20kyu)%20Area%20or%20Perimeter/(8%20kyu)%20Area%20or%20Perimeter.java>)]
 / [Go]
 / [Dart]
 <br>
