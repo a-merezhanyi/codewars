@@ -743,7 +743,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.go>)]
-/ [Dart]
+/ [[Dart](<8kyu/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name/(8%20kyu)%20Abbreviate%20a%20Two%20Word%20Name.dart>)]
 <br>
 **[(8 kyu) altERnaTIng cAsE = ALTerNAtiNG CaSe](http://www.codewars.com/kata/alternating-case-%3C-equals-%3E-alternating-case)** ([Description](<8kyu/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe/(8%20kyu)%20altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.md>) +
 [JS Video Tutorial](https://www.youtube.com/watch?v=ECzUJBc9fO0)) :
