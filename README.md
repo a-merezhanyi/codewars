@@ -760,14 +760,14 @@ JS Video Tutorial) :
 **[(8 kyu) Area or Perimeter](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/)** ([Description](<8kyu/(8%20kyu)%20Area%20or%20Perimeter/(8%20kyu)%20Area%20or%20Perimeter.md>) +
 JS Video Tutorial) :
 [JavaScript](<8kyu/(8%20kyu)%20Area%20or%20Perimeter/(8%20kyu)%20Area%20or%20Perimeter.js>)
-/ TypeScript
+/ [TypeScript](<8kyu/(8%20kyu)%20Area%20or%20Perimeter/(8%20kyu)%20Area%20or%20Perimeter.ts>)
 / [Python](<8kyu/(8%20kyu)%20Area%20or%20Perimeter/(8%20kyu)%20Area%20or%20Perimeter.py>)
 / Rust
 / C++
 / C#
 [Java](<8kyu/(8%20kyu)%20Area%20or%20Perimeter/(8%20kyu)%20Area%20or%20Perimeter.java>)
 / Go
-/ [Dart](<8kyu/(8%20kyu)%20Area%20or%20Perimeter/(8%20kyu)%20Area%20or%20Perimeter.dart>)]
+/ [Dart](<8kyu/(8%20kyu)%20Area%20or%20Perimeter/(8%20kyu)%20Area%20or%20Perimeter.dart>)
 <br>
 **[(8 kyu) Basic subclasses - Adam and Eve](https://www.codewars.com/kata/547274e24481cfc469000416)**
 ([Description](<8kyu/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve/(8%20kyu)%20Basic%20subclasses%20-%20Adam%20and%20Eve.md>) +
