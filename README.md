@@ -1386,7 +1386,7 @@ JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version.js>)]
 / [[TypeScript](<8kyu/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version.ts>)]
 / [[Python](<8kyu/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version.py>)]
-/ [Rust]
+/ [[Rust](<8kyu/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version.rs>)]
 / [C++]
 / [[C#](<8kyu/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version/(8%20kyu)%20Well%20of%20Ideas%20-%20Easy%20Version.java>)]
