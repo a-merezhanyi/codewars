@@ -1355,7 +1355,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.go>)]
-/ [Dart]
+/ [[Dart](<8kyu/(8%20kyu)%20Total%20amount%20of%20points/(8%20kyu)%20Total%20amount%20of%20points.dart>)]
 <br>
 **[(8 kyu) Twice as old](https://www.codewars.com/kata/5b853229cfde412a470000d0/)** ([Description](<8kyu/(8%20kyu)%20Twice%20as%20old/(8%20kyu)%20Twice%20as%20old.md>) +
 JS Video Tutorial) :
