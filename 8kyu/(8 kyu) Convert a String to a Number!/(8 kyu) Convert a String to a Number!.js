@@ -18,13 +18,13 @@ function stringToNumber(str) {
 function stringToNumber(str) {
     let res = 0;
     let isPositive = 1;
-    
+
     for (let i = 0; i < str.length; i++) {
         i === 0 && str[i] === "-"
             ? isPositive = -1
             : res += str[i] * (Math.pow(10, str.length - i - 1));
     }
-  
+
     return res * isPositive;
 }
 
@@ -32,4 +32,4 @@ function stringToNumber(str) {
 const stringToNumber = str => Number(str);
 
 // 4 Coding golf
-stringToNumber = Number;
+stringToNumber=Number;
