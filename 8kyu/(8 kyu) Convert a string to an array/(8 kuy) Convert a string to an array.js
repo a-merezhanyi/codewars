@@ -5,7 +5,7 @@ function stringToArray(string) {
 
     for (let i = 0; i < string.length; i++) {
         const letter = string[i];
-        
+
         if (letter == " ") {
         res.push(word);
         word = '';
@@ -25,4 +25,4 @@ function stringToArray(string) {
 }
 
 // 3 Coding golf
-const stringToArray = (string) => string.split` `
+const stringToArray=s=>s.split` `

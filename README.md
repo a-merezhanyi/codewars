@@ -844,7 +844,7 @@ JS Video Tutorial) :
 **[(8 kyu) Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79/)** ([Description](<8kyu/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!.js>)]
-/ [TypeScript]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!/(8%20kyu)%20Convert%20a%20String%20to%20a%20Number!.ts>)]
 / [Python]
 / [Rust]
 / [C++]
@@ -856,7 +856,7 @@ JS Video Tutorial) :
 **[(8 kyu) Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/)** ([Description](<8kyu/(8%20kyu)%20Convert%20a%20string%20to%20an%20array/(8%20kuy)%20Convert%20a%20string%20to%20an%20array.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Convert%20a%20string%20to%20an%20array/(8%20kuy)%20Convert%20a%20string%20to%20an%20array.js>)]
-/ [TypeScript]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Convert%20a%20string%20to%20an%20array/(8%20kuy)%20Convert%20a%20string%20to%20an%20array.ts>)]
 / [Python]
 / [Rust]
 / [C++]
