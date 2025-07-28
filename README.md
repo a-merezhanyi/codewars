@@ -865,10 +865,10 @@ JS Video Tutorial) :
 / [Go]
 / [Dart]
 <br>
-**[(8 kyu) Convert boolean values to strings 'Yes' or 'No'.](https://www.codewars.com/kata/544675c6f971f7399a000e79/)** ([Description](<8kyu/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.md>) +
+**[(8 kyu) Convert boolean values to strings 'Yes' or 'No'.](https://www.codewars.com/kata/53369039d7ab3ac506000467/)** ([Description](<8kyu/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.js>)]
-/ [TypeScript]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No/(8%20kyu)%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.ts>)]
 / [Python]
 / [Rust]
 / [C++]
