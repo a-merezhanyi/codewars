@@ -1287,7 +1287,7 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20String%20cleaning/(8%20kyu)%20String%20cleaning.js>)]
 / [TypeScript]
-/ [Python]
+/ [[Python](<8kyu/(8%20kyu)%20String%20cleaning/(8%20kyu)%20String%20cleaning.py>)]
 / [Rust]
 / [C++]
 / [C#]
