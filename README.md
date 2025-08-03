@@ -1248,14 +1248,14 @@ JS Video Tutorial) :
 **[(8 kyu) Rock Paper Scissors](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/)** ([Description](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.js>)]
-/ [TypeScript]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.ts>)]
 / [Python]
 / [Rust]
 / [C++]
 / [C#]
 / [Java]
 / [Go]
-/ [Dart]
+/ [[Dart](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.dart>)]
 <br>
 **[(8 kyu) Sort and Star](https://www.codewars.com/kata/sort-and-star)**
 ([Description](<8kyu/(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.md>) +
