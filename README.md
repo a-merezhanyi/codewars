@@ -1252,9 +1252,9 @@ JS Video Tutorial) :
 / [Python]
 / [Rust]
 / [[C++](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.cpp>)]
-/ [C#]
+/ [[C#](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.cs>)]
 / [Java]
-/ [Go]
+/ [[Go](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.go>)]
 / [[Dart](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.dart>)]
 <br>
 **[(8 kyu) Sort and Star](https://www.codewars.com/kata/sort-and-star)**
