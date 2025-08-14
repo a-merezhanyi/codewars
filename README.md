@@ -1250,7 +1250,7 @@ JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.js>)]
 / [[TypeScript](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.ts>)]
 / [[Python](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.py>)]
-/ [Rust]
+/ [[Rust]<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.rs>)]
 / [[C++](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.cpp>)]
 / [[C#](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.java>)]
