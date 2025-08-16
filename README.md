@@ -1268,7 +1268,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.go>)]
-/ [Dart]
+/ [[Dart](<8kyu/(8%20kyu)%20Sort%20and%20Star/(8%20kyu)%20Sort%20and%20Star.dart>)]
 <br>
 **[(8 kyu) Square(n) Sum](https://www.codewars.com/kata/square-n-sum)**
 ([Description](<8kyu/(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.md>) +
