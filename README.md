@@ -1281,7 +1281,7 @@ JS Video Tutorial) :
 / [[С#](<8kyu/(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.go>)]
-/ [Dart]
+/ [[Dart](<8kyu/(8%20kyu)%20Square(n)%20Sum/(8%20kyu)%20Square(n)%20Sum.dart>)]
 <br>
 **[(8 kyu) String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251/)** ([Description](<8kyu/(8%20kyu)%20String%20cleaning/(8%20kyu)%20String%20cleaning.md>) +
 JS Video Tutorial) :
