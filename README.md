@@ -1201,7 +1201,7 @@ JS Video Tutorial) :
 / [Python]
 / [Rust]
 / [[C++](<8kyu/(8%20kyu)%20Returning%20Strings/(8%20kyu)%20Returning%20Strings.cpp>)]
-/ [C#]
+/ [[C#](<8kyu/(8%20kyu)%20Returning%20Strings/(8%20kyu)%20Returning%20Strings.cs>)]
 / [Java]
 / [Go]
 / [[Dart](<8kyu/(8%20kyu)%20Returning%20Strings/(8%20kyu)%20Returning%20Strings.dart>)]
