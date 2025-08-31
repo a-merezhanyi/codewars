@@ -1203,7 +1203,7 @@ JS Video Tutorial) :
 / [[C++](<8kyu/(8%20kyu)%20Returning%20Strings/(8%20kyu)%20Returning%20Strings.cpp>)]
 / [[C#](<8kyu/(8%20kyu)%20Returning%20Strings/(8%20kyu)%20Returning%20Strings.cs>)]
 / [Java]
-/ [Go]
+/ [[Go](<8kyu/(8%20kyu)%20Returning%20Strings/(8%20kyu)%20Returning%20Strings.go>)]
 / [[Dart](<8kyu/(8%20kyu)%20Returning%20Strings/(8%20kyu)%20Returning%20Strings.dart>)]
 <br>
 **[(8 kyu) Reversed sequence](https://www.codewars.com/kata/reversed-sequence)**
