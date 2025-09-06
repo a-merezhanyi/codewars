@@ -1198,7 +1198,7 @@ JS Video Tutorial) :
 [JS Video Tutorial]) :
 [[JavaScript](<8kyu/(8%20kyu)%20Returning%20Strings/(8%20kyu)%20Returning%20Strings.js>)]
 / [[TypeScript](<8kyu/(8%20kyu)%20Returning%20Strings/(8%20kyu)%20Returning%20Strings.ts>)]
-/ [Python]
+/ [[Python](<8kyu/(8%20kyu)%20Returning%20Strings/(8%20kyu)%20Returning%20Strings.py>)]
 / [Rust]
 / [[C++](<8kyu/(8%20kyu)%20Returning%20Strings/(8%20kyu)%20Returning%20Strings.cpp>)]
 / [[C#](<8kyu/(8%20kyu)%20Returning%20Strings/(8%20kyu)%20Returning%20Strings.cs>)]
