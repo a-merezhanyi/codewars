@@ -1178,7 +1178,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.go>)]
-/ [Dart]
+/ [[Dart](<8kyu/(8%20kyu)%20Remove%20String%20Spaces/(8%20kyu)%20Remove%20String%20Spaces.dart>)]
 <br>
 **[(8 kyu) Return Negative](https://www.codewars.com/kata/return-negative)**
 ([Description](<8kyu/(8%20kyu)%20Return%20Negative/(8%20kyu)%20Return%20Negative.md>) +
