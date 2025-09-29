@@ -1158,10 +1158,10 @@ JS Video Tutorial) :
 ([Description](<8kyu/(8%20kyu)%20Remove%20First%20and%20Last%20Character/(8%20kyu)%20Remove%20First%20and%20Last%20Character.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Remove%20First%20and%20Last%20Character/(8%20kyu)%20Remove%20First%20and%20Last%20Character.js>)]
-/ [TypeScript]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Remove%20First%20and%20Last%20Character/(8%20kyu)%20Remove%20First%20and%20Last%20Character.ts>)]
 / [Python]
 / [Rust]
-/ [C++]
+/ [[C++](<8kyu/(8%20kyu)%20Remove%20First%20and%20Last%20Character/(8%20kyu)%20Remove%20First%20and%20Last%20Character.cpp>)]
 / [C#]
 / [Java]
 / [Go]
