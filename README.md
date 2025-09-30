@@ -1162,7 +1162,7 @@ JS Video Tutorial) :
 / [Python]
 / [Rust]
 / [[C++](<8kyu/(8%20kyu)%20Remove%20First%20and%20Last%20Character/(8%20kyu)%20Remove%20First%20and%20Last%20Character.cpp>)]
-/ [C#]
+/ [[C#](<8kyu/(8%20kyu)%20Remove%20First%20and%20Last%20Character/(8%20kyu)%20Remove%20First%20and%20Last%20Character.cs>)]
 / [Java]
 / [Go]
 / [Dart]
