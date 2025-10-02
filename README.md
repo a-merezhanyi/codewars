@@ -1163,7 +1163,7 @@ JS Video Tutorial) :
 / [Rust]
 / [[C++](<8kyu/(8%20kyu)%20Remove%20First%20and%20Last%20Character/(8%20kyu)%20Remove%20First%20and%20Last%20Character.cpp>)]
 / [[C#](<8kyu/(8%20kyu)%20Remove%20First%20and%20Last%20Character/(8%20kyu)%20Remove%20First%20and%20Last%20Character.cs>)]
-/ [Java]
+/ [[Java](<8kyu/(8%20kyu)%20Remove%20First%20and%20Last%20Character/(8%20kyu)%20Remove%20First%20and%20Last%20Character.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Remove%20First%20and%20Last%20Character/(8%20kyu)%20Remove%20First%20and%20Last%20Character.go>)]
 / [Dart]
 <br>
