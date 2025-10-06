@@ -1145,7 +1145,7 @@ JS Video Tutorial) :
 **[(8 kyu) Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028/)** ([Description](<8kyu/(8%20kyu)%20Powers%20of%202/(8%20kyu)%20Powers%20of%202.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Powers%20of%202/(8%20kyu)%20Powers%20of%202.js>)]
-/ [TypeScript]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Powers%20of%202/(8%20kyu)%20Powers%20of%202.ts>)]
 / [Python]
 / [Rust]
 / [C++]
