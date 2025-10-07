@@ -1146,7 +1146,7 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Powers%20of%202/(8%20kyu)%20Powers%20of%202.js>)]
 / [[TypeScript](<8kyu/(8%20kyu)%20Powers%20of%202/(8%20kyu)%20Powers%20of%202.ts>)]
-/ [Python]
+/ [[Python](<8kyu/(8%20kyu)%20Powers%20of%202/(8%20kyu)%20Powers%20of%202.py>)]
 / [Rust]
 / [C++]
 / [C#]
