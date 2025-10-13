@@ -1150,7 +1150,7 @@ JS Video Tutorial) :
 / [[Rust](<8kyu/(8%20kyu)%20Powers%20of%202/(8%20kyu)%20Powers%20of%202.rs>)]
 / [[C++](<8kyu/(8%20kyu)%20Powers%20of%202/(8%20kyu)%20Powers%20of%202.cpp>)]
 / [[C#](<8kyu/(8%20kyu)%20Powers%20of%202/(8%20kyu)%20Powers%20of%202.cs>)]
-/ [Java]
+/ [[Java](<8kyu/(8%20kyu)%20Powers%20of%202/(8%20kyu)%20Powers%20of%202.java>)]
 / [Go]
 / [Dart]
 <br>
