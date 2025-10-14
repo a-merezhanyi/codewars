@@ -1151,7 +1151,7 @@ JS Video Tutorial) :
 / [[C++](<8kyu/(8%20kyu)%20Powers%20of%202/(8%20kyu)%20Powers%20of%202.cpp>)]
 / [[C#](<8kyu/(8%20kyu)%20Powers%20of%202/(8%20kyu)%20Powers%20of%202.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Powers%20of%202/(8%20kyu)%20Powers%20of%202.java>)]
-/ [Go]
+/ [[Go](<8kyu/(8%20kyu)%20Powers%20of%202/(8%20kyu)%20Powers%20of%202.go>)]
 / [Dart]
 <br>
 **[(8 kyu) Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)**
