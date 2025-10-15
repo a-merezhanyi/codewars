@@ -1133,7 +1133,7 @@ JS Video Tutorial) :
 **[(8 kyu) Plural](https://www.codewars.com/kata/52ceafd1f235ce81aa00073a/)** ([Description](<8kyu/(8%20kyu)%20Plural/(8%20kyu)%20Plural.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Plural/(8%20kyu)%20Plural.js>)]
-/ [TypeScript]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Plural/(8%20kyu)%20Plural.ts>)]
 / [Python]
 / [Rust]
 / [C++]
