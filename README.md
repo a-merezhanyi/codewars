@@ -1138,7 +1138,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [C#]
-/ [Java]
+/ [[Java](<8kyu/(8%20kyu)%20Plural/(8%20kyu)%20Plural.java>)]
 / [Go]
 / [Dart]
 <br>
