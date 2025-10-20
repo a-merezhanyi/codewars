@@ -1134,7 +1134,7 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Plural/(8%20kyu)%20Plural.js>)]
 / [[TypeScript](<8kyu/(8%20kyu)%20Plural/(8%20kyu)%20Plural.ts>)]
-/ [Python]
+/ [[Python](<8kyu/(8%20kyu)%20Plural/(8%20kyu)%20Plural.py>)]
 / [Rust]
 / [C++]
 / [C#]
