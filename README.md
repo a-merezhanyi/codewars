@@ -1137,7 +1137,7 @@ JS Video Tutorial) :
 / [[Python](<8kyu/(8%20kyu)%20Plural/(8%20kyu)%20Plural.py>)]
 / [[Rust](<8kyu/(8%20kyu)%20Plural/(8%20kyu)%20Plural.rs>)]
 / [C++]
-/ [C#]
+/ [[C#](<8kyu/(8%20kyu)%20Plural/(8%20kyu)%20Plural.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Plural/(8%20kyu)%20Plural.java>)]
 / [Go]
 / [Dart]
