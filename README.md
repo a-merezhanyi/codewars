@@ -1121,7 +1121,7 @@ JS Video Tutorial) :
 **[(8 kyu) Parse nice int from char problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/)** ([Description](<8kyu/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem.js>)]
-/ [TypeScript]
+/ [[TypeScript](<8kyu/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem.ts>)]
 / [Python]
 / [Rust]
 / [C++]
