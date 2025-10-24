@@ -1122,7 +1122,7 @@ JS Video Tutorial) :
 JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem.js>)]
 / [[TypeScript](<8kyu/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem.ts>)]
-/ [Python]
+/ [[Python](<8kyu/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem.py>)]
 / [Rust]
 / [C++]
 / [C#]
