@@ -1126,7 +1126,7 @@ JS Video Tutorial) :
 / [[Rust](<8kyu/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem.rs>)]
 / [[C++](<8kyu/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem.cpp>)]
 / [[C#](<8kyu/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem.cs>)]
-/ [Java]
+/ [[Java](<8kyu/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem.java>)]
 / [Go]
 / [Dart]
 <br>
