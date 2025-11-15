@@ -1114,7 +1114,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [C#]
-/ [Java]
+/ [[Java](<8kyu/(8%20kyu)%20Opposites%20Attract/(8%20kyu)%20Opposites%20Attract.java>)]
 / [Go]
 / [Dart]
 <br>
