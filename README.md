@@ -1113,7 +1113,7 @@ JS Video Tutorial) :
 / [Python]
 / [Rust]
 / [[C++](<8kyu/(8%20kyu)%20Opposite%20Attract/(8%20kyu)%20Opposite%20Attract.cpp>)]
-/ [C#]
+/ [[C#](<8kyu/(8%20kyu)%20Opposite%20Attract/(8%20kyu)%20Opposite%20Attract.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Opposites%20Attract/(8%20kyu)%20Opposites%20Attract.java>)]
 / [Go]
 / [Dart]
