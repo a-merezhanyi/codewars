@@ -1115,7 +1115,7 @@ JS Video Tutorial) :
 / [[C++](<8kyu/(8%20kyu)%20Opposite%20Attract/(8%20kyu)%20Opposite%20Attract.cpp>)]
 / [[C#](<8kyu/(8%20kyu)%20Opposite%20Attract/(8%20kyu)%20Opposite%20Attract.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Opposites%20Attract/(8%20kyu)%20Opposites%20Attract.java>)]
-/ [Go]
+/ [[Go](<8kyu/(8%20kyu)%20Opposite%20Attract/(8%20kyu)%20Opposite%20Attract.go>)]
 / [Dart]
 <br>
 **[(8 kyu) Parse nice int from char problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/)** ([Description](<8kyu/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem/(8%20kyu)%20Parse%20nice%20int%20from%20char%20problem.md>) +
