@@ -1111,7 +1111,7 @@ JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Opposite%20Attract/(8%20kyu)%20Opposite%20Attract.js>)]
 / [[TypeScript](<8kyu/(8%20kyu)%20Opposite%20Attract/(8%20kyu)%20Opposite%20Attract.ts>)]
 / [[Python](<8kyu/(8%20kyu)%20Opposite%20Attract/(8%20kyu)%20Opposite%20Attract.py>)]
-/ [Rust]
+/ [[Rust](<8kyu/(8%20kyu)%20Opposite%20Attract/(8%20kyu)%20Opposite%20Attract.rs>)]
 / [[C++](<8kyu/(8%20kyu)%20Opposite%20Attract/(8%20kyu)%20Opposite%20Attract.cpp>)]
 / [[C#](<8kyu/(8%20kyu)%20Opposite%20Attract/(8%20kyu)%20Opposite%20Attract.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Opposites%20Attract/(8%20kyu)%20Opposites%20Attract.java>)]
