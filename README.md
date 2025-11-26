@@ -1243,7 +1243,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.go>)]
-/ [Dart]
+/ [[Dart](<8kyu/(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.dart>)]
 <br>
 **[(8 kyu) Rock Paper Scissors](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/)** ([Description](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.md>) +
 JS Video Tutorial) :
