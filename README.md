@@ -1230,7 +1230,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.go>)]
-/ [Dart]
+/ [[Dart](<8kyu/(8%20kyu)%20Reversed%20Strings/(8%20kyu)%20Reversed%20Strings.dart>)]
 <br>
 **[(8 kyu) Reversed Words](https://www.codewars.com/kata/reversed-words)**
 ([Description](<8kyu/(8%20kyu)%20Reversed%20Words/(8%20kyu)%20Reversed%20Words.md>) +

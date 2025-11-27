@@ -19,4 +19,4 @@ String reverseWords(String str) {
 String reverseWords(String str) => str.split(' ').reversed.join(' ').trim();
 
 // 4 Coding golf
-reverseWords(var s) => s.split(' ').reversed.join(' ');
+reverseWords(s) => s.split(' ').reversed.join(' ');
