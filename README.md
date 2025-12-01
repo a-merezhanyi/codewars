@@ -1103,7 +1103,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.go>)]
-/ [Dart]
+/ [[Dart](<8kyu/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.dart>)]
 <br>
 **[(8 kyu) Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083)**
 ([Description](<8kyu/(8%20kyu)%20Opposite%20Attract/(8%20kyu)%20Opposite%20Attract.md>) +
