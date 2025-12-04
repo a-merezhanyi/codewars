@@ -1087,7 +1087,7 @@ JS Video Tutorial) :
 / [[Python](<8kyu/(8%20kyu)%20Name%20Shuffler/(8%20kyu)%20Name%20Shuffler.py>)]
 / [Rust]
 / [C++]
-/ [C#]
+/ [[C#](<8kyu/(8%20kyu)%20Name%20Shuffler/(8%20kyu)%20Name%20Shuffler.cs>)]
 / [Java]
 / [Go]
 / [Dart]
