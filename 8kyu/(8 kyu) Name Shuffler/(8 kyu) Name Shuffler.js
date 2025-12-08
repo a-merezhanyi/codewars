@@ -21,6 +21,6 @@ function nameShuffler(str) {
 // 4 Coding golf
 nameShuffler = str =>
     str
-        .split(" ")
+        .split` `
         .reverse()
-        .join(" ")
+        .join` `;

@@ -1085,7 +1085,7 @@ JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Name%20Shuffler/(8%20kyu)%20Name%20Shuffler.js>)]
 / [TypeScript]
 / [[Python](<8kyu/(8%20kyu)%20Name%20Shuffler/(8%20kyu)%20Name%20Shuffler.py>)]
-/ [Rust]
+/ [[Rust](<8kyu/(8%20kyu)%20Name%20Shuffler/(8%20kyu)%20Name%20Shuffler.rs>)]
 / [C++]
 / [[C#](<8kyu/(8%20kyu)%20Name%20Shuffler/(8%20kyu)%20Name%20Shuffler.cs>)]
 / [Java]
