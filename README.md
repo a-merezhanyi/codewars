@@ -1062,7 +1062,7 @@ JS Video Tutorial) :
 / [Rust]
 / [C++]
 / [C#]
-/ [Java]
+/ [[Java](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.java>)]
 / [Go]
 / [[Dart](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.dart>)]
 <br>
