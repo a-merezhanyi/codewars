@@ -1063,7 +1063,7 @@ JS Video Tutorial) :
 / [C++]
 / [C#]
 / [[Java](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.java>)]
-/ [Go]
+/ [[Go](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.go>)]
 / [[Dart](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.dart>)]
 <br>
 **[(8 kyu) Multiply](https://www.codewars.com/kata/multiply/)**
