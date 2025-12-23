@@ -28,3 +28,6 @@ import "strings"
 func MakeUpperCase(str string) string {
 	return strings.ToUpper(str)
 }
+
+// 4 Coding golf
+var MakeUpperCase = strings.ToUpper

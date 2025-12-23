@@ -1061,7 +1061,7 @@ JS Video Tutorial) :
 / [Python]
 / [Rust]
 / [C++]
-/ [C#]
+/ [[C#](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.java>)]
 / [[Go](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.go>)]
 / [[Dart](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.dart>)]
