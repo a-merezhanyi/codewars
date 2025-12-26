@@ -1058,7 +1058,7 @@ JS Video Tutorial) :
 [JS Video Tutorial]) :
 [[JavaScript](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.js>)]
 / [[TypeScript](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.ts>)]
-/ [Python]
+/ [[Python](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.py>)]
 / [Rust]
 / [C++]
 / [[C#](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.cs>)]
