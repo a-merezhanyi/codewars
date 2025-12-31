@@ -1059,7 +1059,7 @@ JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.js>)]
 / [[TypeScript](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.ts>)]
 / [[Python](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.py>)]
-/ [Rust]
+/ [[Rust](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.rs>)]
 / [C++]
 / [[C#](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20MakeUpperCase/(8%20kyu)%20MakeUpperCase.java>)]
