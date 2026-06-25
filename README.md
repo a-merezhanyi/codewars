@@ -1038,7 +1038,7 @@ JS Video Tutorial) :
 / [C#]
 / [Java]
 / [Go]
-/ [Dart]
+/ [[Dart](<8kyu/%20Is%20the%20string%20uppercase/(8%20kyu)%20Is%20the%20string%20uppercase.dart>)]
 <br>
 **[(8 kyu) Jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)**
 ([Description](<8kyu/(8%20kyu)%20Jenny's%20secret%20message/(8%20kyu)%20Jenny's%20secret%20message.md>) +
