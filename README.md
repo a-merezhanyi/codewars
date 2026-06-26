@@ -1026,7 +1026,7 @@ JS Video Tutorial) :
 / [C#]
 / [[Java](<8kyu/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y.go>)]
-/ [Dart]
+/ [[Dart](<8kyu/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y.dart>)]
 <br>
 **[(8 kyu) Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)** ([Description](<8kyu/(8%20kyu)%20Is%20the%20string%20uppercase/(8%20kyu)%20Is%20the%20string%20uppercase.md>) +
 JS Video Tutorial) :
