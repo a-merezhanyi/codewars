@@ -1014,7 +1014,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.java>)]
 / [[Go](<8kyu/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.go>)]
-/ [Dart]
+/ [[Dart]<8kyu/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.dart>)]
 <br>
 **[(8 kyu) Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086)** ([Description](<8kyu/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y.md>) +
 JS Video Tutorial) :
