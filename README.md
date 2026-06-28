@@ -977,7 +977,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.java>)]
 / [[Go](<8kyu/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.go>)]
-/ [Dart]
+/ [[Dart](<8kyu/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.dart>)]
 <br>
 **[(8 kyu) Function 3 - multiplying two numbers](https://www.codewars.com/kata/523b66342d0c301ae400003b/)** ([Description](<8kyu/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers/(8%20kyu)%20Function%203%20-%20multiplying%20two%20numbers.md>) +
 JS Video Tutorial) :
@@ -1014,7 +1014,7 @@ JS Video Tutorial) :
 / [[C#](<8kyu/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.java>)]
 / [[Go](<8kyu/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.go>)]
-/ [[Dart]<8kyu/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.dart>)]
+/ [[Dart](<8kyu/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep/(8%20kyu)%20If%20you%20can't%20sleep%2C%20just%20count%20sheep.dart>)]
 <br>
 **[(8 kyu) Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086)** ([Description](<8kyu/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y/(8%20kyu)%20Is%20n%20divisible%20by%20x%20and%20y.md>) +
 JS Video Tutorial) :
