@@ -1031,7 +1031,7 @@ JS Video Tutorial) :
 **[(8 kyu) Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)** ([Description](<8kyu/(8%20kyu)%20Is%20the%20string%20uppercase/(8%20kyu)%20Is%20the%20string%20uppercase.md>) +
 JS Video Tutorial) :
 [[JavaScript](<8kyu/%20Is%20the%20string%20uppercase/(8%20kyu)%20Is%20the%20string%20uppercase.js>)]
-/ [TypeScript]
+/ [[TypeScript](<8kyu/%20Is%20the%20string%20uppercase/(8%20kyu)%20Is%20the%20string%20uppercase.ts>)]
 / [Python]
 / [Rust]
 / [C++]
@@ -1250,7 +1250,7 @@ JS Video Tutorial) :
 [[JavaScript](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.js>)]
 / [[TypeScript](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.ts>)]
 / [[Python](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.py>)]
-/ [[Rust]<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.rs>)]
+/ [[Rust](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.rs>)]
 / [[C++](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.cpp>)]
 / [[C#](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.cs>)]
 / [[Java](<8kyu/(8%20kyu)%20Rock%20Paper%20Scissors/(8%20kyu)%20Rock%20Paper%20Scissors.java>)]
